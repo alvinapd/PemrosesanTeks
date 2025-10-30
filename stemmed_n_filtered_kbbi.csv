@@ -1,0 +1,1217 @@
+stemmed_tokens,clean_sangat
+"['layan', 'ramah', 'sangat', 'fasilitas', 'kamar', 'libur', 'lokasi', 'dekat', 'banyak', 'tempat', 'wisata']",['ramah']
+"['baru', 'kali', 'sangat', 'kecewa', 'layan', 'hotel', 'kota', 'mana', 'baru', 'kali', 'sangat', 'kecewa', 'minta', 'kunci', 'kamar', 'punya', 'suami', 'titip', 'susah', 'minta', 'tunggu', 'lama', 'curiga', 'sama', 'pihak', 'terlalu', 'buat', 'emosi']","['kecewa', 'kecewa', 'titip']"
+"['libur', 'senang', 'hotel', 'luar', 'biasa']",['senang']
+"['lokasi', 'mantap', 'dekat', 'bandara', 'tempat', 'tempat', 'wisata', 'kamar', 'sendiri', 'nyaman', 'fasilitas', 'lengkap', 'layan', 'baik', 'staf', 'ramah', 'ramah']","['nyaman', 'baik', 'ramah', 'ramah']"
+"['rekomendasi', 'inap', 'hotel', 'layan', 'bagus', 'ramah', 'makan', 'enak', 'sedang', 'susu', 'sangat', 'apresiasi', 'atas', 'layan', 'simpan', 'bagi', 'resepsionis']","['bagus', 'ramah', 'enak', 'apresiasi']"
+"['menu', 'lengkap', 'layan', 'sangat']",[]
+"['sarap', 'lengkap', 'enak', 'layan', 'bagus', 'mbak']","['enak', 'bagus']"
+"['layan', 'tempat', 'nyaman', 'sekali']",['nyaman']
+"['menu', 'variatif', 'enak', 'pilih', 'banyak']",['enak']
+"['ramah', 'tutup', 'kurang', 'kamar', 'gelap', 'gambar', 'semut', 'kurang', 'mesti']","['ramah', 'semut']"
+"['kamar', 'bersih', 'aman', 'nyaman', 'jadi', 'rekomendasi', 'buat', 'sama', 'istri', 'ramah']","['bersih', 'nyaman', 'ramah']"
+"['kamar', 'suasana', 'nyaman', 'bersih', 'bakal', 'sini', 'sarap', 'enak', 'enak', 'bingung']","['nyaman', 'bersih', 'enak', 'enak']"
+"['puas', 'banget', 'layan', 'hotel', 'mulai', 'fasilitas', 'hingga', 'makan', 'banget', 'buat', 'hotel', 'bintang', 'lima', 'harga', 'bilang', 'standar', 'suasana', 'hotel', 'nyaman', 'asri', 'bikin', 'jadi', 'betah']","['puas', 'nyaman']"
+"['inap', 'malam', 'kamar', 'tipe', 'beberapa', 'lantai', 'sempat', 'kamar', 'bersih', 'awat', 'dapat', 'pandang', 'jendela', 'pandang', 'tempat']",['bersih']
+"['nyaman', 'suasana', 'kamar', 'bersih', 'wangi']","['nyaman', 'bersih', 'wangi']"
+"['bagus', 'hotel', 'tengah', 'kota', 'hari', 'cukup', 'kesan', 'semua', 'fasilitas', 'tugas', 'kantor', 'kurang', 'entah', 'pernah', 'jadi', 'kait', 'aman']",['bagus']
+"['senang', 'inap', 'sini', 'makan', 'enak', 'enak', 'ruang', 'luas', 'awal', 'sedikit', 'betul', 'semua', 'sangat', 'ramah', 'utama', 'mbak', 'satu', 'siapa', 'kemarin', 'malam', 'langsung', 'hubung', 'teknisi', 'masalah']","['senang', 'enak', 'enak', 'ramah', 'teknisi']"
+"['tempat', 'nyaman', 'baik']","['nyaman', 'baik']"
+"['sarap', 'pagi', 'sangat', 'enak', 'banyak', 'menu', 'layan', 'atas', 'nama', 'sangat', 'bagus', 'semua', 'muas']","['enak', 'bagus']"
+"['makan', 'enak', 'tempat', 'nyaman', 'lokasi', 'dekat', 'kota', 'depan', 'jalan', 'raya', 'bagus', 'hari', 'hari', 'sesuai', 'harap', 'buat']","['enak', 'nyaman', 'bagus', 'sesuai']"
+"['makan', 'enak', 'paling', 'favorit', 'nasi', 'goreng', 'buat', 'anak']",['enak']
+"['belum', 'pernah', 'inap', 'banding', 'hotel', 'sisi', 'rasa', 'menu', 'kurang', 'alhasil', 'kali', 'ambil', 'menu', 'sama', 'gudeg', 'lebih']",['alhasil']
+"['suka', 'banget', 'makan', 'minum', 'enak', 'nyaman', 'kalau', 'menu', 'asal', 'gudeg', 'getuk', 'pecel']","['enak', 'nyaman']"
+"['sarap', 'menu', 'sangat', 'enak', 'layan', 'sangat', 'ramah']","['enak', 'ramah']"
+"['raya', 'tahun', 'baru', 'selalu', 'hotel', 'baru', 'alami', 'hotel', 'gala', 'bayar', 'orang', 'biasa', 'orang', 'kamar', 'sisa', 'baru', 'bayar', 'hotel']",[]
+"['proses', 'sangat', 'lambat', 'akhir', 'kamar', 'keburu', 'habis', 'layan', 'muas']",['keburu']
+"['seluruh', 'makan', 'krecek', 'terlalu', 'encer', 'hotel', 'bagus', 'strategis']","['krecek', 'encer', 'bagus']"
+"['hotel', 'nyaman', 'sekali', 'layan', 'sangat', 'muas', 'staf', 'ramah', 'kamar', 'bersih', 'rapi', 'lokasi', 'cukup', 'strategis', 'pinggir', 'jalan', 'mudah', 'akses', 'mana', 'tingkat', 'aman', 'hotel', 'sangat', 'baik', 'muas', 'sembarang', 'orang', 'masuk', 'kamar']","['nyaman', 'ramah', 'bersih', 'baik']"
+"['toilet', 'ruang', 'rapat', 'kunci', 'sempit', 'aroma', 'kurang', 'sedap']",[]
+"['lengkap', 'sangat', 'makan', 'enak', 'nama', 'lena', 'ramah', 'baik']","['enak', 'ramah', 'baik']"
+"['layan', 'ramah', 'variasi', 'sarap', 'lokasi', 'strategis']",['ramah']
+"['sarap', 'lengkap', 'semua', 'enak', 'lena']",['enak']
+"['menu', 'layan']",[]
+"['alhamdulillah', 'enak']",['enak']
+"['kamar', 'cukup', 'nyaman', 'layan', 'banget']",['nyaman']
+"['kamar', 'pertama', 'komplain', 'kamar', 'suara', 'dengung', 'kencang', 'tenang', 'akhir', 'besar', 'kamar', 'sisa', 'awal', 'masuk', 'kamar', 'konsep']","['dengung', 'kencang']"
+"['sarap', 'layan', 'mantap', 'kamar', 'bersih', 'ramah']","['bersih', 'ramah']"
+"['ruang', 'rapat', 'besar', 'kamar', 'nyaman', 'lokasi', 'strategis', 'dekat', 'tempat', 'seberang', 'jalan', 'demang', 'makan', 'minum', 'variasi', 'menu', 'tambah', 'terima', 'kasih']","['nyaman', 'seberang', 'demang']"
+"['moga', 'deposit', 'lebih', 'bagus']","['deposit', 'bagus']"
+"['sarap', 'pagi', 'lengkap', 'sangat', 'enak', 'layan', 'atas', 'nama', 'baik', 'ramah']","['enak', 'baik', 'ramah']"
+"['lokasi', 'strategis', 'dekat', 'rumah', 'sakit', 'kamar', 'ruang', 'banyak', 'rapat', 'variatif', 'enak', 'enak']","['enak', 'enak']"
+"['sarap', 'nikmat', 'jalan', 'kenang', 'masa', 'kuliah']",['kenang']
+"['makan', 'lumayan', 'banyak', 'kamar', 'sesuai', 'minta', 'konfirmasi', 'lebih', 'layan', 'layan', 'kurang']",['sesuai']
+"['muas', 'variatif', 'kamar', 'bersih', 'khusus', 'balkon', 'kalau', 'buka', 'pintu', 'resepsionis']",['bersih']
+"['hotel', 'lokasi', 'strategis', 'dekat', 'bandara', 'makan', 'enak', 'agam', 'fasilitas', 'hotel', 'cukup', 'lengkap', 'kolam', 'renang', 'lantai', 'atas', 'interior', 'ornamen', 'khas', 'ruang', 'luas', 'blower', 'berisik']","['enak', 'berisik']"
+"['menu', 'masakan', 'enak', 'layan', 'bagus', 'sempat', 'minta', 'layan', 'mbak', 'cepat']","['enak', 'bagus']"
+"['layan', 'muas', 'bersih', 'semua', 'kamar', 'ruang', 'selalu', 'jaga', 'cukup', 'tarik']",['bersih']
+"['inap', 'sangat', 'nyaman', 'alhamdulillah', 'lokasi', 'sangat', 'strategis', 'layan', 'cukup', 'ramah', 'keliling', 'hotel', 'banyak', 'tempat', 'makan', 'enak', 'seberang', 'hotel', 'bakmi', 'batas', 'kota', 'nyata', 'enak', 'makin', 'malam', 'makin', 'rame', 'unjung']","['nyaman', 'ramah', 'enak', 'seberang', 'bakmi', 'batas', 'enak']"
+"['sarap', 'pagi', 'sangat', 'enak', 'enak', 'layan', 'atas', 'nama', 'sangat', 'cepat', 'ramah']","['enak', 'enak', 'ramah']"
+"['fasilitas', 'kamar', 'hotel', 'lengkap', 'kendala', 'parkir', 'pada', 'makan', 'lengkap', 'banyak', 'pilih', 'mulai', 'menu', 'modern', 'tradisional', 'minum', 'lengkap']",[]
+"['bagus', 'kamar', 'bersih', 'paling', 'enak']","['bagus', 'bersih', 'enak']"
+"['sarap', 'mantap']",[]
+"['iftar', 'sini', 'seru', 'tempat', 'nyaman', 'makan', 'enak', 'layan', 'sangat', 'baik']","['nyaman', 'enak', 'baik']"
+"['hotel', 'kamar', 'bagus', 'nyaman', 'bersih', 'sarap', 'sangat', 'lengkap', 'mulai', 'makan', 'banyak', 'sekali', 'sedia', 'aneka']","['bagus', 'nyaman', 'bersih']"
+"['sarap', 'enak', 'telur', 'baik', 'buat', 'simpan', 'orang', 'tunggu', 'buat', 'telur', 'lama']","['enak', 'baik']"
+"['hotel', 'bagus', 'lokasi', 'strategis', 'tugas', 'ramah', 'suka', 'bunyi', 'kursi', 'pindah', 'cuman', 'front', 'ajak', 'komunikasi', 'atas', 'masalah', 'sebut', 'moga', 'makan', 'lebih', 'enak']","['bagus', 'ramah', 'bunyi', 'ajak', 'enak']"
+"['sarap', 'enak', 'variatif', 'layan', 'mbak', 'lena', 'sangat', 'baik']","['enak', 'baik']"
+"['lokasi', 'strategis', 'ruang', 'nyaman', 'makan', 'enak', 'higienis', 'dekat', 'stasiun', 'jadi', 'orang', 'solo', 'sangat', 'nyaman', 'nikmat', 'inap']","['nyaman', 'enak', 'higienis', 'nyaman']"
+"['pertama', 'kali', 'anak', 'ajak', 'sama', 'malam', 'baru', 'masuk', 'layan', 'ramah', 'semua']","['ajak', 'ramah']"
+"['hotel', 'sangat', 'bagus', 'walaupun', 'kamar', 'agama', 'kecil', 'makan', 'enak']","['bagus', 'enak']"
+"['layan', 'ramah', 'lokasi', 'mudah', 'cari', 'masakan', 'enak', 'agam', 'sayang', 'kamar', 'pesan', 'punya']","['ramah', 'enak']"
+"['tempat', 'bagus', 'enak', 'kamar', 'hotel', 'sangat', 'dingin', 'layan', 'mantap']","['bagus', 'enak']"
+"['inap', 'hotel', 'sangat', 'nyaman', 'menu', 'muas', 'layan', 'prima']",['nyaman']
+"['alam', 'inap', 'sana', 'seru', 'lokasi', 'strategis', 'sama', 'fasilitas', 'umum', 'lain']",[]
+"['nasi', 'goreng', 'hijau', 'mantap', 'atas', 'layan', 'ramah', 'sukses']",['ramah']
+"['hotel', 'nyaman', 'kolam', 'renang', 'luas', 'makan', 'restoran', 'variasi', 'rasa', 'enak', 'keluar', 'kecil', 'nyaman', 'sukses', 'selalu']","['nyaman', 'enak', 'nyaman']"
+"['salah', 'satu', 'hotel', 'bintang', 'lima', 'pusat', 'kota', 'pilih', 'hotel', 'acara', 'tahun', 'datang', 'buat', 'kecewa', 'layan', 'kamar', 'semua', 'alas']",['kecewa']
+"['menu', 'saji', 'cukup', 'baik', 'banyak', 'aneka', 'ragam', 'menu', 'nusantara', 'luar', 'lebih', 'perhati', 'wedang', 'ronde', 'kurang', 'panas', 'saji', 'masak', 'lebih', 'jadi', 'saji', 'dingin']","['baik', 'masak']"
+"['nyaman', 'rangka', 'dinas']",['nyaman']
+"['layan', 'ramah']",['ramah']
+"['sarap', 'layan', 'sama', 'lena']",[]
+"['makan', 'cukup', 'agam', 'cuma', 'rang', 'manis', 'asin', 'kamar', 'cukup', 'kaget', 'beda', 'beberapa', 'tahun', 'akhir']",[]
+"['lokasi', 'strategis', 'varian', 'masakan', 'keren', 'bagus', 'wajib']","['keren', 'bagus']"
+"['sarap', 'pagi', 'sangat', 'enak', 'menu', 'lengkap', 'muas', 'layan', 'atas', 'nama', 'baik', 'ramah', 'cepat']","['enak', 'baik', 'ramah']"
+"['layan', 'makan', 'enak', 'terima', 'kasih']",['enak']
+"['tanggap', 'hilang', 'belum', 'pihak', 'laku', 'tindak', 'lanjut', 'tindak', 'tegas', 'siapa', 'bukti', 'terima', 'kasih', 'moga', 'jadi', 'aman', 'makin', 'tingkat']","['tindak', 'tindak', 'tegas', 'bukti']"
+"['layan', 'fasilitas', 'sangat', 'muas']",[]
+"['makan', 'saji', 'selalu', 'baru', 'banyak', 'macam', 'layan', 'cepat', 'tempat', 'bersih']",['bersih']
+"['terima', 'kasih', 'layan', 'inap', 'sini', 'banyak', 'menu', 'enak', 'walaupun', 'beberapa', 'kendala', 'teknis', 'hotel', 'sigap', 'bantu']","['enak', 'teknis']"
+"['hotel', 'bagus', 'lengkap', 'mandi', 'sangat', 'bagus', 'makan', 'cukup', 'enak', 'lokasi', 'tengah', 'kota', 'layan', 'sangat', 'buruk', 'sama', 'rombong', 'orang', 'masuk', 'kamar', 'hotel', 'hotel']","['bagus', 'bagus', 'enak']"
+"['makan', 'enak', 'semua', 'muas']",['enak']
+"['layan', 'bagus', 'mungkin', 'lebih', 'variasi', 'unik', 'gosok', 'gigi', 'sangat', 'suka']",['bagus']
+"['kamar', 'luas', 'lokasi', 'strategis', 'pusat', 'kota', 'layan', 'cukup', 'makan', 'berat', 'kurang', 'variatif', 'lebih', 'banyak', 'terima', 'pesan', 'luar', 'resepsionis', 'hotel', 'minta', 'simpan', 'resepsionis']",[]
+"['cukup', 'puas', 'layan', 'ramah', 'lena']","['puas', 'ramah']"
+"['layan', 'luar', 'biasa', 'bagus', 'makan', 'banyak', 'variasi', 'enak', 'kamar', 'nyaman']","['bagus', 'enak', 'nyaman']"
+"['saji', 'makan', 'enak', 'layan', 'ramah', 'layan', 'tugas', 'nama']","['enak', 'ramah']"
+"['layan', 'restoran', 'ramah', 'menu', 'sarap']",['ramah']
+"['kamar', 'tawar', 'cukup', 'baik', 'kait', 'koordinasi', 'kena', 'mohon', 'tingkat', 'pihak', 'hotel', 'tamu', 'kunjung']",['baik']
+"['hotel', 'bintang', 'benar', 'fasilitas', 'desain', 'hotel', 'bilang', 'kurang', 'gambar', 'bintang', 'sesuai', 'harga', 'bilang', 'salah', 'satu', 'paling', 'jangkau']",['sesuai']
+"['sangat', 'nyaman', 'baik', 'layan', 'fasilitas', 'bagus']","['nyaman', 'baik', 'bagus']"
+"['kamar', 'bantal', 'guling', 'sangat', 'nyaman', 'sekali', 'kasur', 'makan', 'sesuai', 'restoran', 'enak', 'gugah', 'selera', 'terima', 'kasih']","['nyaman', 'sesuai', 'enak', 'gugah']"
+"['acara', 'fasilitas', 'hotel', 'lengkap', 'kondisi', 'sangat', 'bagus', 'makan', 'enak', 'layan', 'prima', 'sigap', 'cekat', 'kalau', 'habis', 'selesai', 'makan', 'langsung', 'ambil', 'ramah']","['bagus', 'enak', 'cekat', 'ramah']"
+"['layan', 'cukup', 'muas', 'kamar', 'nyaman', 'bersih', 'menu', 'restoran', 'enak']","['nyaman', 'bersih', 'enak']"
+"['awal', 'inap', 'kamar']",[]
+"['sangat', 'baik', 'bantu', 'mbak', 'lena']",['baik']
+"['sarap', 'pagi', 'agam', 'enak', 'layan', 'atas', 'nama', 'sangat', 'ramah', 'baik']","['enak', 'ramah', 'baik']"
+"['suka', 'sarap', 'pagi', 'enak', 'layan', 'atas', 'nama', 'baik', 'ramah', 'anak', 'cantik']","['enak', 'baik', 'ramah', 'cantik']"
+"['hotel', 'nyaman', 'bersih', 'layan', 'ramah', 'lokasi', 'strategis', 'dekat', 'pusat', 'kota', 'mudah', 'mana', 'mana', 'sarap', 'enak', 'variatif', 'sangat', 'puas', 'inap', 'hotel']","['nyaman', 'bersih', 'ramah', 'enak', 'puas']"
+"['tempat', 'nyaman', 'inap', 'jalan', 'bisnis', 'dinas', 'makan', 'pagi', 'banyak', 'enak', 'layan', 'sangat', 'bagus']","['nyaman', 'enak', 'bagus']"
+"['bagus', 'staf', 'ramah', 'sarap', 'enak', 'bersih', 'kamar', 'bagus']","['bagus', 'ramah', 'enak', 'bersih', 'bagus']"
+"['kamar', 'luas', 'bersih', 'nyaman', 'meski', 'interior', 'modern', 'menu', 'tradisional', 'enak', 'banyak', 'pilih', 'lokasi', 'cukup', 'strategis', 'giat', 'kota']","['bersih', 'nyaman', 'meski', 'enak']"
+"['hotel', 'nyaman', 'sarap', 'banyak', 'pilih', 'layan', 'sangat', 'ramah']","['nyaman', 'ramah']"
+"['inap', 'tepat', 'long', 'lama', 'hari', 'malam', 'alam', 'hari', 'informasi', 'hotel', 'umum', 'info', 'dapat', 'kunci', 'hampir', 'malam', 'sungguh', 'alam', 'luar']",[]
+"['posisi', 'hotel', 'strategis', 'makan', 'enak', 'bersih', 'layan', 'ramah', 'baik']","['enak', 'bersih', 'ramah', 'baik']"
+"['hotel', 'acara', 'temu', 'makan', 'enak', 'temu', 'botol', 'plastik', 'minum', 'semua', 'gelas', 'kaca', 'kamar', 'hotel']",['enak']
+"['menu', 'sarap', 'beberapa', 'fasilitas', 'perlu', 'baik', 'sedia', 'sabun', 'toilet', 'dekat', 'ruang', 'sewu', 'baik', 'macet', 'ruang', 'kamar', 'bekas', 'rokok', 'sangat', 'ganggu', 'bersih', 'sisa', 'asap', 'rokok', 'endap']","['baik', 'sewu', 'baik', 'ganggu', 'bersih', 'endap']"
+"['kemarin', 'komplain', 'soal', 'rasa', 'makan', 'hotel', 'puding', 'manis', 'tawar', 'rasa', 'komplain', 'sama', 'nama', 'manis', 'alhamdulillah', 'puding']",[]
+"['kamar', 'bersih', 'rapi', 'layan']",['bersih']
+"['alam', 'inap', 'sini', 'memang', 'acara', 'kantor', 'alam', 'pertama', 'dulu', 'tahun', 'lalu', 'entah', 'terlalu', 'sama', 'kondisi', 'hotel']",[]
+"['mudah', 'jangkau', 'fasilitas', 'umum', 'layan']",[]
+"['makan', 'enak', 'kamar', 'bagus', 'bersih', 'layan', 'muas']","['enak', 'bagus', 'bersih']"
+"['sini', 'kamar', 'nyaman', 'jadi', 'tidur', 'nyenyak', 'sarap', 'pagi', 'sungguh', 'luar', 'biasa', 'menu', 'komplit', 'semua']",['nyaman']
+"['nyaman', 'strategis', 'letak']",['nyaman']
+"['hotel', 'layan', 'selalu', 'ramah', 'tangan']",['ramah']
+"['makan', 'enak', 'tempat', 'bersih', 'layan']","['enak', 'bersih']"
+"['hotel', 'nyaman', 'makan', 'enak', 'variatif', 'kopi', 'banyak', 'pilih', 'kamar', 'bersih', 'ramah', 'area', 'sangat', 'bantu', 'ramah', 'terima', 'kasih', 'bambang', 'sangat', 'ramah', 'baik', 'terima', 'kasih']","['nyaman', 'enak', 'bersih', 'ramah', 'ramah', 'bambang', 'ramah', 'baik']"
+"['sarap', 'paling', 'bagus', 'banyak', 'pilih', 'layan', 'bagus']","['bagus', 'bagus']"
+"['sarap', 'pagi', 'sangat', 'puas']",['puas']
+"['kamar', 'lokasi', 'lumayan', 'dekat', 'tugu', 'makan', 'sederhana', 'tinggal']","['tugu', 'sederhana']"
+"['cukup', 'lengkap', 'rasa', 'nikmat', 'aneka', 'makan', 'lokal', 'minum', 'sedia', 'layan', 'bantu', 'lena']",[]
+"['jalan', 'utama', 'belah', 'kiri', 'masuk', 'kota', 'hotel', 'bintang', 'pasti', 'layan']","['kiri', 'pasti']"
+"['layan', 'sangat', 'muas', 'bawa', 'bantu', 'sigap', 'baik', 'makan', 'banyak', 'pilih', 'enak', 'libur', 'jadi', 'tambah', 'senang', 'kesan', 'baik', 'lama']","['baik', 'enak', 'senang', 'baik']"
+"['mohon', 'resepsionis', 'lelet', 'lebih', 'gesit', 'layan', 'layan', 'menit', 'sibuk', 'klik', 'klik', 'komputer', 'entah', 'klik', 'bayar', 'gagal', 'nyata', 'ulang', 'terus', 'lama', 'layan', 'kamar', 'bersih', 'luas']","['lelet', 'bersih']"
+"['sarap', 'enak', 'layan', 'ramah', 'senang']","['enak', 'ramah', 'senang']"
+"['makan', 'pagi', 'lengkap', 'kelas', 'bersih', 'layan', 'semua', 'ramah', 'murah', 'senyum']","['bersih', 'ramah']"
+"['hotel', 'nyaman', 'baik', 'sangat', 'bantu', 'tamu']","['nyaman', 'baik']"
+"['bagus', 'sarap', 'muas', 'semua', 'sedia']",['bagus']
+"['layan', 'hotel', 'sangat', 'muas', 'variasi', 'menu', 'makan', 'cukup', 'lengkap', 'banyak', 'rasa', 'makan', 'kecewa']",['kecewa']
+"['inap', 'hotel', 'nyaman', 'layan', 'bagus']","['nyaman', 'bagus']"
+"['sarap', 'enak', 'beda', 'unik', 'hotel', 'pernah', 'bantu', 'lena']",['enak']
+"['layan', 'atas', 'nama', 'cukup', 'muas', 'ramah', 'murah', 'senyum']",['ramah']
+['layan'],[]
+"['alam', 'senang', 'inap', 'sini', 'layan', 'cukup', 'informatif']","['senang', 'informatif']"
+"['kamar', 'luas', 'sangat', 'dingin', 'kamar', 'mandi', 'luas', 'anak', 'jadi', 'senang', 'renang', 'sarap', 'enak', 'variasi']","['senang', 'enak']"
+"['layan', 'ramah', 'kamar', 'bersih', 'wangi']","['ramah', 'bersih', 'wangi']"
+"['kamar', 'keren', 'layan', 'muas', 'dekat', 'hotel', 'inap', 'sini', 'bakal', 'bikin', 'rugi']","['keren', 'rugi']"
+"['masuk', 'hotel', 'sambut', 'patung', 'interior', 'khas', 'interior', 'kamar', 'kental', 'nuansa', 'budaya', 'suka', 'sama', 'lampu', 'bentuk', 'stupa']","['patung', 'kental', 'nuansa', 'bentuk']"
+"['enak', 'mantap', 'paling', 'favorit', 'soto', 'tangkar', 'kamar', 'bersih', 'rapi', 'orang', 'ramah']","['enak', 'tangkar', 'bersih', 'ramah']"
+"['kamar', 'arah', 'balkon', 'over', 'suka', 'pilih', 'banyak', 'sangat']",['over']
+"['inap', 'alam', 'pertama', 'buat', 'ruang', 'bersih', 'hotel', 'unik', 'banyak', 'motif', 'candi', 'kamar', 'nyaman', 'buat', 'istirahat', 'hari', 'ruang', 'nyaman', 'banget', 'hotel']","['bersih', 'nyaman', 'istirahat', 'nyaman']"
+"['masuk', 'kamar', 'tambah', 'lampu', 'lebih', 'terang', 'kamar', 'susah']",[]
+"['beberapa', 'kali', 'sini', 'umum', 'muas', 'bersih', 'makan', 'lumayan', 'enak', 'layan', 'muas', 'cuman', 'minum', 'sedikit', 'moga', 'solusi', 'tambah', 'minum']","['bersih', 'enak']"
+"['enak', 'kamar', 'bersih', 'wangi', 'aroma', 'wangi', 'emang', 'beda', 'sama', 'hotel', 'hotel', 'enak', 'banget', 'mahal', 'banget', 'wangi']","['enak', 'bersih', 'wangi', 'wangi', 'emang', 'enak', 'wangi']"
+"['ruang', 'bersih', 'resepsionis', 'sangat', 'tanggap', 'malam', 'lengkap', 'enak', 'segar', 'semua', 'hangat', 'layan', 'tanggap', 'utama', 'sangat']","['bersih', 'enak']"
+"['lokasi', 'hotel', 'strategis', 'beberapa', 'kali', 'undang', 'acara', 'hotel', 'sempat', 'beberapa', 'kali', 'pilih', 'hotel', 'acara', 'hasil', 'selalu', 'muas', 'layan', 'baik', 'dukung', 'staf', 'ramah', 'terima', 'kasih']","['baik', 'dukung', 'ramah']"
+"['nasi', 'gudeg', 'kurang', 'ayam', 'tepung', 'tulang', 'merah', 'lain', 'lumayan']",['merah']
+"['hotel', 'nyaman', 'posisi', 'tengah', 'kota', 'tugas', 'ramah', 'cepat', 'beri', 'layan', 'segi', 'makan', 'banyak', 'aneka', 'ragam', 'jajan', 'jajan', 'anggap', 'silah', 'coba', 'terima', 'kasih']","['nyaman', 'ramah']"
+"['alhamdulillah', 'nyaman', 'inap', 'sini', 'kamar', 'bersih', 'layan', 'ramah', 'atas', 'layan', 'beri']","['nyaman', 'bersih', 'ramah']"
+"['hotel', 'bagus', 'kamar', 'bagus', 'enak', 'cukup', 'lengkap', 'lokasi', 'strategis', 'bagus', 'punya', 'alam', 'kurang', 'puas', 'layan', 'kamar', 'teman', 'tinggal', 'beberapa', 'barang', 'kamar', 'mandi']","['bagus', 'bagus', 'enak', 'bagus', 'puas']"
+"['layan', 'baik', 'kamar', 'bersih', 'bagus', 'akses', 'sangat', 'mudah', 'sistem', 'aman', 'baik', 'cuma', 'rendah', 'naik', 'motor', 'sapa', 'malah', 'diam', 'curiga', 'bawa', 'mobil', 'kalau', 'hormat']","['baik', 'bersih', 'bagus', 'baik']"
+"['hotel', 'bagus', 'bagai', 'sisi', 'mulai', 'layan', 'kamar', 'makan', 'lokasi', 'mudah', 'jangkau']",['bagus']
+"['layan', 'sini', 'sangat', 'bagus', 'enak', 'orang', 'ramah']","['bagus', 'enak', 'ramah']"
+"['layan', 'hotel', 'sangat', 'bagus', 'makan', 'enak', 'variasi', 'banyak', 'kamar', 'bagus', 'lega', 'fasilitas', 'lengkap', 'muas']","['bagus', 'enak', 'bagus']"
+"['layan', 'ramah', 'sesuai', 'kota', 'senang', 'harap', 'sini', 'fasilitas', 'hotel', 'sangat', 'lengkap', 'terima', 'kasih']","['ramah', 'sesuai', 'senang']"
+"['layan', 'ramah', 'fasilitas', 'menu', 'sarap', 'lengkap', 'enak', 'pokok']","['ramah', 'enak']"
+"['layan', 'fasilitas', 'menu', 'makan', 'sangat', 'muas', 'jadi', 'tempat', 'inap', 'baik', 'tugas', 'kantor', 'sama', 'keluarga']",['baik']
+"['ramah', 'kamar', 'luas', 'nyaman', 'makan', 'enak']","['ramah', 'nyaman', 'enak']"
+"['hotel', 'bagus', 'lokasi', 'sedikit', 'jauh', 'keraton', 'jadi', 'ikon', 'kota', 'transportasi', 'sekitar', 'jadi', 'masalah', 'banyak', 'pilih', 'mahal', 'kamar', 'nyaman', 'panas', 'mandi']","['bagus', 'keraton', 'nyaman']"
+"['sarap', 'pagi', 'sangat', 'enak', 'layan', 'sangat', 'baik', 'ramah']","['enak', 'baik', 'ramah']"
+"['sini', 'sangat', 'staf', 'ramah', 'ramah', 'makan', 'enak', 'kamar', 'bersih']","['ramah', 'ramah', 'enak', 'bersih']"
+"['kamar', 'bersih', 'siap', 'dingin', 'layan', 'cepat', 'front', 'ramah', 'sekali', 'lokasi', 'strategis', 'arah', 'mana', 'mudah', 'tuju', 'hotel', 'sebut', 'sangat', 'baik', 'perlu', 'kerja', 'maupun', 'libur', 'keluarga']","['bersih', 'ramah', 'baik']"
+"['hotel', 'bersih', 'nyaman', 'layan', 'baik']","['bersih', 'nyaman', 'baik']"
+"['layan', 'bagus', 'ramah', 'semua', 'tempat', 'bersih', 'higienis', 'nyaman', 'sekali']","['bagus', 'ramah', 'bersih', 'higienis', 'nyaman']"
+"['inap', 'sangat', 'nyaman', 'mantap', 'terus']",['nyaman']
+"['menu', 'sarap', 'enak', 'kamar', 'bantu', 'layan', 'lena']",['enak']
+"['alam', 'sini', 'layan', 'sangat', 'kamar', 'bersih']",['bersih']
+"['orang', 'salah', 'jajan', 'kantin', 'memang', 'karyawan', 'kata', 'jajan', 'keluar', 'jauh', 'beberapa', 'oknum', 'ramah']","['oknum', 'ramah']"
+"['menu', 'sarap', 'pagi', 'sangat', 'baik', 'cukup', 'muas']",['baik']
+"['hotel', 'enak', 'layan', 'ramah', 'sarap', 'pagi', 'enak']","['enak', 'ramah', 'enak']"
+"['lima', 'hari', 'ikut', 'luar', 'biasa', 'layan', 'pihak', 'hotel', 'mulai', 'makan', 'kamar', 'hotel', 'bagai', 'sukses', 'selalu', 'buat']",[]
+"['sarap', 'lengkap', 'rasa', 'enak', 'ruang', 'luas', 'bantu', 'lena']",['enak']
+"['kamar', 'bersih', 'alat', 'komplit', 'menu', 'pilih', 'banyak', 'enak', 'enak']","['bersih', 'enak', 'enak']"
+"['kamar', 'cukup', 'baik', 'fasilitas', 'lengkap', 'kamar', 'kurang', 'kencang', 'terlalu', 'dingin', 'walaupun', 'setel', 'suhu', 'paling', 'atas', 'mati', 'analog', 'digital', 'guna', 'sarap', 'cukup', 'variatif', 'lauk', 'lebih', 'lengkap', 'menu', 'daging']","['baik', 'kencang', 'analog', 'digital']"
+"['alam', 'pertama', 'inap', 'sini', 'makan', 'layan', 'jempol', 'muas']",['jempol']
+"['makan', 'enak', 'bagus', 'senang', 'inap', 'sini']","['enak', 'bagus', 'senang']"
+"['hotel', 'sangat', 'bagus', 'kamar', 'luas', 'nyaman', 'restoran', 'punya', 'banyak', 'variasi', 'makan', 'lokasi', 'cukup', 'strategis']","['bagus', 'nyaman']"
+"['hotel', 'makan', 'enak', 'lengkap', 'hotel', 'bersih', 'badan', 'bagus', 'tetap', 'konsisten', 'semangat', 'tamu', 'sangat']","['enak', 'bersih', 'bagus', 'konsisten', 'semangat']"
+"['rasa', 'makan', 'sarap', 'enak', 'banyak', 'variasi', 'bantu', 'mbak', 'lena']",['enak']
+"['sangat', 'suka', 'layan', 'sangat', 'ramah', 'sarap', 'pagi', 'layan', 'baik', 'moga', 'hotel', 'pesan', 'kamar', 'layan', 'ramah']","['ramah', 'baik', 'ramah']"
+"['mantap', 'pokok', 'bikin', 'hotel']",[]
+"['layan', 'ramah', 'sekali', 'makan', 'enak', 'tempat', 'nyaman', 'beri', 'layan', 'baik']","['ramah', 'enak', 'nyaman', 'baik']"
+"['layan', 'kamar', 'rapi', 'bersih', 'semua', 'fungsi', 'baik', 'semua', 'enak', 'front']","['bersih', 'baik', 'enak']"
+"['sangat', 'luar', 'biasa', 'cita', 'rasa', 'variasi', 'makan']",[]
+"['hotel', 'lokasi']",[]
+"['hotel', 'cukup', 'besar', 'kalau', 'lihat', 'mepet', 'hotel', 'cukup', 'luas', 'cukup', 'bagus', 'tugas', 'betul', 'sapa', 'tamu', 'datang', 'utama', 'tugas']",['bagus']
+"['sarap', 'banyak', 'madam', 'rasa', 'enak']",['enak']
+"['kamar', 'bersih', 'nyaman', 'makan', 'enak', 'banyak', 'jenis']","['bersih', 'nyaman', 'enak']"
+"['menu', 'enak', 'variasi', 'banyak', 'layan', 'bagus', 'sekali', 'nyaman', 'tempat']","['enak', 'bagus', 'nyaman']"
+"['benar', 'mandi', 'rendam', 'lihat', 'sangat', 'keruh', 'kotor', 'dalam', 'bagi', 'balkon', 'saking', 'jarang', 'bersih', 'dapat', 'tumbuh', 'jalar', 'bagi', 'sudut', 'lantai', 'balkon']","['bersih', 'tumbuh', 'jalar']"
+"['kamar', 'mewah', 'nyaman', 'bersih', 'layan', 'beri', 'staf', 'ramah', 'semua', 'cocok', 'santa', 'keluarga', 'kolam', 'renang']","['nyaman', 'bersih', 'ramah']"
+"['sangat', 'puas', 'fasilitas', 'hotel', 'sarap', 'pagi', 'sangat', 'enak', 'layan', 'atas', 'nama', 'sangat', 'ramah', 'baik']","['puas', 'enak', 'ramah', 'baik']"
+"['kamar', 'suka', 'bagus', 'estetik', 'rusa', 'sedikit', 'pintu']","['bagus', 'estetik']"
+"['trip', 'poin', 'pagi', 'cerah', 'awal']",[]
+"['layan', 'sangat', 'muas', 'bagai', 'macam', 'varian', 'selurah', 'rasa', 'enak', 'mantap']","['selurah', 'enak']"
+"['lokasi', 'strategis', 'kalau', 'pagi', 'hari', 'kerja', 'macet', 'menu', 'sarap', 'kurang', 'variatif']",[]
+"['kamar', 'bersih', 'tugas', 'semua', 'ramah', 'makan', 'semua', 'enak', 'kalau', 'sini', 'makan', 'antar', 'kamar', 'anak', 'kurang', 'sehat', 'tata', 'sangat', 'cantik', 'gugah', 'selera', 'terima', 'kasih']","['bersih', 'ramah', 'enak', 'cantik', 'gugah']"
+"['makan', 'muas', 'kamar', 'saran', 'masuk', 'handuk', 'mandi', 'kurang', 'kelas', 'terima', 'kasih']",[]
+"['lokasi', 'dekat', 'tempat', 'kerja', 'datang', 'makan', 'baik', 'enak', 'layan', 'sejak', 'datang', 'baik']","['baik', 'enak', 'baik']"
+"['makan', 'enak', 'banyak', 'varian', 'coba', 'bantu', 'lena']",['enak']
+"['suasana', 'kamar', 'hotel', 'bagus', 'bersih', 'nyaman', 'banyak', 'enak', 'enak']","['bagus', 'bersih', 'nyaman', 'enak', 'enak']"
+"['menu', 'makan', 'variatif', 'enak', 'jangan', 'lupa', 'kunjung']",['enak']
+"['layan', 'sangat', 'bagus', 'tempat', 'nyaman', 'makan', 'enak', 'enak']","['bagus', 'nyaman', 'enak', 'enak']"
+"['layan', 'ramah', 'makan', 'enak', 'tempat', 'nyaman']","['ramah', 'enak', 'nyaman']"
+"['sarap', 'bantu', 'lena']",[]
+"['layan', 'sangat', 'profesional', 'makan', 'rasa', 'standar', 'hotel', 'bintang', 'sedikit', 'saran', 'kamar', 'sedia', 'lampu', 'lebih', 'terang', 'utama', 'area', 'meja', 'ajar', 'sekali', 'hotel']",['ajar']
+"['layan', 'baik', 'nyaman']","['baik', 'nyaman']"
+"['hotel', 'nyaman', 'layan']",['nyaman']
+"['lokasi', 'strategis', 'kamar', 'bersih', 'makan', 'minum', 'lumayan', 'ramah', 'ketemu', 'mahasiswa', 'hotel', 'sedang', 'praktek', 'ramah', 'selalu', 'senyum', 'terima', 'kasih', 'mbak', 'moga', 'lancar', 'wisuda']","['bersih', 'ramah', 'mahasiswa', 'ramah', 'lancar']"
+"['luas', 'menu', 'lengkap', 'suka', 'banyak', 'makan', 'tradisional', 'susah', 'temu', 'buat', 'kerja', 'libur', 'keluarga']",[]
+"['sangat', 'enak', 'lengkap', 'layan', 'mbak', 'lena']",['enak']
+"['enak', 'ruang', 'besar', 'nyaman', 'layan']","['enak', 'nyaman']"
+"['inap', 'malam', 'hotel', 'sembunyi', 'samping', 'apabila', 'bawa', 'sewa', 'mobil', 'masalah', 'proses', 'cepat', 'kamar', 'cukup', 'nyaman', 'sedia', 'bantal', 'guling']","['sembunyi', 'sewa', 'nyaman']"
+"['sarap', 'pagi', 'enak']",['enak']
+"['lama', 'tempat', 'hari', 'pemberitahuan', 'tempat', 'enggak', 'banget', 'sesak', 'gelap', 'mana', 'bawa', 'anak', 'kecil', 'segera', 'buru', 'pulang', 'benah']","['pemberitahuan', 'enggak', 'sesak', 'buru']"
+"['nyaman', 'bersih', 'pokok']","['nyaman', 'bersih']"
+"['layan', 'bagus', 'kamar', 'nyaman', 'tempat', 'strategis']","['bagus', 'nyaman']"
+"['kamar', 'layan', 'baik', 'enak', 'pilih', 'banyak', 'lokasi', 'strategis']","['baik', 'enak']"
+"['sarap', 'enak', 'banyak', 'pilih', 'variasi']",['enak']
+"['tempat', 'nyaman', 'layan', 'baik']","['nyaman', 'baik']"
+"['hotel', 'bagus', 'layan', 'bersih', 'jaga']","['bagus', 'bersih']"
+"['layan', 'bagus', 'ramah', 'cekat', 'sukses']","['bagus', 'ramah', 'cekat']"
+"['muas', 'lokasi', 'cukup', 'strategis', 'akses', 'bagai', 'tempat', 'cuku', 'mudah']",['cuku']
+"['hotel', 'bintang', 'milik', 'desain', 'elegan', 'letak', 'strategis', 'jalan', 'milik', 'gedung', 'lantai', 'sedia', 'kamar', 'mulai', 'hingga', 'standar', 'sini', 'sedia']",[]
+"['bekal', 'kamar', 'enak', 'banget', 'rapi', 'bersih', 'luas', 'makan', 'enak', 'variatif', 'betul', 'makan', 'hotel', 'hari', 'menu', 'enak', 'semua', 'moga', 'kalo', 'sempat']","['bekal', 'enak', 'bersih', 'enak', 'enak']"
+"['hotel', 'parah', 'masa', 'minum', 'botol', 'standar', 'bayar', 'botol', 'kaca', 'kata', 'standar', 'botol', 'hari', 'mending', 'hotel', 'royal', 'minum', 'standar', 'bayar', 'botol', 'kaca', 'resepsionis']","['mending', 'royal']"
+"['lokasi', 'sangat', 'strategis', 'makan', 'enak', 'bagai', 'macam', 'dekat', 'fasilitas', 'umum']",['enak']
+"['malam', 'inap', 'sini', 'cukup', 'baik', 'perlu', 'jadi', 'perhati', 'kualitas', 'kamar', 'kurang', 'proporsional', 'sulit', 'kemudian', 'nyata', 'pakai']","['baik', 'proporsional', 'sulit']"
+"['terima', 'kasih', 'enak', 'baik']","['enak', 'baik']"
+"['layan', 'sangat', 'sopan', 'ramah', 'komunikatif']","['ramah', 'komunikatif']"
+"['hotel', 'bagus', 'fasilitas', 'tempat', 'luas', 'pokok', 'baik']","['bagus', 'baik']"
+"['layan', 'sangat', 'muas', 'hotel', 'sangat', 'bersih', 'bagai', 'hidang', 'beda', 'beda', 'hari']",['bersih']
+"['dasar', 'alam', 'kunjung', 'bulan', 'hotel', 'kurang', 'muas', 'hotel', 'bintang', 'lima']",['dasar']
+"['dadak', 'cari', 'tempat', 'malam', 'akhir', 'inap', 'sini', 'masuk', 'bagus', 'banyak', 'lampu', 'lampu', 'bersih']","['dadak', 'bagus', 'bersih']"
+"['makan', 'enak', 'layan', 'bagus', 'tahan', 'selalu']","['enak', 'bagus']"
+"['layan', 'makan', 'enak']",['enak']
+"['hotel', 'baik', 'pernah', 'singgah', 'kamar', 'besar', 'bersih', 'panas', 'alir', 'sangat', 'lancar', 'dingin', 'sarap', 'enak', 'enak', 'banget', 'varian', 'sangat', 'rasa', 'pulang']","['baik', 'bersih', 'lancar', 'enak', 'enak']"
+"['kamar', 'biasa', 'staf', 'kolam', 'renang', 'kurang', 'latih', 'kurang', 'lagu', 'jadi', 'sepi', 'banget', 'meja', 'sayang', 'presentasi', 'minum', 'rasa', 'kurang', 'kelas', 'servis', 'pilih', 'muas']","['latih', 'presentasi']"
+"['layan', 'sangat', 'baik', 'buat', 'tulis', 'nyata', 'beri', 'dekor', 'ranjang', 'terima', 'kasih']","['baik', 'dekor', 'ranjang']"
+"['kamar', 'bersih', 'milik', 'menu', 'lokal', 'layan', 'baik', 'ramah']","['bersih', 'baik', 'ramah']"
+"['makan', 'enak', 'layan', 'sangat', 'ramah', 'baik']","['enak', 'ramah', 'baik']"
+"['restoran', 'sini', 'sangat', 'jaga', 'bersih', 'makan', 'restoran', 'bagus']","['bersih', 'bagus']"
+"['inap', 'kamar', 'superior', 'kamar', 'cukup', 'luas', 'nyaman', 'lokasi', 'hotel', 'sangat', 'strategis', 'staf', 'sangat', 'ramah', 'sedikit', 'kurang', 'fasilitas', 'parkir', 'jalan', 'tuju', 'keluar', 'sempit']","['nyaman', 'ramah']"
+"['alhamdulillah', 'luar', 'biasa', 'makan', 'layan', 'paket', 'pokok', 'banget', 'hotel']",[]
+"['libur', 'sama', 'keluarga', 'anak', 'usia', 'pakai', 'kamar', 'tipe', 'luas', 'sofa', 'pakai', 'kalaupun', 'muat', 'kamar', 'luas', 'meski']","['muat', 'meski']"
+"['layan', 'sangat', 'baik', 'ramah']","['baik', 'ramah']"
+"['sarap', 'sangat', 'lengkap', 'bantu', 'nilai']",[]
+"['sangat', 'sesuai', 'suka', 'banget', 'sama', 'hotel', 'segi', 'tata', 'letak', 'jauh', 'kota', 'hotel', 'lengkap', 'fasilitas', 'sangat', 'banget', 'tambah', 'selalu']",['sesuai']
+"['banyak', 'atas', 'semua', 'keluarga', 'rasa', 'senang', 'singgah', 'tempat', 'sekali', 'atas', 'layan']",['senang']
+"['hotel', 'strategis', 'bantal', 'nyaman', 'guling', 'ramah', 'sarap', 'lengkap', 'menu', 'andal', 'arif', 'lokal', 'khas', 'makin', 'betah', 'jumpa']","['nyaman', 'ramah', 'andal']"
+"['layan', 'baik', 'makan', 'enak']","['baik', 'enak']"
+"['ramah', 'baru', 'langsung', 'jemput', 'barang', 'bawa', 'antar', 'kamar', 'tulus', 'kasih', 'makan', 'pagi', 'enak', 'malam', 'dekat', 'piano', 'papan', 'catur', 'kolam', 'renang', 'lantai']","['ramah', 'jemput', 'enak', 'papan', 'catur']"
+"['makan', 'banyak', 'varian']",[]
+"['inap', 'malam', 'sini', 'rugi', 'fasilitas', 'lengkap', 'kolam', 'renang', 'lantai', 'atas', 'kamar', 'ering', 'rambut', 'kamar', 'rapi', 'bersih', 'kamar', 'madi', 'bersih', 'mandi', 'pakai', 'panas', 'nyanyi', 'serasa', 'sedang', 'konser', 'musik', 'tahan', 'mantap']","['rugi', 'rambut', 'bersih', 'bersih', 'nyanyi', 'konser']"
+"['sarap', 'hari', 'enak', 'muas']",['enak']
+"['tempat', 'strategis', 'ramah', 'banget']",['ramah']
+"['layan', 'ramah', 'lokasi', 'strategis', 'kamar', 'nyaman']","['ramah', 'nyaman']"
+"['lokasi', 'jauh', 'pusat', 'kota', 'siksa', 'kalau', 'jalan', 'hotel', 'sibuk', 'kamar', 'cukup', 'luas', 'nyaman', 'kamar', 'mandi', 'sempit', 'handuk']",['nyaman']
+"['sangat', 'senang', 'puas', 'layan', 'ramah', 'kamar']","['senang', 'puas', 'ramah']"
+"['sini', 'nyaman', 'banget', 'elegan', 'sangat', 'bersih', 'tempat', 'nyaman', 'keluar', 'kolam', 'renang', 'gunung', 'rapi', 'harga', 'cocok', 'dompet', 'lokasi', 'dekat', 'pokok', 'sangat']","['nyaman', 'bersih', 'nyaman']"
+"['lihat', 'manajemen', 'hotel', 'siap', 'terima', 'rombong', 'banyak', 'banyak', 'serta', 'sore', 'kuantitas', 'makan', 'cukup', 'banyak', 'rasa', 'kurang', 'enak', 'kelas', 'hotel', 'bintang']","['kuantitas', 'enak']"
+"['senang', 'sekali', 'coba', 'inap', 'buah', 'alam', 'cukup', 'kesan', 'hotel', 'luas', 'fasilitas', 'lengkap', 'bersih', 'lorong', 'lift', 'perhati', 'detail', 'fasilitas', 'kamar']","['senang', 'bersih', 'lorong']"
+"['alam', 'inap', 'hotel', 'kesan', 'fasilitas', 'kamar', 'inap', 'bagus', 'rapi', 'bersih', 'wangi', 'fasilitas', 'sangat', 'muas', 'banyak', 'pilih', 'menu', 'khas', 'tradisional', 'lengkap']","['bagus', 'bersih', 'wangi']"
+"['sarap', 'enak', 'enak', 'layan', 'ramah', 'lena']","['enak', 'enak', 'ramah']"
+"['ramah', 'bantu', 'layan', 'sangat', 'bagus', 'iftar', 'sini', 'jadi', 'nyaman', 'spesial']","['ramah', 'bagus', 'nyaman', 'spesial']"
+"['layan', 'sangat', 'muas', 'makan', 'siang', 'enak', 'pandang', 'jalan', 'atas', 'hotel', 'fasilitas', 'ruang', 'seminar', 'sangat']",['enak']
+"['menu', 'sarap', 'banyak', 'varian', 'makan', 'ringan', 'makan', 'berat', 'menu']",[]
+"['makan', 'enak', 'banget', 'semua', 'meni', 'hotel', 'layan', 'ramah', 'anak', 'manis', 'cantik']","['enak', 'ramah', 'cantik']"
+"['makan', 'kamar', 'bagus', 'bersih', 'embak', 'gita']","['bagus', 'bersih']"
+"['nyaman', 'muas', 'letak', 'makan', 'enak', 'saji', 'hangat', 'menu', 'lumayan', 'lengkap']","['nyaman', 'enak']"
+"['sarap', 'cukup', 'lengkap', 'bantu', 'mbak', 'lena']",[]
+"['makan', 'pagi', 'sangat', 'enak']",['enak']
+"['makan', 'variasi', 'enak']",['enak']
+"['nyaman', 'senang']","['nyaman', 'senang']"
+"['nyaman', 'buat', 'keluarga', 'sarap', 'sesuai', 'selera', 'keluarga', 'tugas', 'ramah']","['nyaman', 'sesuai', 'ramah']"
+"['banget', 'memang', 'belum', 'pernah', 'inap', 'menu', 'sangat', 'lengkap', 'layan', 'muas', 'lokasi', 'sangat', 'strategis', 'dekat', 'pusat', 'kota', 'akses', 'sangat', 'mudah']",[]
+"['layan', 'hotel', 'fasilitas', 'restoran', 'semua', 'sangat', 'muas', 'bagus']",['bagus']
+"['hotel', 'nyaman', 'enak', 'lengkap']","['nyaman', 'enak']"
+"['inap', 'sini', 'staf', 'ramah', 'ramah', 'kamar', 'nyaman', 'dekorasi', 'sangat', 'unik', 'bikin', 'betah']","['ramah', 'ramah', 'nyaman']"
+"['sangat', 'nyaman', 'kamar', 'bersih', 'makan', 'sangat', 'enak']","['nyaman', 'bersih', 'enak']"
+"['kerja', 'inap', 'sini', 'malam', 'kamar', 'cukup', 'mungkin', 'baik']",['baik']
+"['kamar', 'bersih', 'nyaman', 'sarap', 'enak', 'lena', 'sangat', 'bantu']","['bersih', 'nyaman', 'enak']"
+"['bagus', 'makan', 'enak', 'semua', 'buat']","['bagus', 'enak']"
+"['tawar', 'alam', 'inap', 'kesan', 'sentuh', 'budaya', 'kental', 'tetap', 'modern', 'lihat', 'desain', 'interior', 'nuansa', 'hingga', 'ramah', 'staf', 'lengkap', 'fasilitas', 'lengkap']","['sentuh', 'kental', 'nuansa', 'ramah']"
+"['layan', 'luas', 'lengkap', 'paling', 'penting', 'lokasi', 'makan', 'enak', 'enak', 'semua', 'buat', 'lama', 'libur']","['enak', 'enak']"
+"['alam', 'inap', 'bagus', 'tambah', 'luar', 'biasa', 'lengkap', 'lezat']","['bagus', 'lezat']"
+"['lokasi', 'strategis', 'sarap', 'enak', 'banyak', 'pilih', 'banyak', 'menu', 'makan', 'lift', 'kalau', 'baru', 'giat', 'hotel']",['enak']
+"['kamar', 'nyaman', 'pilih', 'menu', 'sarap', 'banyak', 'sekali']",['nyaman']
+"['sarap', 'sangat', 'lezat', 'bantu', 'lena', 'lena', 'sangat', 'baik', 'ramah']","['lezat', 'baik', 'ramah']"
+"['hotel', 'baik', 'milik', 'baik', 'fasilitas', 'lengkap', 'ramah', 'tempat', 'wisata', 'jarak', 'dekat', 'dekat', 'bandara', 'apabila', 'jarak', 'cukup', 'menit', 'jadi', 'teman', 'buat']","['baik', 'baik', 'ramah']"
+"['kamar', 'nyaman', 'menu', 'makan', 'enak', 'lidah', 'kolam', 'renang', 'buat', 'anak', 'senang', 'libur', 'sini']","['nyaman', 'enak', 'senang']"
+"['sana', 'lumayan', 'cuma', 'beberapa', 'menu', 'kurang', 'enak', 'kaya', 'ayam', 'goreng', 'bakso', 'jajan', 'pasar', 'kurang', 'rasa', 'paling', 'enak', 'kebab', 'sama', 'ayam', 'rica', 'rica', 'enak', 'banget']","['enak', 'enak', 'kebab', 'enak']"
+"['nyaman', 'makan', 'enak', 'variasi']","['nyaman', 'enak']"
+"['hotel', 'bintang', 'tempat', 'nyaman', 'layan', 'kamar', 'bersih', 'makan', 'enak', 'mana', 'mana']","['nyaman', 'bersih', 'enak']"
+"['bersih', 'nyaman', 'layan', 'ramah', 'baik', 'meski', 'kurang', 'baik', 'layan', 'minta', 'panas', 'waktu', 'cuman', 'makan', 'habis', 'akhir', 'minta', 'sama', 'baru', 'akhir', 'sedia', 'panas', 'minum']","['bersih', 'nyaman', 'ramah', 'baik', 'meski', 'baik']"
+['sarap'],[]
+"['layan', 'bagus', 'makan', 'enak', 'selera', 'nusantara']","['bagus', 'enak']"
+"['bersih', 'lengkap', 'setrika', 'meja', 'setrika', 'timbang', 'elektrik', 'bersih', 'sayang', 'tempat', 'sampah', 'meja', 'kopi', 'kamar', 'mandi']","['bersih', 'timbang', 'elektrik', 'bersih', 'sampah']"
+"['lengkap', 'sangat', 'enak', 'layan', 'mbak', 'lena', 'baik']","['enak', 'baik']"
+"['senang', 'berisik', 'potong', 'keramik', 'debu', 'kolam', 'kamar', 'tatanan', 'bagus', 'profesional']","['senang', 'berisik', 'debu', 'tatanan', 'bagus']"
+"['kamar', 'bagus', 'hotel', 'gede', 'sangat', 'fasilitas', 'komplit', 'ramah', 'cantik', 'letak', 'strategis', 'waktu', 'boleh', 'sini']","['bagus', 'gede', 'ramah', 'cantik']"
+"['bersih', 'kamar', 'kamar', 'mandi', 'buat', 'rasa', 'betah', 'nyaman', 'istirahat', 'laku', 'jalan', 'cukup', 'panjang', 'hotel', 'ramah', 'layan', 'jadi', 'sangat', 'teman', 'teman', 'sedang', 'cari', 'hotel']","['bersih', 'nyaman', 'istirahat', 'ramah']"
+"['ukur', 'kamar', 'luas', 'balkon', 'kasur', 'empuk', 'bersih', 'nyaman', 'sangat', 'hotel']","['bersih', 'nyaman']"
+"['layan', 'sangat', 'baik', 'kamar', 'makan', 'sarap', 'baik']","['baik', 'baik']"
+"['layan', 'kamar', 'tempat', 'strategis']",[]
+"['hotel', 'nyaman', 'bersih', 'layan', 'bagus', 'sangat', 'muas', 'menu', 'sarap', 'lumayan', 'enak', 'banyak', 'over', 'muas']","['nyaman', 'bersih', 'bagus', 'enak', 'over']"
+"['bagus', 'lain', 'cuma', 'kalo', 'lantai', 'paling', 'atas', 'alias', 'suara', 'lumayan', 'dengar', 'beberapa', 'kamar', 'suara', 'lebih', 'layan', 'ramah', 'lokasi', 'strategis']","['bagus', 'alias', 'dengar', 'ramah']"
+"['kali', 'inap', 'hotel', 'sangat', 'nyaman', 'kamar', 'sangat', 'bersih', 'banyak', 'pilih', 'makan', 'semua', 'enak']","['nyaman', 'bersih', 'enak']"
+"['bagus', 'tempat', 'sangat', 'sayang', 'restoran', 'lantai', 'biasa', 'kecewa', 'makan']","['bagus', 'kecewa']"
+"['kamar', 'sangat', 'layan', 'bagi', 'cepat', 'efisien', 'rekomendasi', 'banget', 'pokok', 'jadi', 'pilih', 'inap', 'kunjung']",['efisien']
+"['sarap', 'sangat', 'enak', 'bantu', 'lena']",['enak']
+"['restoran', 'menu', 'sangat', 'lengkap', 'bersih', 'staf', 'ramah', 'sambut', 'mbak']","['bersih', 'ramah']"
+"['hotel', 'bersih', 'makan', 'lumayan', 'variasi', 'enak', 'enak', 'kalau', 'tambah', 'fasilitas', 'minimarket', 'langgan', 'beri', 'mudah', 'perlu', 'dadak', 'misal', 'obat', 'balut', 'wanita', 'sukses', 'selalu', 'hotel']","['bersih', 'enak', 'enak', 'dadak', 'misal', 'obat', 'balut']"
+"['makan', 'kamar']",[]
+"['sarap', 'kamar', 'bagus']",['bagus']
+"['makan', 'enak', 'cocok', 'mantap', 'layan', 'ramah']","['enak', 'ramah']"
+"['sarap', 'enak', 'banyak', 'varian', 'layan', 'staf', 'sangat', 'ramah', 'khusus', 'terima', 'kasih']","['enak', 'ramah']"
+"['enak', 'layan', 'baik', 'mbak']","['enak', 'baik']"
+"['makan', 'sangat', 'mulai', 'makan', 'makan']",[]
+"['hotel', 'bagus', 'layan', 'ramah', 'utama', 'bagus', 'sekali', 'pokok']","['bagus', 'ramah', 'bagus']"
+"['biasa', 'tamu', 'jumlah', 'banyak', 'perlu', 'tingkat', 'soal']",['jumlah']
+"['hotel', 'nyaman', 'fasilitas', 'lengkap', 'kamar', 'nyaman', 'makan', 'enak', 'tambah', 'layan', 'profesional', 'kalau', 'sini', 'pasti', 'cocok', 'buat', 'libur', 'bareng', 'keluarga']","['nyaman', 'nyaman', 'enak', 'pasti']"
+"['long', 'keluarga', 'hotel', 'hotel', 'kerepot', 'koper', 'sigap', 'langsung', 'musim', 'libur', 'kali', 'kamar']","['kerepot', 'musim']"
+"['pertama', 'kali', 'iftar', 'sini', 'menu', 'variasi', 'enak', 'layan', 'paling', 'suka', 'cakep', 'bikin', 'kumpul', 'makin', 'kesan']","['enak', 'cakep', 'kumpul']"
+"['menu', 'sarap', 'bantu', 'layan', 'lena']",[]
+"['menu', 'makan', 'cukup', 'rasa', 'cukup', 'nyaman', 'tempat', 'cukup', 'pada', 'bantu', 'atas', 'nama', 'lena']",['nyaman']
+"['enak', 'bubur', 'ayam', 'enak']","['enak', 'enak']"
+"['nyaman', 'menu', 'enak']","['nyaman', 'enak']"
+"['layan', 'sangat', 'bagus']",['bagus']
+"['kamar', 'bersih', 'layan', 'ramah', 'menu', 'banyak', 'enak', 'sangat']","['bersih', 'ramah', 'enak']"
+"['varian', 'makan', 'banyak', 'lengkap', 'rasa', 'enak', 'layan', 'sangat', 'baik', 'ramah']","['enak', 'baik', 'ramah']"
+"['nama', 'layan', 'kayak', 'bintang', 'beda', 'sangat', 'sama', 'kota', 'kota', 'bahkan', 'sama', 'hotel', 'kalah', 'jauh', 'handuk', 'setrika', 'minta', 'barang', 'banyak', 'kerak', 'ruang', 'bantal', 'minyak', 'gosok']","['kalah', 'kerak', 'minyak']"
+"['rasa', 'sarap', 'hotel', 'pagi', 'luar', 'biasa', 'lena', 'layan', 'baik', 'sekali']",['baik']
+"['alam', 'senang', 'makan', 'pagi', 'sini', 'layan', 'layan']",['senang']
+"['beri', 'layan', 'baik', 'kalau', 'kamar', 'jangan', 'tanya', 'kualitas', 'strategi', 'tempat', 'wisata', 'sangat', 'strategis', 'aman', 'nyaman', 'enak']","['baik', 'strategi', 'nyaman', 'enak']"
+"['cukup', 'senang', 'sarap', 'standar', 'menu', 'cukup', 'variatif', 'baik', 'ramah', 'anak']","['senang', 'baik', 'ramah']"
+"['lokasi', 'pusat', 'kota', 'layan', 'sangat', 'ramah', 'utama', 'makan']",['ramah']
+"['hotel', 'bintang', 'sangat', 'rekomendasi', 'hotel', 'buat', 'libur', 'bareng', 'keluarga', 'kantor', 'kamar', 'layan', 'makan', 'enak']",['enak']
+"['kamar', 'bagus', 'layan', 'bagus', 'staf', 'ramah', 'enak', 'variasi']","['bagus', 'bagus', 'ramah', 'enak']"
+"['kamar', 'bersih', 'layan', 'cepat', 'muas', 'menu', 'sarap', 'variasi', 'rasa', 'enak', 'lokasi', 'strategis']","['bersih', 'enak']"
+"['layan', 'makan', 'enak', 'beberapa', 'kali', 'hotel', 'rasa']",['enak']
+"['kamar', 'bersih', 'nyaman', 'karyawan', 'ramah', 'sopan', 'ketemu', 'tamu', 'selalu', 'beri', 'salam', 'senyum', 'sarap', 'variatif', 'enak', 'enak', 'semua', 'kapan', 'kapan', 'sini', 'sama', 'keluarga', 'moga', 'bagus', 'buat', 'keluarga']","['bersih', 'nyaman', 'ramah', 'enak', 'enak', 'bagus']"
+"['layan', 'hotel', 'mulai', 'hingga', 'layan']",[]
+"['sangat', 'puas', 'hingga', 'semua', 'sangat', 'muas', 'inap', 'lama', 'malam', 'beri', 'kamar', 'platinum', 'sarap', 'senang', 'tempat', 'duduk']","['puas', 'senang']"
+"['luar', 'biasa', 'nikmat', 'sarap', 'tenang', 'pikir', 'jernih', 'makan', 'sesuai', 'selera', 'lidah', 'orang']","['pikir', 'sesuai']"
+"['lokasi', 'hotel', 'strategis', 'mudah', 'jangkau', 'dekat', 'bandara', 'hotel', 'bagus', 'layan', 'baik', 'nuansa', 'candi', 'kamar', 'nyaman', 'istirahat', 'ruang', 'temu', 'besar', 'bagai']","['bagus', 'baik', 'nuansa', 'nyaman', 'istirahat']"
+"['layan', 'baik', 'ramah', 'menu', 'restoran', 'bintang']","['baik', 'ramah']"
+"['kamar', 'sangat', 'bersih', 'sarap', 'lengkap', 'enak']","['bersih', 'enak']"
+"['pertama', 'kali', 'inap', 'sini', 'layan', 'fasilitas', 'hotel', 'sangat', 'semua', 'ramah', 'hotel', 'bersih', 'sangat', 'nyaman']","['ramah', 'bersih', 'nyaman']"
+"['hotel', 'sangat', 'rekomendasi', 'cari', 'kombinasi', 'lokasi', 'strategis', 'sabun', 'budaya', 'lokal', 'layan', 'hangat', 'fasilitas', 'lengkap', 'ideal', 'keluarga', 'maupun', 'acara', 'bisnis', 'pilih', 'kamar', 'lantai', 'tinggi', 'jauh']","['kombinasi', 'ideal']"
+"['sangat', 'ramah', 'layan', 'sarap', 'pagi', 'menu', 'sangat', 'komplit', 'lezat', 'semua', 'menu']","['ramah', 'lezat']"
+"['sangat', 'muas', 'makan', 'sangat', 'mantap', 'enak', 'sekali']",['enak']
+"['layan', 'kamar', 'nyaman']",['nyaman']
+"['kamar', 'enak', 'bersih', 'layan', 'banget']","['enak', 'bersih']"
+"['fasilitas', 'bagus', 'cuma', 'pakai', 'guna', 'laptop', 'padahal', 'sinyal', 'bagus']","['bagus', 'laptop', 'bagus']"
+"['cocok', 'sekali', 'enak', 'lengkap', 'servis', 'bantu', 'lena', 'baik']","['enak', 'baik']"
+"['kamar', 'nyaman', 'ramah', 'lokasi', 'strategis']","['nyaman', 'ramah']"
+"['kali', 'inap', 'sini', 'acara', 'kantor', 'jadi', 'sempat', 'nikmat', 'fasilitas', 'hotel', 'cuma', 'bolak', 'balik', 'kamar', 'makan', 'lumayan', 'variasi', 'relatif', 'lokasi', 'strategis', 'belah', 'jauh', 'plaza', 'bioskop']","['bolak', 'bioskop']"
+"['layan', 'bagus', 'sekali', 'kamar', 'enak', 'lengkap', 'terima', 'kasih', 'lena', 'waktu']","['bagus', 'enak']"
+"['nyaman', 'sarap', 'enak']","['nyaman', 'enak']"
+"['layan', 'baik', 'menu', 'sarap', 'kurang', 'variasi', 'lokasi', 'strategis', 'jalan', 'depan', 'hotel', 'sering', 'macet']",['baik']
+"['enak', 'banget', 'ramah', 'banget', 'lena']","['enak', 'ramah']"
+"['makan', 'enak', 'banyak', 'variasi', 'layan', 'muas', 'ramah', 'sopan']","['enak', 'ramah']"
+"['hotel', 'fasilitas', 'lengkap', 'layan', 'ramah', 'rekomendasi', 'cari', 'hotel']",['ramah']
+"['kamar', 'nyaman', 'akses', 'dekat', 'semua']",['nyaman']
+"['senang', 'sekali', 'sini', 'layan', 'muas', 'ramah', 'profesional', 'makan', 'enak']","['senang', 'ramah', 'enak']"
+"['layan', 'sangat', 'layan', 'kamar', 'tempat', 'makan', 'sangat', 'kali']",[]
+"['halal', 'bihalal', 'kali', 'hotel', 'mulai', 'ruang', 'semua', 'sedia', 'sangat', 'baik']","['halal', 'bihalal', 'baik']"
+"['lengkap', 'gudeg', 'ayam', 'layan', 'ramah']",['ramah']
+"['sini', 'suasana', 'tenang', 'kamar', 'romantis', 'banget']",[]
+"['kamar', 'sangat', 'luar', 'biasa', 'layan', 'semua', 'ramah', 'lokasi', 'dekat', 'belanja', 'moga', 'selalu', 'layan', 'hati', 'terus', 'alir', 'terus', 'berkah']","['ramah', 'hati', 'berkah']"
+"['kurang', 'kalo', 'bilang', 'bintang', 'biasa', 'kalo', 'bintang', 'makan', 'enak']",['enak']
+"['kamar', 'luas', 'bersih', 'sarap', 'enak', 'banyak', 'pilih', 'semua', 'staf', 'hotel', 'ramah', 'lokasi', 'hotel', 'dekat', 'pusat', 'belanja', 'kalau', 'sini']","['bersih', 'enak', 'ramah']"
+"['kamar', 'sesuai', 'layan', 'sigap', 'sangat', 'bantu', 'terima', 'kasih']",['sesuai']
+"['kamar', 'cukup', 'luas', 'proses', 'cepat', 'menu', 'variasi', 'tiap', 'hari', 'tugas', 'area', 'tambah', 'buat', 'meja', 'lama', 'kolam', 'renang', 'cukup', 'luas']",[]
+"['lokasi', 'sangat', 'strategis', 'dekat', 'pusat', 'belanja', 'fasilitas', 'sangat', 'bagus', 'kamar', 'bersih', 'makan', 'enak', 'banyak', 'variasi', 'banget', 'karyawan', 'ramah']","['bagus', 'bersih', 'enak', 'ramah']"
+"['sini', 'tiga', 'kali', 'kamar', 'bersih', 'luas', 'lengkap', 'staf', 'ramah', 'responsif', 'akses', 'sangat', 'strategis', 'pusat', 'kota', 'jangkau', 'enak', 'variatif', 'terima', 'kasih', 'manis', 'atas', 'layan']","['bersih', 'ramah', 'responsif', 'enak']"
+"['desain', 'interior', 'hotel', 'memang', 'bilang', 'modern', 'hotel', 'baru', 'bangun', 'sekarang', 'layan', 'muas', 'staf', 'ramah', 'kamar', 'bersih', 'lokasi', 'lokasi', 'padat', 'hotel', 'rasa', 'jadi', 'duduk', 'lokal']","['ramah', 'bersih', 'padat']"
+"['tempat', 'jalan', 'utama', 'mudah', 'akses', 'depan', 'hotel', 'banyak', 'toko', 'angkring', 'dekat', 'rumah', 'sakit', 'layan', 'baik', 'kamar', 'bersih', 'ruang', 'temu', 'besar', 'bersih', 'makan', 'sangat', 'agam', 'selalu', 'menu', 'hangat']","['toko', 'angkring', 'baik', 'bersih', 'bersih']"
+"['utama', 'layan', 'ramah', 'sigap', 'layan']",['ramah']
+"['hotel', 'dekat', 'bandara', 'kamar', 'lihat', 'gunung', 'rapi', 'bila', 'kondisi', 'cerah', 'fasilitas', 'lengkap', 'kolam', 'renang', 'cuma', 'lebih', 'lengkap', 'kalau', 'kolam']",[]
+"['layan', 'baik', 'rasa', 'masakan', 'enak', 'saran', 'menu', 'tiap', 'hari', 'lebih', 'variatif']","['baik', 'enak']"
+"['hotel', 'letak', 'jalur', 'utama', 'jalan', 'dekat', 'bandara', 'lama', 'bandara', 'menu', 'variasi']",['jalur']
+"['lokasi', 'hotel', 'strategis', 'mana', 'relatif', 'dekat', 'ramah', 'tanggap', 'beri', 'layan', 'proses', 'cepat', 'kamar', 'nyaman', 'bersih', 'lengkap', 'banget', 'bantal', 'guling', 'variatif', 'rasa', 'enak', 'enak', 'kalau', 'kunjung', 'bakal', 'balik']","['ramah', 'nyaman', 'bersih', 'enak', 'enak']"
+"['sarap', 'lengkap', 'kurang', 'semua', 'maaf', 'kamar', 'kurang', 'sedikit', 'terang', 'hias', 'mandi', 'lebih', 'terang', 'padahal', 'kamar', 'mandi', 'pakai', 'perlu', 'sisir', 'semua']","['maaf', 'sisir']"
+"['menu', 'sarap', 'rasa', 'enak', 'enak', 'banyak', 'pilih', 'menu', 'mantap', 'lena']","['enak', 'enak']"
+"['layan', 'hotel', 'bagus', 'sarap', 'layan', 'anak', 'magang', 'lombok']","['bagus', 'magang']"
+"['enak', 'komplit']",['enak']
+"['hotel', 'nyaman', 'ramah', 'makan', 'enak']","['nyaman', 'ramah', 'enak']"
+"['kamar', 'nyaman', 'ramah', 'makan', 'enak', 'positif', 'lain', 'lokasi', 'tengah', 'kota', 'mudah', 'jangkau']","['nyaman', 'ramah', 'enak', 'positif']"
+"['hotel', 'nyaman', 'lokasi', 'cukup', 'strategis', 'cukup', 'tengah', 'pergi', 'dekat', 'layan', 'sangat', 'ramah', 'penting', 'cukup', 'komplit', 'enak', 'satu', 'cukup', 'asin', 'hotel', 'sangat']","['nyaman', 'ramah', 'enak']"
+"['makan', 'enak', 'semua', 'cendol']","['enak', 'cendol']"
+"['layan', 'makan', 'enak', 'kamar', 'bersih', 'pokok']","['enak', 'bersih']"
+"['cukup', 'bagus', 'biasa', 'lama', 'pilih', 'fasilitas', 'layan', 'layan', 'lena', 'sangat', 'baik', 'terus', 'maju']","['bagus', 'baik', 'maju']"
+"['sarap', 'banget', 'semua', 'lezat', 'varian', 'menu', 'lengkap', 'rasa', 'akomodasi', 'semua', 'selera', 'layan', 'luar', 'biasa', 'ruang', 'nyaman']","['lezat', 'akomodasi', 'nyaman']"
+"['layan', 'restoran', 'ramah', 'makan']",['ramah']
+"['kamar', 'hotel', 'bersih', 'nyaman', 'menu', 'makan', 'variasi', 'enak']","['bersih', 'nyaman', 'enak']"
+"['baru', 'pertama', 'kali', 'over', 'semua', 'banget', 'layan', 'semua', 'ramah', 'mulai', 'bagi', 'menu', 'makan', 'variasi', 'mulai', 'makan', 'daerah', 'makan', 'barat', 'bubur', 'manis', 'bubur', 'ayam', 'nasi', 'banyak', 'varian', 'semua', 'bagus', 'banget']","['over', 'ramah', 'barat', 'bagus']"
+"['hotel', 'mewah', 'strategis', 'makan', 'enak']",['enak']
+"['enak', 'menu', 'restoran', 'kamar', 'mungkin', 'perlu', 'revisi', 'ulang', 'tambah', 'bagus', 'bersih', 'lampu', 'terang', 'kurang', 'terang']","['enak', 'revisi', 'bagus', 'bersih']"
+"['layan', 'sangar', 'ramah', 'pegawai', 'handal', 'hotel', 'jadi', 'sempurna', 'buat']","['sangar', 'ramah', 'handal', 'sempurna']"
+"['kamar', 'bersih', 'harga', 'murah', 'nuansa']","['bersih', 'nuansa']"
+"['sarap', 'enak', 'lokasi', 'strategis', 'bantu', 'citra', 'layan', 'baik']","['enak', 'citra', 'baik']"
+"['sarap', 'menu', 'lengkap', 'enak', 'minum', 'makan', 'menu', 'tambah', 'sangat', 'ramah', 'santun', 'bantu', 'lena']","['enak', 'ramah']"
+"['tempat', 'nyaman', 'menu', 'enak', 'layan', 'ramah', 'mbak']","['nyaman', 'enak', 'ramah']"
+"['lokasi', 'mudah', 'layan', 'bagus', 'kamar', 'luas', 'tempat', 'nyaman', 'makan', 'enak']","['bagus', 'nyaman', 'enak']"
+"['alam', 'kesan', 'layan', 'ramah', 'mantap', 'baru', 'kali', 'layan', 'bagus', 'lebih', 'bagus', 'hotel']","['ramah', 'bagus', 'bagus']"
+"['hotel', 'cukup', 'nyaman', 'ramah', 'lift', 'kenceng', 'bagus', 'minus', 'kolam', 'mini', 'cuma', 'meter']","['nyaman', 'ramah', 'bagus', 'mini']"
+"['bareng', 'kantor', 'buka', 'sama', 'sini', 'varian', 'menu', 'cukup', 'banyak', 'menu', 'nusantara', 'menu', 'timur', 'tengah']",['timur']
+"['kamar', 'bersih', 'nyaman', 'layan', 'serba', 'cepat', 'senang', 'ramah', 'lokasi', 'tengah', 'kota', 'mudah', 'jangkau']","['bersih', 'nyaman', 'serba', 'senang', 'ramah']"
+"['baik', 'sangat', 'buat', 'lokasi', 'pusat', 'kota', 'kamar', 'nyaman', 'bersih']","['baik', 'nyaman', 'bersih']"
+"['alam', 'inap', 'layan', 'sangat', 'luar', 'biasa', 'bahkan', 'barang', 'tinggal', 'pihak', 'hotel', 'layan', 'kirim', 'barang', 'baik']",['baik']
+"['coba', 'buka', 'sama', 'hotel', 'makan', 'kesan', 'rasa', 'enak', 'utama', 'kambing', 'guling', 'tongseng', 'enak', 'empuk', 'ramah', 'bagus']","['enak', 'tongseng', 'enak', 'ramah', 'bagus']"
+"['hotel', 'nyaman', 'sekali', 'kasur', 'bantal', 'empuk', 'guling', 'sangat', 'nyaman', 'tidur', 'sarap', 'menu', 'macam', 'enak', 'hotel', 'ramah', 'semua', 'ruang', 'wangi', 'bersih', 'pokok', 'jangan', 'ragu', 'inap', 'hotel', 'semua', 'sangat', 'senang', 'nyaman', 'inap', 'sini']","['nyaman', 'nyaman', 'enak', 'ramah', 'wangi', 'bersih', 'senang', 'nyaman']"
+"['layan', 'sangat', 'baik', 'pegawai', 'tawar', 'layan', 'makan', 'sangat', 'profesional', 'baik', 'pokok', 'sangat', 'rekomendasi', 'inap', 'sini']","['baik', 'baik']"
+"['hotel', 'layan', 'baik', 'makan', 'variasi', 'enak', 'mbak']","['baik', 'enak']"
+"['fasilitas', 'sangat', 'baik', 'makan', 'sangat', 'agam', 'sangat']",['baik']
+"['standar', 'hotel', 'bintang', 'kurang', 'bersih', 'kamar', 'perlu', 'tingkat', 'lokasi', 'enak', 'dekat', 'kalo', 'kerabat', 'rawat', 'sana']","['bersih', 'enak', 'kerabat', 'rawat']"
+"['jadi', 'insiden', 'mobil', 'bawa', 'tabrak', 'mobil', 'lalai', 'satpam', 'atur', 'lalu', 'lintas']","['insiden', 'tabrak', 'lalai']"
+"['lobi', 'kamar', 'interior', 'bagus', 'tunjuk', 'budaya', 'kamar', 'nyaman', 'menu', 'makan', 'saran', 'wedang', 'jangan', 'campur', 'dulu', 'gula', 'kalo', 'terlalu', 'manis']","['bagus', 'tunjuk', 'nyaman', 'campur', 'gula']"
+"['menu', 'sarap', 'sangat', 'variasi', 'kamar', 'sangat', 'bersih', 'unik']",['bersih']
+"['sarap', 'pagi', 'sangat', 'enak', 'layan', 'atas', 'nama', 'baik', 'ramah', 'sangat', 'puas']","['enak', 'baik', 'ramah', 'puas']"
+"['makan', 'minum', 'banyak', 'banget', 'layan', 'bagus', 'utama', 'mbak']",['bagus']
+"['mbak', 'tania', 'layan', 'ramah', 'sangat', 'sigap', 'menu', 'enak', 'tempat', 'nyaman', 'rapi']","['ramah', 'enak', 'nyaman']"
+"['layan', 'resepsionis', 'ramah', 'enak', 'datang', 'pukul', 'malam', 'order', 'banyak', 'pilih', 'menu', 'enak']","['ramah', 'enak', 'enak']"
+"['inap', 'malam', 'sini', 'kamar', 'cukup', 'baik', 'harga', 'kamar', 'mandi', 'variasi', 'menu', 'bagus', 'ikan', 'lokasi', 'hotel', 'sangat', 'strategis']","['baik', 'bagus']"
+"['sini', 'butuh', 'kerja', 'ramah', 'ramah', 'bikin', 'betah', 'senang', 'terima', 'kasih', 'mbak', 'atas', 'bantu', 'layan', 'luar', 'biasa']","['ramah', 'ramah', 'senang']"
+"['mohon', 'area', 'parkir', 'perhati', 'sangat', 'sangat', 'sangat', 'layak', 'pakai', 'kloset', 'banyak', 'kotor']",[]
+"['tempat', 'nyaman', 'indah', 'makan', 'mantap', 'layan']","['nyaman', 'indah']"
+"['lokasi', 'tengah', 'kota', 'dekat', 'menu', 'sarap', 'lengkap', 'variatif', 'mulai', 'makan', 'tradisional', 'masuk', 'jamu', 'jajan']",[]
+"['kamar', 'bagus', 'makan', 'enak']","['bagus', 'enak']"
+"['pintu', 'kamar', 'mandi', 'alot', 'geser', 'wastafel', 'sering', 'bocor', 'baik', 'sangat', 'baik', 'rusa']","['alot', 'geser', 'baik', 'baik']"
+"['hotel', 'tempat', 'strategis', 'jantung', 'kota', 'sibuk', 'layan', 'baik', 'mulai', 'cepat', 'bersih', 'kamar', 'operator', 'cekat', 'kamar', 'sempit', 'bagi', 'lemari']","['jantung', 'baik', 'bersih', 'cekat']"
+"['enak', 'semua', 'kamar', 'layan', 'ramah', 'betah', 'inap', 'sendiri', 'bantu', 'mbak', 'lena']","['enak', 'ramah']"
+"['kamar', 'bagus', 'enak', 'makan']","['bagus', 'enak']"
+"['drop', 'kurang', 'nyaman', 'parkir', 'mobil', 'sulit', 'kurang', 'luas']","['drop', 'nyaman', 'sulit']"
+"['saji', 'baik', 'layan', 'ramah', 'makan', 'banyak', 'pilih', 'enak', 'tempat', 'nyaman', 'bagus', 'ramah', 'buat', 'anak', 'anak']","['baik', 'ramah', 'enak', 'nyaman', 'bagus', 'ramah']"
+"['hotel', 'bersih', 'nyaman', 'makan', 'enak', 'layan', 'bagus', 'ramah']","['bersih', 'nyaman', 'enak', 'bagus', 'ramah']"
+"['kamar', 'nyaman', 'ruang', 'besar', 'paling', 'suka', 'semua', 'enak', 'banget']","['nyaman', 'enak']"
+"['plus', 'tahun', 'saat', 'pesan', 'lalu', 'aplikasi', 'sadar', 'guna', 'plus', 'sadar', 'pakai', 'pesan']",['aplikasi']
+"['menu', 'enak', 'lengkap']",['enak']
+"['hotel', 'enak', 'lokasi', 'tengah', 'kota', 'kamar', 'nyaman', 'layan', 'semua', 'makan', 'variatif', 'enak', 'libur']","['enak', 'nyaman', 'enak']"
+"['lalap', 'mbok', 'enak', 'makan', 'banyak', 'layan', 'sangat', 'bagus', 'sini', 'tahan']","['lalap', 'mbok', 'enak', 'bagus']"
+"['kamar', 'luas', 'interior', 'bagus', 'menu', 'agam', 'jamu', 'sedia', 'sarap', 'layan', 'hotel', 'ramah', 'lokasi', 'strategis']","['bagus', 'ramah']"
+"['sangat', 'utama', 'makan', 'enak', 'kamar', 'bersih', 'luas']","['enak', 'bersih']"
+"['interior', 'bagus', 'sangat', 'hotel', 'nyaman', 'makan', 'lumayan', 'enak']","['bagus', 'nyaman', 'enak']"
+"['senang', 'sekali', 'inap', 'sini']",['senang']
+"['sempat', 'hotel', 'hari', 'hari', 'pertama', 'nikmat', 'layan', 'saji', 'moga', 'hari', 'tiga', 'empat', 'nikmat']",['empat']
+"['layan', 'keren']",['keren']
+"['kamir', 'rokok', 'kuat', 'banget']","['kamir', 'kuat']"
+"['layan', 'ramah', 'lokasi', 'tawar', 'tingkat', 'bersih', 'baik', 'lokasi', 'strategis', 'akses', 'kota', 'pilih', 'makan', 'variasi', 'kreatif', 'menu']","['ramah', 'bersih', 'baik', 'kreatif']"
+"['hotel', 'plaza', 'menit', 'kalo', 'jalan', 'kaki', 'masuk', 'dekat', 'pusat', 'kota', 'pilih', 'bagus', 'libur', 'harga', 'kamar', 'terlalu', 'mahal']","['kaki', 'bagus']"
+"['sarap', 'sangat', 'variatif', 'kamar', 'bersih', 'sangat', 'nyaman', 'layan', 'sangat', 'ramah', 'baik']","['bersih', 'nyaman', 'ramah', 'baik']"
+"['alam', 'inap', 'kesan', 'mudah', 'staf', 'ramah', 'servis', 'manja', 'tamu']","['ramah', 'manja']"
+"['bagus', 'hotel', 'pandang', 'gunung', 'sarap', 'enak']","['bagus', 'enak']"
+"['semua', 'bantu']",[]
+"['agen', 'sangat', 'mudah', 'jangkau', 'ruang', 'bersih', 'kamar', 'mandi', 'bersih', 'kamar', 'luas']","['agen', 'bersih', 'bersih']"
+"['hotel', 'bagus', 'kamar', 'makan', 'enak', 'lengkap', 'layan', 'baik', 'resepsionis', 'restoran', 'baik']","['bagus', 'enak', 'baik', 'baik']"
+"['kamar', 'cukup', 'bersih', 'cepat', 'tanggap', 'lokasi', 'cukup', 'strategis', 'tambah', 'lokasi', 'pintu', 'masuk', 'pintu', 'keluar', 'lebih', 'baik', 'tanda', 'buat', 'lebih', 'besar', 'utama', 'tanda', 'lokasi', 'tutup', 'pohon', 'lihat', 'jelas']","['bersih', 'baik', 'pohon']"
+"['bagus', 'sekali', 'layan', 'hotel', 'lokasi', 'strategis', 'mudah', 'jangkau', 'menu']",['bagus']
+"['lokasi', 'strategis', 'kamar', 'bagus', 'layan', 'staf', 'hotel', 'baik', 'ramah']","['bagus', 'baik', 'ramah']"
+"['ruang', 'nyaman', 'sarap', 'enak', 'layan', 'bagus', 'lokasi', 'strategis', 'dekat', 'bagai', 'fasilitas', 'umum']","['nyaman', 'enak', 'bagus']"
+"['enak', 'kamar', 'rapi', 'lagan', 'sangat', 'baik', 'kolam', 'renang', 'luas']","['enak', 'lagan', 'baik']"
+"['menu', 'sarap', 'lengkap', 'sangat', 'tugas', 'layan', 'baik', 'baik', 'kamar', 'bersih', 'nyaman']","['baik', 'baik', 'bersih', 'nyaman']"
+[],[]
+"['tempat', 'sangat', 'indah', 'istirahat', 'lengkap', 'estetik', 'dekat', 'sedang', 'wisata', 'pokok', 'banget']","['indah', 'istirahat', 'estetik']"
+"['lokasi', 'strategis', 'layan', 'bagus']",['bagus']
+"['kamar', 'luas', 'layan', 'ramah', 'lokasi', 'dekat', 'minimarket', 'sayang', 'makan', 'kurang', 'agam', 'rasa', 'terlalu', 'ambil']",['ramah']
+"['layan', 'baik', 'ramah', 'enak', 'buat']","['baik', 'ramah', 'enak']"
+"['layan', 'sangat', 'baik', 'prasmanan', 'tarik', 'nyaman']","['baik', 'prasmanan', 'nyaman']"
+"['lokasi', 'cukup', 'jauh', 'bandara', 'jadi', 'layan', 'kamar', 'sempurna']",['sempurna']
+"['sangat', 'puas', 'layan', 'sangat', 'prima', 'kualitas', 'kecewa']","['puas', 'kecewa']"
+"['mungkin', 'masuk', 'bagi', 'lewat', 'telepon', 'jawab', 'atas', 'nyata', 'telpon', 'tanya', 'harga', 'kamar', 'malam', 'harga', 'kamar', 'start', 'telpon']","['telepon', 'jawab', 'start']"
+"['makan', 'banyak', 'pilih', 'mulai', 'tradisional', 'kamar', 'bersih', 'layan']",['bersih']
+"['hotel', 'besar', 'cuma', 'tinggal', 'gara', 'padahal', 'menit', 'besar', 'kena', 'servis']",['gara']
+"['sini', 'nyaman', 'banget', 'suasana', 'tenang', 'bersih', 'fasilitas', 'mewah', 'layan', 'ramah']","['nyaman', 'bersih', 'ramah']"
+"['alhamdulillah', 'malam', 'selalu', 'mampir', 'tiap', 'sukses', 'selalu']",[]
+"['layan', 'ramah', 'tawar', 'minum', 'telur', 'dadar', 'enak', 'teman', 'sosis', 'ruang', 'dingin', 'nyaman', 'over', 'salut']","['ramah', 'enak', 'sosis', 'nyaman', 'over', 'salut']"
+"['kunjung', 'pertama', 'kali', 'nuansa', 'kesan', 'pertama', 'cukup', 'artistik', 'dekorasi', 'celah']","['nuansa', 'artistik', 'celah']"
+"['kualitas', 'hotel', 'baik', 'makan', 'minum', 'enak', 'sekali', 'layan', 'sangat', 'baik', 'ramah']","['baik', 'enak', 'baik', 'ramah']"
+"['hotel', 'bersih', 'makan', 'suasana', 'banget', 'layan', 'mbak', 'luar', 'biasa', 'sangat', 'bantu', 'responsif', 'ramah', 'paling', 'penting', 'sangat', 'sabar']","['bersih', 'responsif', 'ramah']"
+"['nyaman', 'seru', 'bersih']","['nyaman', 'bersih']"
+"['sedia', 'guling', 'bantal', 'kecil', 'tidur', 'lebih', 'nyenyak', 'tenang']",[]
+"['tempat', 'bagus', 'layan', 'sangat', 'ramah', 'baik']","['bagus', 'ramah', 'baik']"
+"['menu', 'lengkap', 'banget']",[]
+"['sini', 'nyaman', 'inap', 'sini', 'kamar', 'bersih']","['nyaman', 'bersih']"
+"['cukup', 'lega', 'kecil', 'banget', 'suara', 'berisik', 'instalasi', 'renovasi', 'tembus', 'kamar', 'makan', 'enak', 'variasi', 'menu', 'minim']","['berisik', 'instalasi', 'renovasi', 'tembus', 'enak', 'minim']"
+"['sarap', 'enak', 'lengkap', 'gudeg', 'kamar', 'nyaman', 'bersih', 'tugas', 'ramah']","['enak', 'nyaman', 'bersih', 'ramah']"
+"['hati', 'hati', 'mandi', 'kamar', 'mandi', 'kolam', 'renang', 'kunci', 'keluar', 'untung', 'bawa', 'telpon', 'hotel', 'kasihan', 'kalau', 'anak', 'kecil', 'orang', 'hubung', 'siapa', 'siapa', 'kunci', 'jalan', 'keluar']","['hati', 'hati', 'untung', 'kasihan']"
+"['senang', 'sekali', 'inap', 'sini', 'kamar', 'nyaman', 'panas', 'fungsi', 'baik', 'ramah', 'semua', 'variatif', 'enak', 'semua', 'masuk', 'langsung', 'baik', 'bakal', 'balik']","['senang', 'nyaman', 'baik', 'ramah', 'enak', 'baik']"
+"['hotel', 'bagus', 'bersih', 'layan', 'ramah', 'makan', 'enak']","['bagus', 'bersih', 'ramah', 'enak']"
+"['layan', 'sangat', 'baik', 'ramah']","['baik', 'ramah']"
+"['layan', 'bagus', 'kamar', 'sarap', 'puas']","['bagus', 'puas']"
+"['layan', 'prima', 'rasa', 'bintang', 'higienis', 'enak', 'bikin', 'kangen', 'lidah', 'ramah', 'mbak', 'ramah', 'pintar', 'jelas']","['higienis', 'enak', 'kangen', 'ramah', 'ramah', 'pintar']"
+['enak'],['enak']
+"['sarap', 'bagus', 'rasa', 'sesuai', 'banyak', 'variasi']","['bagus', 'sesuai']"
+"['atas', 'nama', 'unit', 'restoran', 'sangat', 'ramah', 'bantu']","['unit', 'ramah']"
+"['layan', 'sangat', 'baik', 'bagus', 'makan']","['baik', 'bagus']"
+"['sekolah', 'pergi', 'hotel', 'malam', 'masuk', 'sangat', 'kagum', 'interior', 'tempat', 'sangat', 'ramah', 'murah', 'senyum', 'sarap', 'makan', 'lezat']","['sekolah', 'kagum', 'ramah', 'lezat']"
+"['lokasi', 'hotel', 'cukup', 'strategis', 'layan', 'cukup', 'baik', 'menu', 'agam', 'cukup', 'enak']","['baik', 'enak']"
+"['tempat', 'strategis', 'layan', 'bagus', 'semua', 'ramah']","['bagus', 'ramah']"
+"['hotel', 'bintang', 'cukup', 'baik', 'cocok', 'buat', 'libur', 'keluarga', 'makan', 'enak', 'karyawan', 'sangat', 'ramah', 'suasana', 'nyaman', 'adem', 'cukup', 'muas']","['baik', 'enak', 'ramah', 'nyaman']"
+"['baik', 'cuma', 'beberapa', 'perlu', 'tingkat', 'mulai', 'jatah', 'minum', 'banyak', 'tanggap', 'tugas', 'tangan', 'komplain', 'konsumen', 'baik', 'fasilitas', 'kamar', 'mandi', 'perlu', 'perhati', 'makan', 'semua', 'enak', 'layan', 'sangat', 'ramah', 'bagus']","['baik', 'jatah', 'baik', 'enak', 'ramah', 'bagus']"
+"['sarap', 'pagi', 'sangat', 'puas', 'enak', 'layan', 'atas', 'nama']","['puas', 'enak']"
+"['sarap', 'sini', 'variasi', 'soto', 'sangat']",[]
+"['pilih', 'tepat', 'buka', 'sama', 'harga', 'jangkau', 'layan', 'ramah', 'menu', 'variatif', 'serama', 'iftar', 'tempat', 'nyaman']","['ramah', 'serama', 'nyaman']"
+"['hotel', 'bersih', 'semua', 'layan', 'banget', 'makan', 'enak', 'jadi', 'hotel', 'lain', 'waktu']","['bersih', 'enak']"
+"['semua', 'bagus', 'makan', 'cukup', 'enak', 'layan', 'muas']","['bagus', 'enak']"
+"['pesan', 'kamar', 'malam', 'malam', 'akhir', 'konfirmasi', 'kamar', 'awal', 'alas', 'salah', 'balik', 'kerja', 'pukul']",[]
+"['bersih', 'rapi', 'wangi', 'banyak', 'pilih', 'enak', 'bingung', 'terima', 'kasih', 'layan', 'sangat', 'ramah']","['bersih', 'wangi', 'enak', 'ramah']"
+"['kamar', 'bagus', 'mungkin', 'sedikit', 'kendala', 'atur', 'manual', 'tirai', 'kamar', 'mandi', 'sempat', 'alami', 'kendala', 'bagus']","['bagus', 'manual', 'bagus']"
+"['tarik', 'hotel', 'desain', 'klasik', 'otentik', 'serasa', 'kalo', 'hotel']",['otentik']
+"['lengkap', 'enak', 'variatif']",['enak']
+"['makan', 'restoran', 'enak', 'layan', 'sangat', 'ramah', 'sangat', 'bantu', 'sangat', 'cocok', 'libur']","['enak', 'ramah']"
+"['sarap', 'luar', 'biasa', 'ramah', 'sekali', 'pokok']",['ramah']
+"['sarap', 'pagi', 'sangat', 'muas', 'sangat', 'enak', 'enak', 'layan', 'atas', 'nama', 'sangat', 'baik', 'cepat']","['enak', 'enak', 'baik']"
+"['makan', 'malam', 'tanggal', 'acara', 'kantor', 'sini', 'tahu', 'kurang', 'pedas', 'lada', 'hitam', 'sangat', 'lupa', 'foto', 'makan', 'jadi', 'foto', 'abis']","['lada', 'hitam']"
+"['keluh', 'arti', 'inap', 'sini', 'desain', 'interior', 'tarik', 'cermin', 'khas', 'daerah', 'guna', 'gelas', 'kaca', 'mineral', 'giat', 'guna', 'minum', 'kemas', 'botol']","['keluh', 'arti', 'cermin', 'mineral', 'kemas']"
+"['layan', 'staf', 'ramah', 'kamar', 'nyaman']","['ramah', 'nyaman']"
+"['hotel', 'nyaman', 'layan', 'ramah']","['nyaman', 'ramah']"
+"['kamar', 'bersih', 'makan', 'enak', 'layan', 'baik']","['bersih', 'enak', 'baik']"
+"['hotel', 'layan', 'baik', 'sangat', 'baik', 'semua', 'umum', 'hotel', 'luar', 'biasa', 'strategis', 'nyaman', 'luar', 'biasa']","['baik', 'baik', 'nyaman']"
+"['fasilitas', 'nyaman', 'sarap', 'pagi', 'banget', 'layan']",['nyaman']
+"['menu', 'enak']",['enak']
+"['tempat', 'sangat', 'baik', 'bersih', 'makan', 'minum', 'sangat', 'enak', 'muas']","['baik', 'bersih', 'enak']"
+"['layan', 'sangat', 'baik', 'makan', 'enak', 'kamar', 'sangat', 'nyaman']","['baik', 'enak', 'nyaman']"
+"['bagus', 'baik', 'enak', 'rapi']","['bagus', 'baik', 'enak']"
+"['kamar', 'bersih', 'nyaman', 'guling', 'lumayan', 'cuman', 'makan', 'wanita', 'ramah', 'entah', 'kecil', 'rada', 'greget', 'pilih', 'interior', 'kurang']","['bersih', 'nyaman', 'ramah', 'greget']"
+"['layan', 'suasana', 'nyaman', 'layan', 'makan', 'enak']","['nyaman', 'enak']"
+"['kamar', 'nyaman', 'luas', 'bagus', 'makan', 'enak', 'sangat', 'libur', 'maupun', 'acara', 'resmi', 'hotel']","['nyaman', 'bagus', 'enak', 'resmi']"
+"['hotel', 'bersih', 'sarap', 'lengkap', 'muas']",['bersih']
+"['tempat', 'nyaman', 'makan', 'enak']","['nyaman', 'enak']"
+"['tempat', 'bersih', 'nyaman', 'makan', 'cukup', 'enak', 'layan', 'beri', 'sangat', 'ramah', 'lokasi', 'hotel', 'sangat', 'strategis', 'area', 'wisata']","['bersih', 'nyaman', 'enak', 'ramah']"
+"['enak', 'sekali', 'kikil', 'mercon', 'sangat', 'enak', 'bumbu', 'medok', 'sekali', 'bajigur', 'enak', 'semua', 'layan', 'baik', 'maupun', 'kamar', 'semua', 'baik']","['enak', 'kikil', 'mercon', 'enak', 'medok', 'bajigur', 'enak', 'baik', 'baik']"
+"['kamar', 'bersih', 'nyaman', 'makan', 'enak', 'lokasi', 'strategis', 'mana']","['bersih', 'nyaman', 'enak']"
+"['makan', 'enak', 'semua', 'layan', 'baik', 'ramah']","['enak', 'baik', 'ramah']"
+"['layan', 'baik', 'hotel', 'ramah', 'hotel', 'luas', 'milik', 'fasilitas', 'lengkap', 'kamar', 'bersih', 'luas', 'kasur', 'nyaman', 'hidang', 'saji', 'agam', 'mulai', 'hingga', 'enak', 'rasa']","['baik', 'ramah', 'bersih', 'nyaman', 'enak']"
+"['enak', 'banget', 'sini', 'posisi', 'dekat', 'mana', 'strategis', 'layan', 'baik', 'sarap', 'enak', 'hari', 'senang', 'lama']","['enak', 'baik', 'enak', 'senang']"
+"['layan', 'hotel', 'umum', 'sangat', 'muas', 'kamar', 'sangat', 'bersih', 'rapi', 'makan', 'enak', 'banyak', 'varian', 'tahan', 'layan', 'prima']","['bersih', 'enak']"
+"['layan', 'bagus', 'ramah', 'makan', 'enak', 'enak', 'tempat', 'nyaman']","['bagus', 'ramah', 'enak', 'enak', 'nyaman']"
+"['layan', 'keren', 'sangat', 'hotel', 'bersih', 'sangat', 'sangat', 'cepat', 'tamu', 'rekomendasi', 'sangat', 'kalau', 'libur', 'hotel']","['keren', 'bersih']"
+"['tempat', 'cukup', 'nyaman', 'inap', 'sarap', 'cukup', 'variatif']",['nyaman']
+"['hotel', 'nyaman', 'fasilitas', 'lengkap', 'layan', 'ramah', 'jarak', 'pusat', 'wisata', 'lumayan', 'jauh', 'lebih']","['nyaman', 'ramah']"
+"['pertama', 'malam', 'kamar', 'tidur', 'nyaman', 'buat', 'tidur', 'nyenyak', 'banget']",['nyaman']
+"['baru', 'inap', 'hotel', 'sangat', 'alam', 'makan', 'siang', 'restoran', 'hotel', 'makan', 'saji', 'sangat', 'variasi']",[]
+"['sarap', 'luar', 'biasa', 'lena']",[]
+"['layan', 'kopi', 'makan', 'berat', 'aneka', 'masakan', 'tempat', 'duduk', 'rapi', 'saji', 'jumpa']",[]
+"['sarap', 'tarik', 'restoran', 'bersih', 'layan', 'muas', 'layan', 'tania', 'sangat', 'baik', 'bagus']","['bersih', 'baik', 'bagus']"
+"['lena', 'layan', 'sarap', 'keren']",['keren']
+"['senang', 'ramah']","['senang', 'ramah']"
+"['sekian', 'kali', 'kunjung', 'mulai', 'makin', 'terima', 'kasih', 'fitri', 'serta', 'serta', 'banyak', 'bantu', 'awal', 'meski', 'kunjung', 'kali']",['meski']
+"['ning', 'alam', 'pertama', 'senang']","['ning', 'senang']"
+"['alam', 'muas', 'inap', 'hotel', 'kamar', 'bersih', 'nyaman', 'makan', 'enak', 'layan', 'ramah', 'cekat', 'sangat', 'saran', 'inap', 'sini', 'libur', 'terima', 'hotel']","['bersih', 'nyaman', 'enak', 'ramah', 'cekat']"
+[],[]
+"['layan', 'semua', 'ramah', 'baik', 'makan', 'ragu', 'semua', 'menu', 'enak', 'bersih', 'jaga', 'hotel', 'pilih', 'libur']","['ramah', 'baik', 'enak', 'bersih']"
+"['momen', 'dapat', 'alam', 'seru', 'inap', 'hotel', 'layan', 'luar', 'biasa', 'bangat', 'semua', 'baik', 'banget', 'satu']","['momen', 'bangat', 'baik']"
+"['cukup', 'puas', 'menu', 'layan', 'ramah', 'sangat', 'murah', 'senyum', 'baik', 'layan']","['puas', 'ramah', 'baik']"
+"['jauh', 'hari', 'langsung', 'tanggal', 'buat', 'tempat', 'duduk', 'bawa', 'banyak', 'orang', 'sama', 'staf', 'hari', 'acara', 'tiba', 'tempat', 'duduk', 'pakat']",['pakat']
+"['kamar', 'nyaman', 'fasilitas', 'bagus', 'sarap', 'enak']","['nyaman', 'bagus', 'enak']"
+"['inap', 'anak', 'tahun', 'kamar', 'kena', 'paku', 'payung', 'seperti', 'salah', 'satu', 'kursi', 'kamar', 'kurang']","['paku', 'payung']"
+"['lift', 'operasi', 'long', 'bobrok', 'banget', 'siap', 'mateng', 'sangat', 'long', 'bayar', 'mahal', 'cuman', 'buat', 'lift', 'kelas']","['operasi', 'bobrok']"
+"['pilih', 'menu', 'sangat', 'ramah', 'nama', 'layan', 'baik', 'sepenuh', 'hati', 'sukses', 'selalu']","['ramah', 'baik', 'sepenuh', 'hati']"
+"['pertama', 'kali', 'sini', 'layan', 'sangat', 'ramah', 'sangat', 'ramah', 'layan']","['ramah', 'ramah']"
+"['makan', 'sarap', 'enak', 'enak', 'lengkap', 'segala', 'bagus', 'tepat', 'waktu', 'terima', 'tamu', 'pokok']","['enak', 'enak', 'bagus']"
+"['layan', 'ramah', 'acara', 'rapat', 'evaluasi', 'kabupaten', 'hotel', 'luas', 'toilet', 'bersih', 'luas', 'unik', 'lift', 'akses', 'lantai', 'jadi', 'sempat', 'bingung', 'cari', 'kata', 'lantai']","['ramah', 'evaluasi', 'kabupaten', 'bersih']"
+"['suasana', 'enak', 'nyaman', 'suka', 'menu', 'sarap', 'variatif', 'sama', 'jajan', 'khas', 'jamu']","['enak', 'nyaman']"
+"['alhamdulillah', 'sempat', 'inap', 'hotel', 'sangat', 'nyaman', 'tempat', 'strategis', 'menu', 'cukup', 'lengkap', 'kamar', 'nyaman', 'staf', 'ramah']","['nyaman', 'nyaman', 'ramah']"
+"['makan', 'enak', 'lidah', 'orang', 'lokal', 'servis', 'waktu', 'malah', 'sedia', 'wadah', 'tutup', 'acara', 'semua', 'segera', 'istirahat', 'istimewa']","['enak', 'wadah', 'istirahat']"
+"['ikut', 'buah', 'acara', 'pulang', 'malam', 'parkir', 'jalan', 'tuju', 'pintu', 'keluar', 'gelap', 'parkir', 'bayar', 'mahal', 'depan', 'pintu', 'masuk', 'bantu', 'pintu', 'keluar', 'padahal', 'lalu', 'lintas', 'padat', 'beda', 'lewat', 'hotel', 'belah']",['padat']
+"['makan', 'variasi', 'rasa', 'jamu', 'khas', 'enak', 'ruang', 'bersih', 'paling', 'bagi', 'dekat', 'pintu', 'rusak']","['enak', 'bersih', 'rusak']"
+"['makan', 'layan', 'hotel', 'bagus', 'moga', 'hotel']",['bagus']
+"['enak', 'kamar', 'kurang', 'bersih', 'sering', 'sekali', 'inap', 'bandung', 'sangat', 'luar', 'biasa', 'bersih']","['enak', 'bersih', 'bandung', 'bersih']"
+"['kamar', 'layan', 'lokasi', 'menu', 'makan', 'cocok', 'orang', 'mbak', 'lena', 'ramah', 'banget', 'bantu', 'teman']",['ramah']
+"['sarap', 'menu', 'variasi', 'sangat', 'baik', 'tamu', 'alangkah', 'baik', 'sofa', 'sedia', 'sisa', 'baru']","['baik', 'alangkah', 'baik']"
+"['layan', 'makan', 'siang']",[]
+"['selalu', 'inap', 'layan', 'baik', 'ramah', 'utama', 'sarap', 'kamar', 'bersih', 'lokasi', 'strategis']","['baik', 'ramah', 'bersih']"
+"['turut', 'hotel', 'emang', 'kualitas', 'banget', 'padan', 'harga', 'layan', 'ramah', 'banget', 'makan', 'saji', 'sangat', 'unik', 'enak', 'aneka', 'ragam', 'banget', 'buat']","['turut', 'emang', 'padan', 'ramah', 'enak']"
+"['tempat', 'strategis', 'jauh', 'bandara', 'kamar', 'bersih', 'nyaman', 'segi', 'hidang', 'enak', 'layan', 'ramah', 'harmonis', 'layak', 'coba']","['bersih', 'nyaman', 'enak', 'ramah', 'harmonis']"
+"['senang', 'semua', 'layan', 'baik', 'kamar', 'banyak', 'atas', 'layan']","['senang', 'baik']"
+"['sini', 'amanah', 'umum', 'hotel', 'nyaman', 'layan', 'baik', 'ramah', 'banget', 'pokok', 'banget', 'buat', 'libur', 'keluarga', 'sini', 'banget']","['amanah', 'nyaman', 'baik', 'ramah']"
+"['bersih', 'menu', 'lengkap', 'kolam', 'renang', 'nyaman', 'layan', 'ramah']","['bersih', 'nyaman', 'ramah']"
+"['sangat', 'muas', 'sekali', 'layan', 'khusus', 'makan', 'lengkap']",[]
+"['layan', 'sangat', 'muas', 'nyaman', 'suasana', 'adem', 'enak', 'buat', 'kumpul', 'bareng', 'keluarga', 'makan', 'sangat', 'enak', 'mantap', 'banyak', 'bagai', 'makan']","['nyaman', 'enak', 'kumpul', 'enak']"
+"['makan', 'enak', 'kamar', 'bersih', 'nyaman', 'suka', 'banget', 'hotel']","['enak', 'bersih', 'nyaman']"
+"['hotel', 'bagus', 'kamar', 'lokasi', 'makan', 'sarap', 'dekat', 'banyak', 'makan']",['bagus']
+"['tempat', 'nyaman', 'fasilitas', 'lengkap']",['nyaman']
+"['layan', 'sangat', 'bagus', 'kamar', 'bersih', 'makan', 'banyak', 'varian']","['bagus', 'bersih']"
+"['makan', 'enak', 'lokasi', 'bersih', 'layan', 'sangat', 'bantu', 'bantu', 'lena']","['enak', 'bersih']"
+"['kamar', 'nyaman', 'lokasi', 'pinggir', 'jalan', 'akses', 'mudah', 'menu', 'makan', 'variatif', 'selalu', 'selalu', 'duduk', 'layan', 'cepat', 'responsif', 'fasilitas', 'sayang', 'kolam', 'renang', 'kurang', 'nyaman', 'semua', 'lift', 'fungsi', 'tunggu']","['nyaman', 'responsif', 'nyaman']"
+"['sarap', 'enak', 'makan', 'selalu', 'hangat', 'bagai', 'macam', 'pilih', 'sangat', 'bantu']",['enak']
+"['layan', 'prima', 'layan', 'ramah', 'makan', 'bersih', 'kalo', 'banget', 'hotel', 'baik', 'bisnis', 'maupun']","['ramah', 'bersih', 'baik']"
+"['layan', 'baik', 'sopan', 'tempat', 'nyaman', 'buat', 'inap', 'sini', 'layan']","['baik', 'nyaman']"
+"['iftar', 'hotel', 'banget', 'layan', 'bagus', 'ramah', 'makan', 'enak', 'variatif']","['bagus', 'ramah', 'enak']"
+"['alam', 'inap', 'lengkap', 'kamar', 'nyaman', 'lokasi', 'hotel', 'tengah', 'kota', 'mudah', 'akses', 'lokasi']",['nyaman']
+"['layan', 'super', 'ramah', 'baik', 'makan', 'enak', 'macam', 'macam', 'suka', 'layan', 'kalo', 'bakal', 'mampir']","['ramah', 'baik', 'enak']"
+"['posisi', 'strategis', 'dekat', 'hotel', 'halte']",['halte']
+"['sarap', 'enak', 'banget', 'menu', 'agam', 'ramah', 'bantu', 'banget', 'sama', 'mbak', 'lena']","['enak', 'ramah']"
+"['sangat', 'nyaman', 'tempat', 'ramah', 'layan']","['nyaman', 'ramah']"
+"['layan', 'bagus', 'fasilitas', 'pokok']",['bagus']
+"['layak', 'senang', 'malam', 'sama', 'keluarga', 'sini']",['senang']
+"['hotel', 'layan', 'bagus', 'sangat', 'baik', 'semua', 'staf', 'sarap', 'enak', 'variasi', 'kamar', 'bersih', 'beberapa', 'bagi', 'perlu', 'baik', 'terang', 'redup', 'lebih', 'tingkat', 'umum', 'hotel', 'luar', 'biasa', 'strategis', 'nyaman', 'terima', 'kasih', 'luar', 'biasa']","['bagus', 'baik', 'enak', 'bersih', 'baik', 'redup', 'nyaman']"
+"['inap', 'lokasi', 'strategis', 'kamar', 'tamu', 'luas', 'banding', 'hotel', 'bintang', 'jenis', 'meski', 'perlu', 'remaja', 'kesan', 'lihat', 'staf', 'hotel', 'ramah', 'mulai', 'front', 'tugas', 'restoran', 'hingga']","['meski', 'remaja', 'ramah']"
+"['lain', 'bagus', 'bagus', 'sangat', 'kamar', 'interior', 'layan', 'super', 'bagus', 'makan', 'enak', 'enak', 'sedikit', 'lama']","['bagus', 'bagus', 'bagus', 'enak', 'enak']"
+"['mulai', 'layan']",[]
+"['kurang', 'baik', 'layan', 'dini', 'hari', 'bawa', 'semua', 'barang', 'sendiri', 'satpam', 'panas', 'baru', 'panas', 'biar', 'alir', 'lama']","['baik', 'dini']"
+"['layan', 'luar', 'biasa', 'staf', 'ramah', 'profesional', 'kamar', 'bersih', 'mewah', 'super', 'nyaman', 'fasilitas', 'lengkap', 'kolam', 'renang', 'sarap', 'semua', 'lokasi', 'strategis', 'suasana', 'tenang', 'alam', 'inap', 'muas']","['ramah', 'bersih', 'nyaman']"
+"['hotel', 'nyaman', 'layan', 'sangat', 'baik', 'kamar', 'bagus', 'bersih', 'wangi', 'makan', 'sedia', 'sangat', 'enak']","['nyaman', 'baik', 'bagus', 'bersih', 'wangi', 'enak']"
+"['kalau', 'sering', 'inap', 'sini', 'makan', 'enak', 'layan', 'ramah', 'nyaman']","['enak', 'ramah', 'nyaman']"
+"['tempat', 'tidur', 'bikin', 'gatal', 'kamar', 'luas', 'kulkas', 'dingin', 'dingin', 'lokasi', 'enak', 'tengah', 'kota']",['enak']
+"['layan', 'ramah', 'makan', 'enak', 'sedia', 'dingin', 'ruang', 'kontrol', 'suhu', 'dingin', 'banget']","['ramah', 'enak', 'kontrol']"
+"['enak', 'sekali', 'minum', 'komplit', 'rasa', 'enak', 'sekali', 'bagus', 'bantu', 'lena']","['enak', 'enak', 'bagus']"
+"['makan', 'ikan', 'tepung', 'keras', 'minum', 'sedia', 'kopi', 'buah', 'melon', 'manis', 'lain', 'bagus', 'enak', 'layan', 'bagus', 'ramah']","['melon', 'bagus', 'enak', 'bagus', 'ramah']"
+"['sarap', 'pagi', 'sangat', 'enak', 'muas']",['enak']
+"['suasana', 'ruang', 'kamar', 'suram', 'pintu', 'kamar', 'mandi', 'rusak', 'tutup', 'rapat', 'miris', 'kelas', 'hotel', 'bintang', 'lima', 'cocok', 'hotel', 'bintang', 'tiga', 'sangat', 'kecewa']","['suram', 'rusak', 'miris', 'kecewa']"
+"['makan', 'enak', 'sekali', 'daging', 'layan', 'pokok', 'mantap']",['enak']
+"['layan', 'restoran', 'ramah', 'makan', 'saji']",['ramah']
+"['makan', 'enak', 'tempat', 'nyaman', 'layan']","['enak', 'nyaman']"
+"['bersih', 'ramah', 'ramah', 'senyum']","['bersih', 'ramah', 'ramah']"
+"['makan', 'enak', 'ragam', 'variasi', 'banyak', 'macam', 'pilih']",['enak']
+"['makan', 'enak', 'semua', 'kamar', 'bersih', 'layan', 'mbak', 'ramah']","['enak', 'bersih', 'ramah']"
+"['ning', 'enak', 'sangat', 'buat', 'kamar', 'nasi', 'goreng', 'ayam', 'bawang', 'putih', 'kurang', 'bubur', 'mutiara', 'manis', 'bikin', 'jadi', 'dingin', 'terus', 'tinggal', 'bikin', 'baru']","['ning', 'enak', 'bawang', 'mutiara']"
+"['tempat', 'strategis', 'kota', 'layan', 'bagus', 'sekali', 'bantu', 'lena']",['bagus']
+"['bangun', 'bersih', 'kamar', 'bersih', 'enak', 'bagus', 'latar', 'serasa', 'candi']","['bersih', 'bersih', 'enak', 'bagus', 'latar']"
+"['kamar', 'sangat', 'bersih', 'fasilitas', 'lengkap']",['bersih']
+"['hingga', 'koridor', 'kamar', 'sangat', 'wangi', 'sangat', 'ramah', 'ringan', 'tangan', 'bantu', 'lokasi', 'hotel', 'cukup', 'strategis', 'terlalu', 'jauh', 'pusat', 'kota', 'rasa', 'makan', 'sarap', 'sangat', 'cocok', 'lidah', 'variasi', 'sangat', 'banyak']","['wangi', 'ramah']"
+"['layan', 'ramah', 'senang', 'kakak', 'moga', 'terima']","['ramah', 'senang', 'kakak']"
+"['kamar', 'menu', 'makan', 'semua', 'sangat', 'muas', 'banyak', 'pilih', 'menu', 'makan']",[]
+"['layan', 'makna']",['makna']
+"['bagi', 'beberapa', 'gelas', 'bekas', 'lipstik', 'amis', 'makan', 'tunggu', 'lama', 'mungkin', 'depan', 'lebih', 'tamu', 'tunggu', 'lama', 'makan']","['lipstik', 'amis']"
+"['menu', 'sarap', 'saji', 'bagus', 'lokasi', 'sarap', 'bagus', 'lihat', 'gunung', 'rapi', 'bersih', 'area', 'sarap', 'bagus', 'layan', 'bagus']","['bagus', 'bagus', 'bersih', 'bagus', 'bagus']"
+"['awal', 'inap', 'malam', 'malam', 'kurang', 'muas', 'main', 'beberapa', 'hangat', 'panas', 'coba', 'keras', 'gigit', 'antre', 'cukup', 'lama']","['main', 'gigit', 'antre']"
+"['sewu', 'sangat', 'nyaman', 'mudah', 'akses', 'makan', 'sangat', 'enak', 'ayam', 'enak', 'banget', 'teler', 'enak', 'ramah', 'sopan']","['sewu', 'nyaman', 'enak', 'enak', 'teler', 'enak', 'ramah']"
+"['hotel', 'mudah', 'jangkau', 'stasiun', 'bersih', 'harum', 'staf', 'semua', 'ramah', 'makan', 'variatif', 'enak', 'sayang', 'cuma', 'biasa', 'masalah']","['bersih', 'harum', 'ramah', 'enak']"
+"['kamar', 'nyaman', 'perhati', 'segi', 'fasilitas', 'toilet', 'lebih', 'sangat', 'muas']",['nyaman']
+"['layan', 'mbak', 'baik', 'ramah', 'makan', 'enak', 'ramah', 'lidah', 'suasana', 'nyaman', 'poko']","['baik', 'ramah', 'enak', 'ramah', 'nyaman']"
+"['kamar', 'nyaman', 'layan', 'ramah', 'lokasi', 'cukup']","['nyaman', 'ramah']"
+"['kamar', 'nyaman', 'layan', 'ramah', 'hotel', 'bersih', 'rapi', 'sempat', 'minta', 'sarap', 'bawa', 'jalan', 'nasi', 'goreng', 'kotak', 'minum', 'bawa', 'moga', 'kali', 'lebih', 'cermat']","['nyaman', 'ramah', 'bersih', 'kotak', 'cermat']"
+"['sarap', 'enak']",['enak']
+"['hotel', 'sangat', 'senang', 'dekat', 'pusat', 'kota', 'kamar', 'bersih', 'saji', 'restoran', 'enak', 'menu', 'variasi']","['senang', 'bersih', 'enak']"
+"['hotel', 'terlalu', 'baik', 'masa', 'kamar', 'nomer', 'orang', 'komplain', 'resepsionis', 'liat', 'bingung', 'lalu', 'lift', 'sering', 'eror', 'tombol', 'lantai', 'malah', 'lantai', 'masa', 'hotel', 'bintang', 'layan']","['baik', 'nomer', 'eror', 'tombol']"
+"['variatif', 'menu', 'banyak', 'enak', 'kamar', 'enak', 'rame']","['enak', 'enak']"
+"['bersih', 'hotel', 'sangat', 'bersih', 'layan', 'sangat', 'muas', 'sarap', 'mewah', 'nikmat', 'tambah', 'buat', 'rokok']","['bersih', 'bersih']"
+"['tempat', 'enak', 'kedap', 'suara', 'berisik', 'kalo', 'teriak', 'luar']","['enak', 'kedap', 'berisik', 'teriak']"
+"['ikan', 'enak', 'suasana', 'nyaman']","['enak', 'nyaman']"
+"['hotel', 'bagus', 'karyawan', 'ramah', 'lokasi', 'tengah', 'kota', 'jadi', 'mudah', 'kalau', 'cari', 'lokasi', 'wisata', 'kamar', 'mewah', 'kurang', 'untung', 'dapat', 'kamar', 'dengung', 'over']","['bagus', 'ramah', 'untung', 'dengung', 'over']"
+"['sarap', 'pagi', 'enak', 'layan', 'ramah', 'kamar', 'nyaman', 'iftar', 'terlalu', 'beberapa', 'sibuk', 'cuma']","['enak', 'ramah', 'nyaman']"
+"['kecewa', 'bela', 'datang', 'langsung', 'belum', 'tempat', 'buat', 'konfirmasi', 'tempat', 'pesan', 'kasih', 'rombong', 'kasih', 'tempat', 'pojok', 'sempit', 'banget', 'banget']","['kecewa', 'bela']"
+"['tempat', 'keren', 'suasana', 'bagus', 'hias', 'dinding', 'buat', 'suasana', 'bikin', 'adem', 'layan', 'baik', 'sekali', 'kerja', 'sangat', 'ramah', 'makan', 'enak']","['keren', 'bagus', 'baik', 'ramah', 'enak']"
+"['layan', 'kamar', 'luar', 'biasa', 'sukses']",[]
+"['makan', 'enak', 'pilih', 'banyak']",['enak']
+"['kamar', 'bersih', 'sarap', 'cukup', 'enak', 'banyak', 'varian', 'lokasi', 'strategis']","['bersih', 'enak']"
+"['fasilitas', 'enak', 'makan', 'enak', 'nyaman']","['enak', 'enak', 'nyaman']"
+"['baru', 'pertama', 'kali', 'sini', 'bikin', 'nyaman', 'sama', 'fasilitas', 'bersih', 'layan', 'bakal', 'keluarga', 'buat', 'hotel']","['nyaman', 'bersih']"
+"['sangat', 'muas', 'layan', 'mbak', 'lezat']",['lezat']
+"['hotel', 'mewah', 'bersih', 'layan', 'bagus', 'balik', 'mantap']","['bersih', 'bagus']"
+"['banyak', 'menu', 'sarap', 'layan', 'cerita']",['cerita']
+"['semua', 'menu', 'enak', 'layan', 'sangat', 'ramah', 'mbak']","['enak', 'ramah']"
+"['hotel', 'bintang', 'hadir', 'alam', 'inap', 'elegan', 'sentuh', 'budaya', 'desain', 'interior', 'lokasi', 'strategis', 'kawasan', 'hotel', 'dekat', 'pusat', 'kota', 'area']","['hadir', 'sentuh']"
+"['kamar', 'kamar', 'rokok', 'sama', 'sekali', 'bersih', 'dingin']",['bersih']
+"['datang', 'data', 'lengkap', 'suruh', 'kata', 'kamar', 'bersih', 'heran', 'satu', 'kemudian', 'oper', 'hotel', 'kata', 'penuh', 'siap', 'terima', 'rombong', 'lebih', 'orang']","['bersih', 'heran', 'oper']"
+"['hotel', 'nyaman', 'kamar', 'luas', 'bersih', 'makan', 'restoran', 'banyak', 'jenis', 'enak', 'terima', 'kasih']","['nyaman', 'bersih', 'enak']"
+"['akhir', 'lalu', 'inap', 'hotel', 'rangka', 'dinas', 'detail']",[]
+"['mulai', 'layan', 'ramah', 'profesional', 'hingga', 'suasana', 'nyaman', 'elegan', 'semua', 'sempurna', 'kamar', 'tempat', 'sangat', 'bersih', 'lengkap', 'fasilitas', 'lengkap', 'beri', 'nyaman', 'maksimal', 'lama']","['ramah', 'nyaman', 'sempurna', 'bersih', 'nyaman']"
+"['tempat', 'strategis', 'interior', 'bagus', 'unsur', 'buat', 'tarik', 'kamar', 'nyaman', 'makan', 'enak', 'kalau']","['bagus', 'unsur', 'nyaman', 'enak']"
+"['bubur', 'ayam', 'soto', 'kurang', 'garam', 'mungkin', 'suka', 'makan', 'asin', 'layan', 'sangat', 'baik', 'tahan', 'bila', 'perlu', 'tingkat', 'lebih', 'muas']","['garam', 'baik']"
+"['letak', 'hotel', 'strategis', 'layan', 'bagus', 'kamar', 'nyaman']","['bagus', 'nyaman']"
+"['hotel', 'bagus', 'layan', 'ramah', 'cocok']","['bagus', 'ramah']"
+"['layan', 'lokasi', 'strategis', 'kamar', 'bersih']",['bersih']
+"['layan', 'ramah', 'makan', 'enak', 'tempat', 'luas', 'bersih', 'nyaman']","['ramah', 'enak', 'bersih', 'nyaman']"
+"['selamat', 'malam', 'hotel']",['selamat']
+"['layan', 'cukup', 'bagus', 'aman', 'sangat', 'kurang', 'jadi', 'insiden', 'helm', 'hilang', 'kurang', 'maksimal', 'aman', 'lebih', 'jaga', 'kena', 'nyaman', 'aman', 'kurang', 'buat', 'unjung', 'hotel', 'jadi']","['bagus', 'insiden', 'helm', 'nyaman']"
+"['bersih', 'menu', 'agam', 'menu', 'hampir', 'selalu', 'jarang', 'temu', 'hotel']",['bersih']
+"['buah', 'hotel', 'sangat', 'strategis', 'pusat', 'kota', 'kawasan', 'fasilitas', 'keren', 'layan', 'sangat', 'baik', 'makan', 'sedap', 'jadi', 'tagih', 'kalo', 'urus', 'kepingin', 'sini']","['keren', 'baik', 'tagih', 'urus', 'kepingin']"
+"['inap', 'hari', 'malam', 'layan', 'bagus', 'banget', 'hingga', 'fasilitas', 'lengkap', 'kolam', 'renang', 'menu', 'sarap', 'sangat', 'variasi', 'rasa', 'sangat']",['bagus']
+"['jadi', 'salah', 'satu', 'hotel', 'buat', 'nyaman', 'sangat', 'sini', 'lengkap']",['nyaman']
+"['waktu', 'layan', 'ikan', 'rekomendasi', 'beberapa', 'wisata', 'layan', 'sangat', 'bagus', 'ramah']","['bagus', 'ramah']"
+"['sandang', 'hotel', 'bintang', 'rasa', 'bintang', 'kamar', 'beton', 'perabot', 'kuno', 'minta', 'lantai', 'atas', 'kamar', 'kasi', 'beton', 'sarap', 'banding', 'gram']","['sandang', 'perabot', 'kuno', 'kasi', 'gram']"
+"['sarap', 'enak', 'sangat', 'puas', 'lengkap', 'layan', 'mbak', 'lena', 'baik']","['enak', 'puas', 'baik']"
+"['makan', 'enak', 'tempat', 'waktu', 'pernah']",['enak']
+"['layan', 'baik', 'sekali']",['baik']
+"['lokasi', 'hotel', 'strategis', 'layan', 'ramah', 'kamar', 'nyaman']","['ramah', 'nyaman']"
+"['wajib', 'balik', 'sini', 'makan', 'enak', 'layan', 'ramah']","['enak', 'ramah']"
+"['layan', 'sangan', 'bagus', 'sarap', 'makan']","['sangan', 'bagus']"
+"['enak', 'cocok', 'buat', 'makan', 'enak', 'selalu', 'masa', 'waktu', 'panjang', 'jadi', 'puas', 'kalau', 'lama']","['enak', 'enak', 'puas']"
+"['senang', 'sekali', 'matur', 'cantik', 'ramah']","['senang', 'matur', 'cantik', 'ramah']"
+"['acara', 'jadi', 'paham', 'kamar', 'layan', 'bagus', 'makan', 'standar']","['paham', 'bagus']"
+"['resepsionis', 'ramah', 'layan', 'bagus', 'sini']","['ramah', 'bagus']"
+"['enak', 'layan', 'baik', 'mbak', 'lena']","['enak', 'baik']"
+"['layan', 'baik', 'karyawan', 'hotel', 'ramah', 'makan', 'enak', 'lengkap', 'banyak', 'menu']","['baik', 'ramah', 'enak']"
+"['layan', 'ramah', 'nyaman', 'makan', 'enak', 'bagus', 'pokok']","['ramah', 'nyaman', 'enak', 'bagus']"
+"['fasilitas', 'kamar', 'nyaman', 'sarap', 'enak', 'hangat', 'layan', 'baik', 'ramah', 'terima', 'kasih']","['nyaman', 'enak', 'baik', 'ramah']"
+"['sini', 'hotel', 'semua', 'kaget']",[]
+"['nyaman', 'layan', 'muas']",['nyaman']
+"['tempat', 'sangat', 'luas', 'nyaman', 'bersih', 'layan', 'kamar', 'sangat', 'nyaman', 'buat', 'istirahat']","['nyaman', 'bersih', 'nyaman', 'istirahat']"
+"['hotel', 'bagus', 'rapi', 'bersih', 'dekat', 'jalan', 'raya', 'layan', 'sangat', 'bagus', 'pokok']","['bagus', 'bersih', 'bagus']"
+"['variasi', 'makan', 'banyak', 'rasa', 'enak', 'kamar', 'besar', 'bagus', 'dingin', 'layan']","['enak', 'bagus']"
+"['bagus', 'kota', 'mana', 'banyak', 'kali', 'menu', 'suasana', 'hotel', 'nyaman', 'libur', 'lama', 'renang', 'keluarga', 'rame', 'tambah', 'kesan', 'mampir', 'pesan', 'sini']","['bagus', 'nyaman']"
+"['makan', 'sangat', 'enak', 'sangat', 'puas', 'segala', 'hidang']","['enak', 'puas']"
+"['lokasi', 'hotel', 'strategis', 'layan', 'baik', 'bagus', 'kamar', 'hotel', 'nyaman', 'menu', 'makan']","['baik', 'bagus', 'nyaman']"
+"['layan', 'sangat', 'ramah', 'sarap', 'banyak', 'variasi', 'enak']","['ramah', 'enak']"
+"['rupa', 'pertama', 'kali', 'inap', 'umum', 'lokasi', 'hotel', 'strategis', 'mudah', 'jangkau', 'kurang', 'lebih', 'menit', 'stasiun', 'kereta']",['rupa']
+"['senang', 'lepas', 'lelah', 'nyaman', 'lalu']","['senang', 'lelah', 'nyaman']"
+"['masuk', 'tuju', 'makan', 'sambut', 'baik', 'mbak', 'tania', 'sarap', 'favorit', 'jamu', 'bubur', 'ayam']",['baik']
+"['makan', 'siang', 'hari', 'sangat', 'enak', 'muas', 'layan', 'ramah']","['enak', 'ramah']"
+"['banyak', 'banget', 'varian', 'rasa', 'layan', 'baik', 'ramah']","['baik', 'ramah']"
+"['inap', 'sangat', 'rekomendasi', 'banget', 'fasilitas', 'bersih', 'jaga', 'banget', 'sini']",['bersih']
+"['kamar', 'nyaman']",['nyaman']
+"['ramah', 'utama', 'neng', 'makan', 'enak']","['ramah', 'enak']"
+"['nyaman', 'sangat', 'ramah']","['nyaman', 'ramah']"
+"['menu', 'makan', 'enak', 'puding', 'bersih', 'wangi']","['enak', 'bersih', 'wangi']"
+"['layan', 'ramah', 'terima', 'kasih']",['ramah']
+"['hotel', 'nyaman', 'sini', 'terus', 'layan', 'selalu', 'senyum', 'sarap', 'enak']","['nyaman', 'enak']"
+"['ramah', 'kemarin', 'tinggal', 'pihak', 'hotel', 'sangat', 'cepat', 'kooperatif', 'kirim', 'alamat', 'rumah', 'kota', 'banyak', 'utama', 'operator', 'sangat']","['ramah', 'kooperatif', 'alamat']"
+"['kasur', 'enak', 'kamar', 'luas']",['enak']
+"['hotel', 'super', 'nyaman', 'bersih', 'ramah']","['nyaman', 'bersih', 'ramah']"
+"['layan', 'bantu', 'utama', 'sarap', 'bantu', 'lena', 'sini', 'banyak', 'menu', 'pilih', 'tradisional', 'modern', 'enak', 'cocok', 'lidah']",['enak']
+"['alhamdulillah', 'alam', 'baru', 'inap', 'sini', 'terima', 'kasih', 'layan', 'ramah', 'santun', 'makan', 'masuk', 'lidah', 'kamar', 'lebar', 'nyaman']","['ramah', 'lebar', 'nyaman']"
+"['mantap', 'layan', 'makan']",[]
+"['muas', 'kamar', 'bersih', 'rapi', 'kecewa', 'menu', 'variatif']","['bersih', 'kecewa']"
+"['sungguh', 'luar', 'biasa', 'nyaman', 'mewah', 'harga', 'jangkau', 'cocok', 'banget', 'kalo', 'libur', 'buat', 'sama', 'suami']",['nyaman']
+"['ramah', 'selalu', 'sapa', 'senyum', 'sopan', 'kamar', 'bersih', 'nyaman', 'sekali', 'istirahat']","['ramah', 'bersih', 'nyaman', 'istirahat']"
+"['bagus', 'sarap', 'enak', 'layan', 'staf']","['bagus', 'enak']"
+"['alam', 'inap', 'hotel', 'senang', 'bareng', 'pasang', 'kamar', 'bersih', 'luas', 'bantal', 'selimut', 'wangi', 'kamar', 'mandi', 'bersih', 'hangat', 'sedia']","['senang', 'bersih', 'wangi', 'bersih']"
+"['enak', 'ramah', 'staf', 'bantu', 'beri', 'sama', 'suami']","['enak', 'ramah']"
+"['kamar', 'cukup', 'bersih', 'layan', 'bagus', 'makan', 'enak']","['bersih', 'bagus', 'enak']"
+"['salah', 'satu', 'hotel', 'area', 'cukup', 'strategis', 'lokasi', 'hotel', 'masuk', 'lobi', 'lumayan', 'tematik']",['tematik']
+"['menu', 'sarap', 'suguh', 'bagai', 'macam', 'rasa', 'enak', 'hotel', 'ramah', 'semua', 'mungkin', 'kali', 'over', 'mantap']","['suguh', 'enak', 'ramah', 'over']"
+"['menu', 'sangat', 'variasi', 'mulai', 'sini']",[]
+"['kesan', 'pertama', 'masuk', 'sangat', 'muas', 'bersih', 'mewah', 'layan', 'baik', 'ramah', 'makan', 'malam', 'cocok', 'menu', 'terima', 'kasih']","['bersih', 'baik', 'ramah']"
+"['kamar', 'super', 'nyaman', 'sangat', 'ramah', 'makan', 'pilih', 'banyak', 'banget', 'enak', 'enak', 'mbak', 'mbak', 'sangat', 'baik', 'banget', 'sangat', 'ramah']","['nyaman', 'ramah', 'enak', 'enak', 'baik', 'ramah']"
+"['sarap', 'enak', 'bagus', 'dekat', 'kolam', 'renang', 'kamar', 'kalau', 'cuaca', 'cerah', 'gunung', 'rapi']","['enak', 'bagus']"
+"['hotel', 'bagus', 'makan', 'enak', 'nyaman', 'lama', 'hari', 'jadi', 'hotel', 'paling', 'bagus', 'tema']","['bagus', 'enak', 'nyaman', 'bagus', 'tema']"
+"['over', 'jadi', 'anggota', 'layan', 'hotel', 'sangat', 'muas', 'utama', 'mbak', 'gita', 'selalu', 'senang', 'hati', 'ramah', 'servis', 'lama', 'hari']","['over', 'anggota', 'senang', 'hati', 'ramah']"
+"['sangat', 'nyaman', 'kamar', 'meski', 'pintu', 'kamar', 'mandi', 'seret', 'buka', 'tutup', 'sarap', 'pagi', 'sangat', 'variasi', 'kuah', 'roti', 'makan', 'berat', 'macam', 'macam', 'lauk', 'makan', 'penuh', 'serat', 'buah', 'makan', 'siang']","['nyaman', 'meski', 'seret', 'kuah', 'serat']"
+"['menu', 'sarap', 'nikmat', 'cita', 'rasa', 'bumbu']",[]
+"['mulai', 'bagai', 'macam', 'nama', 'donat', 'tradisional', 'masakan', 'tradisional', 'masakan', 'kini', 'rasa', 'juara', 'fasilitas']","['donat', 'kini']"
+"['sini', 'enak', 'banget', 'ramah', 'ramah', 'makan', 'lengkap']","['enak', 'ramah', 'ramah']"
+"['menu', 'makan', 'banyak', 'rasa', 'enak', 'layang', 'sangat', 'ramah', 'bantu', 'mbak', 'lena']","['enak', 'layang', 'ramah']"
+"['premium', 'sekali', 'soto', 'jenang', 'banyak', 'sekali', 'lain']","['premium', 'jenang']"
+"['sarap', 'lengkap', 'enak', 'pokok', 'ramah', 'sekali']","['enak', 'ramah']"
+"['layan', 'semua', 'baik', 'komplit', 'makan', 'semua', 'enak']","['baik', 'enak']"
+"['semua', 'fasilitas', 'tentu', 'aman', 'nyaman']",['nyaman']
+"['makan', 'enak', 'menu', 'lengkap', 'layan', 'muas']",['enak']
+"['sarap', 'enak', 'banyak', 'pilih', 'kamar', 'nyaman', 'halte', 'trans', 'lengkap', 'kalau', 'gampang']","['enak', 'nyaman', 'halte', 'trans', 'gampang']"
+"['makan', 'enak', 'layan', 'ramah', 'baik', 'seluruh']","['enak', 'ramah', 'baik']"
+"['layan', 'makan', 'sangat', 'baik', 'terima', 'kasih', 'lena', 'layan', 'sangat', 'ramah']","['baik', 'ramah']"
+"['luar', 'biasa', 'lezat', 'segar', 'hotel', 'pernah', 'dapat']",['lezat']
+"['rapi', 'empuk', 'sangat', 'jadi', 'rebah', 'terus', 'kamar', 'nyaman', 'wangi', 'jangan', 'khawatir', 'alat', 'mandi', 'lengkap', 'jadi', 'khawatir', 'kalau', 'jalan', 'bisnis']","['nyaman', 'wangi', 'khawatir', 'khawatir']"
+"['bintang', 'satu', 'tugas', 'pagi', 'janji', 'tamu', 'hotel', 'depan', 'baru', 'datang', 'langsung', 'bentak', 'suruh', 'padahal', 'tamu', 'depan', 'untung', 'tamu']","['janji', 'bentak', 'untung']"
+"['tempat', 'kamar', 'layan', 'manis', 'sangat', 'bagus']",['bagus']
+"['enak', 'banyak', 'pilih', 'giat', 'banyak', 'kamar']",['enak']
+"['banget', 'sini']",[]
+"['serasa', 'rumah', 'sendiri', 'layan', 'baik']",['baik']
+"['layan', 'sangat', 'baik', 'makan', 'enak', 'enak', 'layan', 'ramah']","['baik', 'enak', 'enak', 'ramah']"
+"['makan', 'enak', 'cukup', 'agam', 'banyak', 'makan', 'tradisional', 'bagi', 'minum', 'agam', 'jenis', 'jamu', 'hingga', 'kopi', 'sedia', 'ramah', 'baik', 'sekali', 'lihat', 'piring', 'kotor', 'langsung', 'angkut']","['enak', 'ramah', 'baik', 'angkut']"
+"['makan', 'enak', 'semua', 'layan', 'pegawai', 'ramah', 'semua', 'tempat', 'bersih', 'langgan', 'tiap', 'tahun', 'hotel']","['enak', 'ramah', 'bersih']"
+"['layan', 'ramah', 'kualitas', 'bagus', 'fasilitas', 'muas', 'banget']","['ramah', 'bagus']"
+"['kamar', 'pertama', 'kali', 'masuk', 'pengap', 'lembab', 'lama', 'pakai', 'kamar', 'mandi', 'terlalu', 'bersih', 'makan', 'layan', 'baik']","['pengap', 'lembab', 'bersih', 'baik']"
+"['kamar', 'baik', 'puas', 'inap', 'atas', 'layan']","['baik', 'puas']"
+"['sini', 'jangan', 'hotel', 'bintang', 'tembok', 'bayar', 'mahal', 'liat', 'tembok', 'sedih', 'rasa', 'stok', 'tisu', 'kamar']","['sedih', 'stok', 'tisu']"
+"['sarap', 'enak', 'kamar', 'nyaman', 'mbak', 'gita']","['enak', 'nyaman']"
+"['sarap', 'lumayan', 'banyak', 'pilih', 'utama', 'buah', 'mungkin', 'tambah', 'jenis', 'nanas']",['nanas']
+"['beberapa', 'kali', 'malam', 'layan', 'selalu', 'ramah', 'kamar', 'bersih', 'sarap', 'enak', 'semua', 'banyak', 'varian', 'makan', 'tradisional', 'banyak', 'enak', 'enak', 'layan', 'bagus', 'ramah', 'terima']","['ramah', 'bersih', 'enak', 'enak', 'enak', 'bagus', 'ramah']"
+"['pertama', 'kali', 'inap', 'hotel', 'kesan', 'muas', 'lokasi', 'strategis', 'kota', 'dekat', 'plaza', 'layan', 'ramah', 'proses', 'sangat', 'cepat', 'kamar', 'bersih', 'modern', 'nyaman']","['ramah', 'bersih', 'nyaman']"
+"['tempat', 'inap', 'senang', 'sarap', 'menu', 'agam', 'menu', 'jajan', 'pasar', 'otentik', 'sangat', 'rekomendasi', 'libur']","['senang', 'otentik']"
+"['suasana', 'sangat', 'bagus', 'kamar', 'buat', 'nyaman', 'layan', 'sangat', 'ramah', 'makan', 'saji', 'enak', 'lezat']","['bagus', 'nyaman', 'ramah', 'enak', 'lezat']"
+"['sini', 'cuma', 'jadi', 'cuma', 'lokasi', 'sangat', 'strategis', 'tengah', 'tengah', 'kota', 'pinggir', 'jalan', 'utama', 'bagi', 'informasi', 'sangat', 'ramah']",['ramah']
+"['alam', 'inap', 'sini', 'muas', 'fasilitas', 'kamar', 'lengkap', 'nyaman', 'semua', 'fungsi', 'baik', 'kendala', 'lama', 'inap', 'area', 'parkir', 'luas', 'pada', 'jadi', 'perlu', 'khawatir', 'bawa', 'kendara']","['nyaman', 'baik', 'khawatir', 'kendara']"
+"['beri', 'layan', 'baik', 'makan', 'enak', 'waktu', 'sarap', 'mbak']","['baik', 'enak']"
+"['lokasi', 'bagus', 'pusat', 'kota', 'makan', 'kurang', 'enak', 'tarik', 'utama', 'bagi', 'nasi', 'buah']","['bagus', 'enak']"
+"['layan', 'bagus', 'enak', 'lantai', 'betul', 'jadi', 'suasana', 'enak', 'makan', 'enak', 'semua', 'coba', 'buka', 'puasa']","['bagus', 'enak', 'enak', 'enak']"
+"['ruang', 'kamar', 'nyaman', 'bersih', 'lengkap', 'enak']","['nyaman', 'bersih', 'enak']"
+"['masakan', 'variatif', 'banget', 'layan', 'cepat', 'tanggap', 'banget', 'sama', 'bersih', 'meja', 'tamu']",['bersih']
+"['layan', 'bagus', 'masakan', 'enak']","['bagus', 'enak']"
+"['hotel', 'bagus', 'semua', 'masakan', 'enak', 'sekali', 'menu', 'variatif', 'ramah', 'anak', 'semua']","['bagus', 'enak', 'ramah']"
+"['sekali', 'sedia', 'banyak', 'varian', 'sini', 'tempat', 'nyaman', 'adem']",['nyaman']
+"['sangat', 'nyaman', 'tempat', 'sangat', 'strategis']",['nyaman']
+"['sangat', 'alam', 'inap', 'hotel', 'mulai', 'layan', 'ramah', 'profesional', 'hingga', 'suasana', 'nyaman', 'elegan', 'semua', 'sempurna', 'kamar', 'tempat', 'sangat', 'bersih']","['ramah', 'nyaman', 'sempurna', 'bersih']"
+"['sangat', 'bagus', 'bantu', 'lena', 'kamar', 'bagus', 'bersih', 'suasana', 'tenang', 'makan', 'enak', 'menu', 'cukup', 'variatif']","['bagus', 'bagus', 'bersih', 'enak']"
+"['bagus', 'nyaman', 'tempat']","['bagus', 'nyaman']"
+"['makan', 'pagi', 'saji', 'rasa', 'enak', 'semua', 'fasilitas', 'semua']",['enak']
+"['makan', 'cuma', 'kurang', 'banyak', 'menu', 'kamar', 'bintang', 'kurang', 'lengkap', 'setrika']",[]
+"['tempat', 'nyaman', 'makanya', 'enak', 'buat', 'giat', 'bantu', 'lena']","['nyaman', 'makanya', 'enak']"
+"['letak', 'strategis', 'layan', 'baik', 'sarap', 'enak']","['baik', 'enak']"
+"['kamar', 'nyaman', 'bersih', 'layan', 'mantap', 'makan', 'luar', 'biasa', 'enak']","['nyaman', 'bersih', 'enak']"
+"['layan', 'sangat', 'bagus', 'sangat', 'ramah', 'kamar', 'rapi', 'bersih', 'bersih', 'makan', 'enak']","['bagus', 'ramah', 'bersih', 'bersih', 'enak']"
+"['muas', 'menu', 'lengkap', 'lezat']",['lezat']
+"['hotel', 'bintang', 'makan', 'enak', 'bagus', 'sayang', 'kurang', 'dingin', 'jadi', 'panas', 'sangat', 'datang', 'sedikit', 'kotor', 'jadi', 'bikin', 'gatal', 'kulit']","['enak', 'bagus', 'kulit']"
+"['enak', 'layan', 'mbak', 'sangat', 'baik']","['enak', 'baik']"
+"['makan', 'enak', 'layan', 'bagus', 'kamar', 'rokok', 'rokok', 'kamar', 'lambat', 'banget', 'jernih', 'kabur', 'bintik']","['enak', 'bagus', 'bintik']"
+"['kunjung', 'lantai', 'menu', 'saji', 'sangat', 'agam', 'tarik', 'layan', 'ikan', 'sangat', 'bagus', 'sangat', 'buat', 'kalian', 'coba']",['bagus']
+"['sini', 'keluarga', 'dekat', 'lokasi', 'sangat', 'strategis', 'pusat', 'kota', 'solo', 'pusat', 'tempat', 'belanja', 'area', 'selalu', 'rame', 'pinggir', 'utama', 'tempat', 'acara', 'tamu', 'undang', 'sistem']",[]
+"['luas', 'bersih', 'nyaman', 'buat', 'santa', 'kamar', 'cukup', 'baik', 'tempat', 'tidur', 'rapi', 'banget', 'kamar', 'mandi', 'bersih', 'inap', 'kendala', 'puas', 'pokok']","['bersih', 'nyaman', 'baik', 'bersih', 'puas']"
+"['hotel', 'menu', 'enak', 'enak', 'semua']","['enak', 'enak']"
+"['kamar', 'cukup', 'muas', 'layan', 'makan', 'sangat', 'variatif', 'rasa', 'muas']",[]
+"['layan', 'sangat', 'ramah', 'kamar', 'luas', 'bersih', 'lokasi', 'strategis', 'dekat', 'hotel', 'banyak', 'jual', 'makan', 'tempat']","['ramah', 'bersih', 'jual']"
+"['salah', 'satu', 'hotel', 'lokasi', 'cukup', 'strategis', 'cocok', 'tamu', 'inap', 'tempat', 'dekat', 'tempat', 'wisata', 'tempat', 'makan', 'lokasi', 'rawan', 'macet']",['rawan']
+"['kamar', 'nyaman', 'menu', 'sarap', 'enak']","['nyaman', 'enak']"
+"['layan', 'baik', 'sarap', 'tepat', 'waktu', 'baik']","['baik', 'baik']"
+"['lokasi', 'strategis', 'dekat', 'pusat', 'kota', 'tempat', 'tempat', 'wisata', 'kamar', 'sangat', 'nyaman', 'bersih', 'rapi', 'fasilitas', 'hotel', 'sangat', 'lengkap', 'layan', 'staf', 'hotel', 'sangat', 'ramah', 'profesional', 'sangat', 'bantu', 'selalu']","['nyaman', 'bersih', 'ramah']"
+"['hotel', 'lumayan', 'mewah', 'sayang', 'kamar', 'kelas', 'superior', 'bagi', 'teras', 'hadap', 'tembok', 'ganti', 'minta', 'kamar', 'mandi', 'aroma', 'pesing', 'nyala', 'servis']","['teras', 'pesing']"
+"['makan', 'menu', 'banyak', 'variasi', 'nyala', 'makan', 'panas', 'suasa']",['suasa']
+"['layan', 'sangat', 'baik', 'sarap', 'menu', 'agam', 'semua', 'enak', 'rekomendasi', 'libur']","['baik', 'enak']"
+"['orang', 'rental', 'sedang', 'tunggu', 'hotel', 'kantin', 'khusus', 'cuma', 'karyawan', 'cari', 'makan', 'minum', 'keluar', 'jauh', 'kantin', 'hotel', 'khusus', 'karyawan']",['rental']
+"['hotel', 'dekat', 'kampus', 'meter', 'hotel', 'nyaman', 'makan', 'enak', 'variatif', 'menu', 'pokok']","['kampus', 'nyaman', 'enak']"
+"['makan', 'restoran', 'lumayan', 'variasi', 'kolam', 'renang', 'kamar', 'lumayan', 'bersih', 'lengkap', 'hotel', 'bintang', 'layan', 'bintang']",['bersih']
+"['tempat', 'strategis', 'fasilitas', 'layan', 'terus', 'tingkat', 'layan', 'muas', 'masyarakat']",['masyarakat']
+"['varian', 'sarap', 'tambah', 'datang', 'jadi', 'penuh', 'sama', 'orang', 'kantor', 'acara', 'susah', 'banget', 'cari', 'tempat', 'duduk', 'kendala', 'balik', 'acara', 'akses', 'pintu', 'mati', 'semua', 'jadi', 'turun']",['turun']
+"['layan', 'menu', 'sarap', 'sangat', 'sangat', 'bantu', 'layan', 'ramah', 'tania']",['ramah']
+"['layan', 'buka', 'puasa', 'sangat', 'kecewa', 'sejak', 'langsung', 'lokasi', 'pilih', 'tempat', 'orang', 'nyata', 'pindah', 'tempat', 'pojok']",['kecewa']
+"['menu', 'sarap', 'sini']",[]
+"['menu', 'lengkap', 'variasi', 'rasa', 'enak']",['enak']
+"['layan', 'kamar', 'bersih', 'makan', 'luar', 'biasa', 'senang', 'tahan']","['bersih', 'senang']"
+"['layan', 'bagus', 'makan', 'enak', 'kamar', 'bersih', 'nyaman', 'mbak', 'lombok']","['bagus', 'enak', 'bersih', 'nyaman']"
+"['banyak', 'pilih', 'enak', 'semua', 'bantu', 'lena']",['enak']
+"['fasilitas', 'layan', 'layak', 'hotel', 'bintang', 'akses', 'area', 'parkir', 'sempit', 'hampir', 'baru', 'kamar', 'kualitas', 'kurang', 'kamar', 'mandi', 'utama', 'sempit']",[]
+"['tempat', 'nyaman', 'bagus', 'bersih', 'makan', 'enak', 'layan', 'ramah']","['nyaman', 'bagus', 'bersih', 'enak', 'ramah']"
+"['fasilitas', 'pada', 'layan', 'ramah']",['ramah']
+"['inap', 'sini', 'lama', 'hari', 'luar']",[]
+"['nyaman', 'ramah', 'makan', 'enak', 'hotel', 'akses', 'mudah', 'dekat', 'jalan', 'raya', 'milik', 'parkir', 'luas', 'dingin', 'saran', 'mungkin', 'suka', 'pusat', 'mungkin', 'pakai', 'kemeja', 'lengan', 'panjang', 'atau', 'jaket', 'bila', 'perlu']","['nyaman', 'ramah', 'enak', 'kemeja', 'lengan', 'jaket']"
+"['malam', 'kesan', 'atas']",[]
+"['menu', 'agam', 'banyak', 'makan', 'enak', 'layan', 'sangat', 'ramah']","['enak', 'ramah']"
+"['layan', 'sigap', 'sangat', 'ramah', 'sopan', 'unjung', 'tempat', 'strategis']",['ramah']
+"['menu', 'makan', 'sangat', 'lengkap', 'enak', 'bagai', 'makan', 'menu', 'lokal', 'banyak', 'pilih', 'kudap']","['enak', 'kudap']"
+"['parah', 'iftar', 'piring', 'tigas', 'malah', 'senyum', 'lalu', 'kabur', 'kabur', 'piring', 'hotel', 'bantu', 'padahal', 'jauh', 'jauh', 'hari', 'sampai', 'enak', 'hati']","['tigas', 'enak', 'hati']"
+"['parkir', 'motor', 'aman', 'padahal', 'gedung', 'uang', 'receh', 'hampir', 'penuh', 'dasbor', 'motor', 'habis', 'sisa', 'curi', 'semua', 'motor', 'teman', 'buka', 'susah']","['uang', 'receh', 'dasbor', 'curi']"
+"['sangat', 'puas', 'atas', 'segala', 'fasilitas', 'layan', 'hotel', 'suasana', 'kamar', 'suasana', 'hotel', 'tarik', 'layan', 'sangat', 'ramah', 'mulai', 'hingga', 'mohon', 'selalu', 'terus', 'tingkat']","['puas', 'ramah']"
+"['layan', 'ramah', 'suka', 'sekali', 'enak']","['ramah', 'enak']"
+"['makan', 'enak', 'enak', 'layan', 'ramah', 'hotel', 'bersih', 'wangi', 'nyaman']","['enak', 'enak', 'ramah', 'bersih', 'wangi', 'nyaman']"
+"['layan', 'restoran', 'sangat', 'muas', 'makan', 'minum', 'cukup', 'lengkap', 'rasa', 'enak']",['enak']
+"['hotel', 'nyaman', 'kerja', 'libur', 'sama', 'keluarga', 'kamar', 'nyaman', 'layan', 'sangat', 'muas']","['nyaman', 'nyaman']"
+"['sarap', 'enak', 'terima', 'kasih', 'semua', 'layan', 'beri', 'rasa', 'puas']","['enak', 'puas']"
+"['inap', 'kamar', 'dapat', 'kamar', 'mandi', 'tutup', 'tirai', 'coba', 'bagai', 'atur', 'tetap', 'keluar', 'area', 'genang', 'area', 'kloset', 'duduk', 'kering', 'seperti', 'area', 'perlu', 'desain', 'ulang']",['kering']
+"['mantap', 'kamar', 'sarap', 'lumayan', 'agam']",[]
+"['kamar', 'bersih', 'layan', 'baik', 'makan', 'lengkap', 'bukan', 'pertama', 'kali', 'inap', 'sini', 'selalu', 'puas']","['bersih', 'baik', 'puas']"
+"['kamar', 'desain', 'semi', 'klasik', 'rapi', 'bersih', 'restoran', 'saji', 'masakan', 'terima', 'kasih']","['semi', 'bersih']"
+"['proses', 'hampir', 'kamar', 'proses', 'siap', 'kamar']",[]
+"['waktu', 'baru', 'masuk', 'harum', 'ruang', 'terlalu', 'pekat', 'seperti', 'kalau', 'rang', 'lebih', 'nyaman']","['harum', 'pekat', 'nyaman']"
+"['sarap', 'enak', 'sangat', 'lengkap', 'lama', 'tugas', 'sarap', 'hotel', 'bosan', 'layan', 'lena', 'sangat', 'senang', 'berapa', 'sini']","['enak', 'senang', 'berapa']"
+"['sarap', 'nikmat', 'lezat', 'bantu', 'mbak', 'lena']",['lezat']
+"['makan', 'enak', 'layan', 'bagus']","['enak', 'bagus']"
+"['sini', 'mantap', 'banget', 'harga', 'layan', 'ramah', 'banget', 'arah', 'makan', 'semua', 'tahun', 'depan']",['ramah']
+"['kamar', 'nyaman', 'luas', 'banyak', 'variasi', 'menu', 'layan', 'ramah', 'cocok', 'keluarga', 'santa', 'bersih', 'kamar', 'perlu', 'tingkat']","['nyaman', 'ramah', 'bersih']"
+"['semur', 'daging', 'enak', 'bantu', 'mbak', 'lena']","['semur', 'enak']"
+"['bagus', 'layan', 'makan', 'banget', 'buat', 'libur']",['bagus']
+"['layan', 'baik', 'kamar', 'bersih', 'nyaman', 'sangat', 'ramah', 'makan', 'enak', 'terima', 'kasih']","['baik', 'bersih', 'nyaman', 'ramah', 'enak']"
+"['inap', 'acara', 'lokasi', 'pusat', 'kota', 'jadi', 'kamar', 'sangat', 'nyaman', 'proses', 'kendala', 'langsung', 'masuk', 'kamar', 'lanjut', 'acara', 'fasilitas', 'ruang']",['nyaman']
+"['sarap', 'pagi', 'sangat', 'enak', 'layan', 'sangat', 'bagus']","['enak', 'bagus']"
+"['makan', 'variatif', 'enak', 'kolam', 'renang', 'bersih', 'kamar', 'bersih', 'kamar', 'mandi', 'kolam', 'kurang', 'bersih', 'sama', 'lama', 'over', 'bagus']","['enak', 'bersih', 'bersih', 'bersih', 'over', 'bagus']"
+"['kondisi', 'kamar', 'bersih', 'nyaman', 'istirahat', 'terlalu', 'dingin']","['bersih', 'nyaman', 'istirahat']"
+"['sarap', 'enak', 'variasi', 'makan', 'lengkap', 'kondisi', 'kamar', 'nyaman']","['enak', 'nyaman']"
+"['sarap', 'mantap', 'enak', 'layan', 'lena']",['enak']
+"['kamar', 'nyaman', 'makan', 'banyak', 'pilih', 'enak']","['nyaman', 'enak']"
+"['sini', 'malam', 'order', 'pilih', 'balkon', 'kasi', 'nyata', 'sesuai', 'komplain', 'akhir', 'kamar', 'sesuai', 'awal', 'pindah', 'nyata', 'kamar']","['kasi', 'sesuai', 'sesuai']"
+"['inap', 'sini', 'layan', 'baik', 'sekali', 'enak', 'semua', 'kamar', 'nyaman']","['baik', 'enak', 'nyaman']"
+"['awal', 'mula', 'pilih', 'pikir', 'sama', 'malang', 'solo', 'nyata', 'beda', 'jauh', 'pertama', 'sana', 'kamar', 'sesuai', 'pesan', 'pesan']","['mula', 'pikir', 'malang', 'sesuai']"
+"['alam', 'tiba', 'hotel', 'sebut', 'sambut', 'baik', 'front', 'layan', 'sangat', 'baik']","['baik', 'baik']"
+"['layan', 'ramah', 'sopan', 'kamar', 'bersih', 'nyaman', 'lengkap', 'variasi', 'menu', 'sarap', 'agam', 'terima', 'kasih']","['ramah', 'bersih', 'nyaman']"
+"['layan', 'dana', 'makan', 'enak', 'sesuai', 'putus', 'inap', 'tahan', 'tingkat', 'biar', 'tambah', 'senang', 'konsumen', 'kasih']","['dana', 'enak', 'sesuai', 'putus', 'senang']"
+"['hotel', 'bagus', 'kamar', 'bagus', 'punya', 'lahan', 'parkir', 'gabung', 'parkir', 'hotel', 'area', 'parkir', 'mobil', 'hotel', 'sempit', 'sekali', 'amburadul', 'sudut', 'kelok', 'tajam', 'satpam', 'jaga', 'parkir', 'beberapa', 'gagah']","['bagus', 'bagus', 'lahan', 'gabung', 'amburadul', 'kelok', 'tajam', 'gagah']"
+"['fasilitas', 'bintang', 'banget', 'kolam', 'renang', 'lumayan', 'panjang', 'dalem', 'bersih', 'lengkap', 'beban', 'luas', 'banyak', 'kursi', 'banget', 'pokok', 'buat', 'parkir', 'luas']","['dalem', 'bersih', 'beban']"
+"['lokasi', 'hotel', 'dekat', 'mana', 'staf', 'muas', 'salam', 'sapa', 'restoran', 'rekomendasi', 'tempat', 'wisata', 'mantap', 'lengkap']",[]
+"['pertama', 'datang', 'hotel', 'sambut', 'bawa', 'barang', 'barang', 'koper', 'bawa', 'kamar', 'order', 'kamar', 'ranjang', 'kasih', 'malah', 'komplain']",['ranjang']
+"['inap', 'kesan', 'hari', 'pertama', 'kecewa', 'pesan', 'kamar', 'kasur', 'kasi', 'nyata', 'kasur']","['kecewa', 'kasi']"
+"['makan', 'enak', 'enak', 'tempat', 'kalau', 'malam', 'tambah', 'romantis']","['enak', 'enak']"
+"['suasana', 'tenang', 'makan', 'enak', 'lidah']",['enak']
+"['layan', 'restoran', 'bagus', 'jaga', 'sehat', 'terampil', 'layan', 'kesan', 'makan', 'enak', 'enak']","['bagus', 'terampil', 'enak', 'enak']"
+"['hari', 'pertama', 'datang', 'malam', 'hari', 'capek', 'habis', 'jalan', 'naik', 'kereta', 'waktu', 'masuk', 'kamar', 'udara', 'rasa', 'enak', 'bikin', 'tenggorok', 'sakit', 'bersin', 'batuk', 'terus', 'telpon', 'resepsionis', 'minta', 'pindah', 'kamar']","['capek', 'udara', 'enak', 'tenggorok', 'bersin', 'batuk']"
+"['makan', 'enak', 'menu', 'lengkap', 'mungkin', 'tambah', 'lauk', 'pedas', 'biar', 'variatif', 'terima', 'kasih']",['enak']
+"['ramah', 'ramah', 'kamar', 'nyaman', 'banget', 'paling', 'sarap', 'enak', 'enak']","['ramah', 'ramah', 'nyaman', 'enak', 'enak']"
+"['beberapa', 'masuk', 'tambah', 'lampu', 'utama', 'meja', 'mudah', 'baca', 'kerja']",[]
+"['makan', 'enak', 'kamar', 'nyaman', 'guling', 'dekat', 'kota', 'neng', 'banget', 'sama', 'layan']","['enak', 'nyaman']"
+"['layan', 'sangat', 'baik', 'ramah', 'tambah', 'menu', 'sarap', 'lengkap', 'buat', 'nikmat', 'rasa', 'betah', 'tinggal', 'lama']","['baik', 'ramah']"
+"['hotel', 'strategis', 'makan', 'enak', 'fasilitas', 'lengkap', 'karyawan', 'hotel', 'sangat', 'responsif']","['enak', 'responsif']"
+"['layan', 'baik', 'layan', 'sarap', 'pagi', 'baik']","['baik', 'baik']"
+"['layan', 'cukup', 'baik', 'cukup', 'agam', 'cukup', 'enak']","['baik', 'enak']"
+"['kamar', 'nyaman', 'layan', 'bagus', 'makan', 'enak']","['nyaman', 'bagus', 'enak']"
+"['lama', 'panas', 'pintu', 'tutup', 'rapat', 'fasilitas', 'aman', 'guna', 'baik', 'hilang']",['baik']
+"['hotel', 'bersih', 'ramah', 'kulkas', 'dingin', 'beku', 'sangat', 'simpan', 'makan', 'kalau', 'sini', 'ukur', 'kasur', 'sangat', 'besar', 'banding', 'hotel']","['bersih', 'ramah', 'beku']"
+"['muas', 'bersih', 'ramah', 'makan', 'lezat', 'terima', 'kasih', 'mbak', 'ramah', 'sekali']","['bersih', 'ramah', 'lezat', 'ramah']"
+"['inap', 'sini', 'lumayan', 'puas', 'lebih', 'rasa', 'layan', 'baik', 'lokasi', 'jalan', 'utama', 'akses', 'mudah', 'parkir', 'luas', 'variasi', 'kolam', 'renang', 'bagus', 'strategis', 'dekat', 'pusat', 'belanja']","['puas', 'baik', 'bagus']"
+"['inap', 'sini', 'rangka', 'acara', 'kantor', 'lama', 'malam', 'kelas', 'hotel', 'bintang', 'kalah', 'jauh', 'hotel', 'bintang', 'area', 'lokasi', 'sama']",['kalah']
+"['layan', 'sangat', 'ramah', 'profesional', 'pokok', 'tugas', 'sangat', 'bantu', 'sekali', 'muas']",['ramah']
+"['hari', 'sini', 'sangat', 'nyaman', 'dingin', 'cukup', 'cukup', 'tanggap', 'ubah', 'makan', 'sangat', 'variasi', 'tiap', 'hari', 'ganti', 'menu', 'makan', 'siang', 'bumbu', 'makan', 'sangat', 'rasa']",['nyaman']
+"['sarap', 'lebih', 'awal', 'mulai', 'sangat', 'bantu', 'agenda', 'tempat', 'lain', 'layan', 'sangat', 'baik', 'terima', 'kasih']","['agenda', 'baik']"
+"['layan', 'ramah', 'tempat', 'nyaman', 'menu', 'sarap', 'enak', 'enak', 'bantu', 'lena']","['ramah', 'nyaman', 'enak', 'enak']"
+"['sarap', 'belum', 'selalu', 'enak', 'enak', 'alat', 'lumayan', 'lengkap', 'tempat', 'strategis']","['enak', 'enak']"
+"['sangat', 'kecewa', 'tanggal', 'bela', 'bain', 'datang', 'tempat', 'konfirmasi', 'hari', 'kaget', 'sangat', 'posisi', 'pindah', 'pojok', 'belakang', 'sempit', 'konfirmasi', 'sangat', 'profesional']","['kecewa', 'bela', 'bain']"
+"['layan', 'baik', 'hidang', 'sangat', 'lengkap']",['baik']
+"['bagus', 'nilai', 'buat', 'nama', 'lena']",['bagus']
+"['tempat', 'nyaman', 'parkir', 'luas', 'banget', 'pokok']",['nyaman']
+"['kamar', 'sangat', 'bagus', 'makan', 'mantap', 'rekomendasi', 'banget', 'sini']",['bagus']
+"['makan', 'pagi', 'sangat', 'enak', 'daging', 'sama', 'tahu', 'enak', 'nasi', 'goreng', 'cabai', 'hijau']","['enak', 'enak', 'cabai']"
+"['makan', 'layan', 'terima', 'kasih']",[]
+"['hotel', 'ragu', 'fasilitas', 'banget']",[]
+"['ramah', 'sangat', 'sini', 'lagi']",['ramah']
+"['kamar', 'sangat', 'panas', 'blower', 'sangat', 'kencang', 'rasa', 'dingin', 'freon', 'entah', 'cuaca', 'sangat', 'panas', 'ubah', 'suhu']","['kencang', 'freon']"
+"['kamar', 'bersih', 'bagus', 'makan', 'lumayan', 'enak', 'terlalu', 'matang']","['bersih', 'bagus', 'enak']"
+"['tempat', 'keluarga', 'makan', 'super', 'enak', 'ramah', 'mbak', 'banyak', 'bantu', 'lama', 'sini']","['enak', 'ramah']"
+"['makan', 'enak', 'layan', 'tahan']",['enak']
+"['tempat', 'nyaman', 'bersih', 'makan', 'sangat', 'variatif', 'tiap', 'hari', 'enak']","['nyaman', 'bersih', 'enak']"
+"['makan', 'bagus', 'cocok', 'makan', 'siang', 'layan', 'mbak', 'manis', 'sangat', 'ramah', 'baik', 'kamar', 'bagus', 'nyaman', 'sejuk', 'kalau', 'sore']","['bagus', 'ramah', 'baik', 'bagus', 'nyaman', 'sejuk']"
+"['enak', 'variasi', 'lena']",['enak']
+"['menu', 'variasi', 'enak', 'minum']",['enak']
+"['makan', 'enak', 'semua', 'kamar', 'bersih', 'layan', 'ramah', 'senang', 'terima', 'kasih']","['enak', 'bersih', 'ramah', 'senang']"
+"['layan', 'sangat', 'ramah', 'baik', 'layan', 'sangat', 'baik', 'senyum', 'kamar', 'cepat', 'lokasi', 'strategis']","['ramah', 'baik', 'baik']"
+"['kondisi', 'kamar', 'bagus', 'kelas', 'luas', 'nyaman', 'kelas', 'bawah', 'terlalu', 'banyak', 'sempit']","['bagus', 'nyaman']"
+"['nyaman', 'makan', 'enak', 'layan', 'ramah']","['nyaman', 'enak', 'ramah']"
+"['kamar', 'nyaman', 'istirahat', 'cahaya', 'kurang', 'kalau', 'kerja', 'sarap', 'makan', 'tradisional', 'enak']","['nyaman', 'istirahat', 'cahaya', 'enak']"
+"['menu', 'makan', 'buka', 'puasa', 'sini', 'sangat', 'wajib', 'bareng', 'keluarga', 'teman']",[]
+"['sarap', 'lengkap', 'enak', 'layan', 'sangat', 'baik', 'ramah', 'ramah']","['enak', 'baik', 'ramah', 'ramah']"
+"['layan', 'bagus', 'letak', 'hotel', 'strategis', 'tentu', 'sangat', 'nyaman', 'inap']","['bagus', 'nyaman']"
+"['semua', 'makan', 'enak', 'agam', 'banyak', 'pilih', 'layan', 'ramah', 'fasilitas']","['enak', 'ramah']"
+"['inap', 'sekian', 'kali', 'walaupun', 'hotel', 'lama', 'jaga', 'area', 'buat', 'segar', 'enak', 'agam', 'cara', 'saji', 'unik', 'tambah', 'poin', 'hotel', 'terima']","['enak', 'cara']"
+"['inap', 'hotel', 'cukup', 'senang', 'kamar', 'bersih', 'lokasi', 'strategis', 'pusat', 'kota', 'variasi']","['senang', 'bersih']"
+"['sarap', 'menu', 'agam', 'bersih', 'bantu', 'arah', 'layan', 'baik']","['bersih', 'baik']"
+"['hotel', 'bersih', 'kamar', 'mantap', 'sarap', 'komplit']",['bersih']
+"['makan', 'enak', 'enak', 'jamin', 'pergi', 'restoran']","['enak', 'enak', 'jamin']"
+"['hotel', 'sangat', 'nyaman', 'layan', 'ramah', 'sekali', 'kamar', 'sangat', 'bersih', 'awat', 'makan', 'enak', 'pokok', 'jadi', 'langgan', 'kalau']","['nyaman', 'ramah', 'bersih', 'enak']"
+"['rasa', 'masakan', 'restoran', 'kurang', 'enak', 'semua', 'kartu', 'akses', 'ikan', 'hotel', 'layan', 'cukup', 'bagus']","['enak', 'kartu', 'bagus']"
+"['kamar', 'nyaman', 'hadap', 'kolam', 'renang', 'layan', 'ramah', 'sangat', 'bantu', 'minus', 'kalau', 'kamar', 'telpon', 'resepsionis', 'banget', 'angkat', 'cepat', 'minus', 'makan', 'hotel', 'nama', 'sarap', 'kurang', 'rasa']","['nyaman', 'ramah', 'angkat']"
+"['semua', 'perdana', 'hotel', 'rangka', 'penuh', 'undang']",['perdana']
+"['menu', 'iftar', 'menu', 'baik', 'sesuai', 'matang', 'tempat', 'nyaman', 'sesuai', 'lampu', 'lebih', 'nyaman', 'buka', 'lanjut', 'ramah', 'senyum', 'pegawai', 'jadi', 'poin', 'baik']","['baik', 'sesuai', 'nyaman', 'sesuai', 'nyaman', 'ramah', 'baik']"
+"['makan', 'enak', 'ganti', 'terus', 'mungkin', 'tambah', 'jenis', 'nasi', 'liwet', 'nasi', 'uduk', 'lumayan', 'bersih', 'sudut', 'ruang', 'semut', 'bersih', 'tiap', 'hari']","['enak', 'liwet', 'uduk', 'bersih', 'semut', 'bersih']"
+"['alhamdulillah', 'hotel', 'senang', 'sedia', 'baik', 'lobi', 'lokasi', 'ruang', 'temu', 'menu', 'enak', 'tugas', 'ramah', 'senang', 'terima', 'kasih', 'atas', 'layan', 'ikan']","['senang', 'baik', 'enak', 'ramah', 'senang']"
+"['terima', 'kasih', 'atas', 'layan', 'muas', 'mbak', 'tania', 'moga', 'inap', 'sini']",[]
+"['kamar', 'nyaman', 'enak', 'ruang', 'nyaman', 'giat', 'dinas', 'sama', 'keluarga']","['nyaman', 'enak', 'nyaman']"
+"['mantap', 'gudeg', 'sini', 'enak', 'sekali', 'rasa', 'bikin', 'tagih', 'terus', 'pokok', 'makan', 'rekomendasi', 'inap', 'sini']","['enak', 'tagih']"
+"['hotel', 'nyaman', 'layan', 'muas', 'lokasi', 'strategis', 'jadi', 'hotel', 'layak', 'jadi', 'tempat']",['nyaman']
+"['sarap', 'enak', 'bikin']",['enak']
+"['makan', 'enak', 'layan', 'cepat', 'ramah', 'beri', 'tanda', 'hati', 'basah', 'makan', 'cepat', 'rasa', 'masuk', 'lidah', 'tutup', 'unik', 'tutup']","['enak', 'ramah', 'hati', 'basah']"
+"['nyaman', 'tempat', 'bersih', 'makan', 'enak', 'semua']","['nyaman', 'bersih', 'enak']"
+"['lokasi', 'strategis', 'nyaman', 'bersih', 'harga', 'jangkau']","['nyaman', 'bersih']"
+"['tempat', 'nyaman', 'bersih']","['nyaman', 'bersih']"
+"['layan', 'bagus', 'makan', 'enak']","['bagus', 'enak']"
+"['sangat', 'suka', 'sarap', 'pagi', 'makan', 'enak', 'enak', 'layan', 'sangat', 'baik', 'ramah']","['enak', 'enak', 'baik', 'ramah']"
+"['hotel', 'sangat']",[]
+"['hotel', 'lokasi', 'strategis', 'lantai', 'adem', 'hujan']",[]
+"['layan', 'sini', 'ramah', 'sekali', 'habis', 'libur', 'keluarga', 'sangat', 'rekomendasi']",['ramah']
+"['layan', 'bagus', 'ramah', 'profesional']","['bagus', 'ramah']"
+"['pagi', 'enak', 'bersih']","['enak', 'bersih']"
+"['kamar', 'sangat', 'bagus', 'sarap', 'enak', 'banyak', 'pilih', 'jadi', 'referensi', 'buat', 'libur']","['bagus', 'enak', 'referensi']"
+"['waktu', 'inap', 'sini', 'betul', 'kamar', 'balkon', 'tembok', 'hotel', 'bintang']",[]
+"['layan', 'sangat', 'muas', 'karyawan', 'ramah', 'murah', 'senyum']",['ramah']
+"['hotel', 'sangat', 'nyaman', 'layan', 'luar', 'biasa']",['nyaman']
+"['layan', 'ramah', 'minum', 'enak', 'manis', 'sekali', 'tania', 'rama', 'sekali']","['ramah', 'enak', 'rama']"
+"['sedia', 'padahal', 'bulan', 'belum', 'alas', 'sedang', 'bersih', 'bersih', 'ruang']","['bersih', 'bersih']"
+"['sangat', 'cukup', 'puas', 'layan', 'segi', 'kamar', 'layan', 'sarap', 'sedia', 'enak', 'semua', 'mbak', 'sangat', 'cukup', 'puas', 'layan', 'cukup', 'baik']","['puas', 'enak', 'puas', 'baik']"
+"['hotel', 'bagus', 'kamar', 'nyaman', 'makan', 'enak', 'layan', 'super', 'ramah']","['bagus', 'nyaman', 'enak', 'ramah']"
+"['inap', 'malam', 'layan', 'hotel', 'muas', 'kamar', 'bersih', 'lengkap', 'makan', 'enak', 'sarap', 'lengkap', 'makan', 'sedia']","['bersih', 'enak']"
+"['layan', 'bagus', 'layan', 'ramah', 'utama', 'atas', 'nama']","['bagus', 'ramah']"
+"['paling', 'bintang', 'makan', 'banyak', 'sekali', 'variasi', 'rasa', 'konsisten', 'enak', 'paling', 'kesan', 'layan', 'sangat', 'perhati']","['konsisten', 'enak']"
+"['lokasi', 'strategis', 'makan', 'enak', 'ruang', 'kamar', 'bagus', 'entah', 'kamar', 'mandi', 'drainase']","['enak', 'bagus', 'drainase']"
+"['ramah', 'ramah', 'sekali', 'sarap', 'sangat', 'kamar', 'bersih', 'lengkap']","['ramah', 'ramah', 'bersih']"
+"['hotel', 'cocok', 'buat', 'kamar', 'luas', 'bersih', 'layan']",['bersih']
+"['sangat', 'senang', 'sekali', 'nyaman', 'layan', 'menu', 'makan', 'enak', 'enak', 'pegawai', 'nyaman', 'neng', 'banget', 'kalo', 'sini']","['senang', 'nyaman', 'enak', 'enak', 'nyaman']"
+"['gudeg', 'mantap', 'sangat']",[]
+"['tempat', 'nyaman', 'jaga', 'bersih', 'layan', 'bagus', 'ramah', 'area', 'parkir', 'luas', 'fasilitas', 'pada']","['nyaman', 'bersih', 'bagus', 'ramah']"
+"['makan', 'sangat', 'lengkap', 'kamar', 'tidur', 'nyaman', 'staf', 'sangat', 'ramah', 'awal', 'datang', 'sambut', 'cari', 'tempat', 'duduk', 'layan', 'sangat', 'baik']","['nyaman', 'ramah', 'baik']"
+"['makan', 'variasi', 'banyak', 'rasa', 'enak', 'layan', 'ramah', 'sangat', 'bantu', 'pokok', 'hotel']","['enak', 'ramah']"
+"['menu', 'sarap', 'banyak', 'banget', 'enak', 'enak', 'sekali', 'ramah', 'ramah', 'utama', 'kamar', 'kolam', 'bagus', 'pokok']","['enak', 'enak', 'ramah', 'ramah', 'bagus']"
+"['layan', 'sangat', 'baik', 'maupun', 'front', 'tempat', 'sangat', 'strategis', 'dekat', 'bandara', 'makan', 'sangat', 'variasi', 'hingga', 'tradisional']",['baik']
+"['kamar', 'keren', 'nyaman', 'bersih', 'layan', 'luar', 'biasa', 'front', 'layan', 'kamar', 'sangat', 'muas']","['keren', 'nyaman', 'bersih']"
+"['hotel', 'sangat', 'nyaman', 'rapi', 'bersih', 'seluruh', 'pegawai', 'ramah', 'datang', 'sambut', 'sangat', 'baik']","['nyaman', 'bersih', 'ramah', 'baik']"
+"['alam', 'inap', 'hotel', 'muas', 'layan', 'sangat', 'ramah', 'profesional', 'buat', 'langsung', 'rasa', 'nyaman']","['ramah', 'nyaman']"
+"['makan', 'enak', 'lokasi', 'strategis', 'layan']",['enak']
+"['lokasi', 'hotel', 'raya', 'jauh', 'lama', 'dekat', 'area', 'tempat']",[]
+"['layan', 'ramah', 'batik', 'bukan', 'keran', 'bocor', 'terus', 'kamar', 'mandi', 'genang', 'panas', 'panas', 'tentu', 'masa', 'mandi', 'biar', 'panas', 'terlalu', 'banyak', 'atur', 'gabung', 'hotel', 'murah']","['ramah', 'batik', 'keran', 'gabung']"
+"['kamar', 'bersih', 'bagaimana', 'hotel', 'bintang', 'terang', 'kurang', 'terang', 'jadi', 'lewat', 'koridor', 'lobi', 'tuju', 'toilet', 'ruang', 'bersih', 'nyaman']","['bersih', 'bagaimana', 'bersih', 'nyaman']"
+"['enak', 'menu', 'banyak', 'pilih']",['enak']
+"['inap', 'acara', 'kantor', 'pusat', 'ikut', 'jujur', 'selalu', 'senyum', 'salam', 'sapa', 'tamu', 'terap', 'tamu', 'cekat']","['jujur', 'terap', 'cekat']"
+"['hotel', 'nyaman', 'selalu', 'lokasi', 'strategis', 'mana', 'kamar', 'nyaman', 'banget']","['nyaman', 'nyaman']"
+"['enak', 'menu', 'agam']",['enak']
+"['sini', 'acara', 'kantor', 'harga', 'jangkau', 'suasana', 'sekali', 'cocok', 'buat', 'acara', 'kantor', 'makan', 'enak', 'suka', 'banget', 'bubur', 'sumsum', 'menu', 'variatif', 'terima', 'kasih']","['enak', 'sumsum']"
+"['sarap', 'sangat', 'lengkap', 'enak', 'bantu', 'mbak', 'lena']",['enak']
+"['sempat', 'bantu', 'lena', 'sempat', 'tanya', 'beliau', 'dapat', 'sangat', 'baik', 'menu', 'sarap', 'sangat', 'lengkap', 'rasa', 'enak']","['beliau', 'baik', 'enak']"
+"['lokasi', 'strategis', 'nyaman', 'lengkap', 'sayang', 'telat']","['nyaman', 'telat']"
+"['hotel', 'bagus', 'layan', 'sangat', 'bagus', 'sarap', 'enak', 'makan', 'enak', 'layan', 'degan', 'mbak']","['bagus', 'bagus', 'enak', 'enak', 'degan']"
+"['bagus', 'hotel', 'bersih', 'pegawai', 'ramah', 'ramah', 'nyaman', 'banget', 'kalau', 'bakal', 'sini']","['bagus', 'bersih', 'ramah', 'ramah', 'nyaman']"
+"['tempat', 'nyaman', 'layan', 'muas']",['nyaman']
+"['tiga', 'kali', 'kunjung', 'sini', 'tetap', 'rasa', 'nyaman', 'aktivitas', 'fasilitas', 'lengkap', 'laku', 'layan', 'ramah', 'aktivitas', 'besar']","['nyaman', 'ramah']"
+"['salah', 'satu', 'hotel', 'nyaman', 'kota', 'dekat', 'pusat', 'belanja', 'meski', 'jauh', 'strategis', 'menu', 'tradisional', 'pokok']","['nyaman', 'meski']"
+"['tadi', 'harap', 'dapat', 'fasilitas', 'layan', 'bintang', 'nyata', 'jauh', 'masuk', 'fasilitas', 'hotel', 'bawah', 'standar']",[]
+"['sangat', 'puas', 'hingga', 'semua', 'sangat', 'muas', 'inap', 'lama', 'malam', 'beri', 'kamar', 'platinum', 'enak', 'buah']","['puas', 'enak']"
+"['bersih', 'bintang', 'waktu', 'sarap', 'sambut', 'staf', 'ramah']","['bersih', 'ramah']"
+"['sarap', 'pagi', 'sangat', 'enak', 'servis', 'atas', 'nama', 'sangat', 'bagus']","['enak', 'bagus']"
+"['bersih', 'nyaman']","['bersih', 'nyaman']"
+"['muas', 'terima', 'kasih']",[]
+"['suka', 'semua', 'lokasi', 'strategis', 'layan', 'ramah', 'cepat', 'kondisi', 'kamar', 'selalu', 'bersih', 'betah']","['ramah', 'bersih']"
+"['kamar', 'luas', 'nyaman', 'layan', 'ramah']","['nyaman', 'ramah']"
+"['lama', 'hari', 'tinggal', 'dapat', 'kamar', 'baik', 'makan', 'variasi', 'istimewa', 'layan', 'hotel', 'ramah', 'sukses', 'buat', 'hotel']","['baik', 'ramah']"
+"['bagus', 'bersih', 'makan', 'enak', 'coba', 'sedia', 'kecil', 'kamar']","['bagus', 'bersih', 'enak']"
+"['makan', 'enak', 'kamar', 'nyaman']","['enak', 'nyaman']"
+"['kamar', 'luas', 'cukup', 'nyaman', 'bersih', 'lokasi', 'pusat', 'kota', 'banyak', 'pilih']","['nyaman', 'bersih']"
+"['makan', 'enak', 'macam', 'macam', 'kamar', 'nyaman', 'terima', 'kasih']","['enak', 'nyaman']"
+"['makan', 'enak', 'sangat']",['enak']
+"['makan', 'lezat', 'pilih', 'banyak', 'layan', 'muas', 'semua', 'lebih']",['lezat']
+"['layan', 'sangat', 'ramah', 'kamar', 'bersih', 'makan', 'enak', 'variasi', 'moga', 'sini']","['ramah', 'bersih', 'enak']"
+"['kamar', 'bagus', 'bersih', 'layan', 'baik']","['bagus', 'bersih', 'baik']"
+"['hotel', 'bagus', 'layan', 'ramah', 'makan', 'enak', 'lokasi', 'strategis', 'dekat']","['bagus', 'ramah', 'enak']"
+"['kram', 'jadi', 'susah', 'buat', 'lebih', 'baik', 'pindah', 'lain', 'mantap', 'satu', 'sarap']","['kram', 'baik']"
+"['hotel', 'menu', 'sungguh', 'tarik', 'enak', 'kalio', 'daging', 'tahu', 'pilih', 'menu', 'agam']","['enak', 'kalio']"
+"['hotel', 'bagus', 'ramah', 'profesional', 'sangat', 'bantu', 'sangat', 'bagus', 'keluarga', 'laki', 'sangat', 'rasa', 'nyaman']","['bagus', 'ramah', 'bagus', 'laki', 'nyaman']"
+"['sangat', 'luar', 'biasa', 'nikmat', 'sarap', 'pagi', 'hidang', 'sangat', 'liar', 'biasa', 'bantu', 'mbak', 'lena']",['liar']
+"['sarap', 'pagi', 'enak', 'telur', 'dadar', 'enak', 'ayam', 'enak', 'bumbu', 'kentang', 'kacang', 'merah', 'enak', 'kamar', 'bersih', 'sangat']","['enak', 'enak', 'enak', 'kentang', 'kacang', 'merah', 'enak', 'bersih']"
+"['kamar', 'nyaman', 'bersih', 'layan', 'restoran', 'ramah', 'masakan', 'enak', 'lokasi', 'strategis', 'dekat', 'mana', 'kantor']","['nyaman', 'bersih', 'ramah', 'enak']"
+"['semua', 'kamar', 'toilet', 'layan', 'dekat']",[]
+"['atas', 'layan', 'muas', 'lama', 'inap', 'hari', 'sini', 'luar', 'sahur', 'padahal', 'bukan', 'bulan', 'menu', 'luar', 'lengkap', 'enak', 'enak', 'banyak', 'banyak', 'moga', 'terus', 'tahan']","['sahur', 'enak', 'enak']"
+"['menu', 'sarap', 'variatif', 'jajan', 'pasar', 'enak', 'kamar', 'nyaman', 'bersih']","['enak', 'nyaman', 'bersih']"
+"['anak', 'sekali', 'inap', 'layan', 'banget', 'sangat', 'ramah']",['ramah']
+"['makan', 'lumayan', 'enak', 'kamar', 'bersih', 'layan']","['enak', 'bersih']"
+"['inap', 'malam', 'sini', 'cukup', 'nyaman', 'lokasi', 'dekat', 'pusat', 'kota', 'banyak', 'publik', 'hotel', 'fasilitas', 'hotel', 'lengkap', 'utama', 'sedia', 'kolam', 'renang', 'anak', 'anak', 'tempat', 'makan', 'buka', 'nyaman']","['nyaman', 'publik', 'nyaman']"
+"['sarap', 'pagi', 'enak', 'banyak', 'pilih', 'bersih', 'karyawan', 'ramah', 'pokok', 'puas']","['enak', 'bersih', 'ramah', 'puas']"
+"['layan', 'muas', 'sangat', 'agam', 'enak', 'kamar', 'bersih', 'nyaman']","['enak', 'bersih', 'nyaman']"
+"['lift', 'mati', 'nyala', 'jadi', 'lift', 'sangat', 'lama', 'kamar', 'minta', 'kalau', 'jangan', 'tipis']",['tipis']
+"['layan', 'cukup', 'baik', 'makan', 'enak', 'varian', 'banyak']","['baik', 'enak']"
+"['tempat', 'enak', 'banget', 'buat', 'inap', 'kamar', 'bagus', 'lengkap', 'interior', 'eksterior', 'hotel', 'keren', 'banget', 'sini', 'pasti']","['enak', 'bagus', 'keren', 'pasti']"
+"['sarap', 'enak', 'baik', 'utama', 'ramah', 'sopan']","['enak', 'baik', 'ramah']"
+"['proses', 'cepat', 'khusus', 'letak', 'strategis', 'dekat', 'kota', 'dekat']",[]
+"['hotel', 'nyaman', 'fasilitas', 'lengkap', 'lokasi', 'banget', 'strategis', 'kamar', 'luas', 'bersih', 'super', 'ramah', 'poko', 'layan', 'mantap', 'cocok', 'banget', 'buat', 'libur', 'trip']","['nyaman', 'bersih', 'ramah']"
+"['kamar', 'bersih', 'nyaman', 'dingin', 'lokasi', 'sangat', 'strategis', 'jalan', 'utama', 'sarap', 'menu', 'sangat', 'agam', 'cocok', 'lidah']","['bersih', 'nyaman']"
+"['salah', 'satu', 'hotel', 'jadi', 'pilih', 'dekat']",[]
+"['rekomendasi', 'interior', 'sesuai', 'kota', 'mewah', 'makan', 'banyak', 'variasi', 'layan', 'baik', 'ramah', 'kolam', 'renang', 'besar', 'lokasi', 'strategis', 'inap', 'kamar', 'hias']","['sesuai', 'baik', 'ramah']"
+"['tempat', 'nyaman', 'banget', 'layan', 'ramah', 'kamar', 'bersih', 'makan', 'enak', 'lokasi', 'strategis', 'wisata', 'cocok', 'buat', 'santai']","['nyaman', 'ramah', 'bersih', 'enak']"
+"['layan', 'baik', 'makan', 'enak', 'kamar', 'bagus']","['baik', 'enak', 'bagus']"
+"['tempat', 'layan', 'sini', 'sangat', 'bagus', 'hotel', 'nyaman', 'sarap', 'enak', 'sama', 'anak', 'nama', 'lena', 'cukup', 'bantu']","['bagus', 'nyaman', 'enak']"
+"['sabar', 'makan', 'enak']",['enak']
+"['lampu', 'kamar', 'kurang', 'terang', 'buah', 'kurang', 'bagus', 'kualitas', 'rasa', 'simpan', 'kulkas', 'kondisi', 'potong', 'semangka', 'lembek', 'rasa', 'aneh', 'mungkin']","['bagus', 'semangka', 'lembek', 'aneh']"
+"['layan', 'mantap', 'ramah', 'nyaman', 'sekali', 'hotel']","['ramah', 'nyaman']"
+"['makan', 'enak', 'variasi', 'layan', 'banget', 'kamar', 'nyaman', 'ramah', 'sangat', 'ramah', 'cantik']","['enak', 'nyaman', 'ramah', 'ramah', 'cantik']"
+"['sama', 'anak', 'pagi', 'tambah', 'anak', 'usia', 'kriteria', 'tamu', 'tawar', 'kopi', 'lihat']",['kriteria']
+"['kamar', 'cukup', 'nyaman', 'utama', 'menu', 'tradisional', 'tugas', 'ramah', 'semua']","['nyaman', 'ramah']"
+"['hotel', 'nyaman', 'layan', 'baik', 'makan', 'enak', 'banyak', 'pilih', 'lokasi', 'dekat']","['nyaman', 'baik', 'enak']"
+"['kamar', 'cukup', 'nyaman', 'layan', 'banget', 'sarap', 'banyak', 'varian', 'enak', 'lokasi', 'cukup', 'strategis', 'mudah', 'buat', 'cari', 'butuh']","['nyaman', 'enak']"
+"['sarap', 'pagi', 'sangat', 'enak', 'muas', 'layan', 'atas', 'nama', 'sangat', 'muas']",['enak']
+"['sangat', 'senang', 'lokasi', 'strategis', 'lingkung', 'bersih', 'makan', 'enak', 'luar', 'biasa', 'layan', 'cepat', 'sangat', 'ramah', 'sangat', 'hormat', 'tamu']","['senang', 'lingkung', 'bersih', 'enak', 'ramah']"
+"['menu', 'variasi', 'enak', 'minum', 'kamar', 'batas', 'botol', 'kaca', 'ukur', 'kecil', 'resepsionis', 'kurang', 'etika']","['enak', 'batas', 'etika']"
+"['kamar', 'cukup', 'luas', 'tambah', 'menu', 'sarap', 'cukup', 'variatif', 'banyak', 'pilih']",[]
+"['makan', 'enak', 'layan', 'sangat', 'muas', 'masuk', 'menu', 'macam', 'semua', 'makan', 'enak']","['enak', 'enak']"
+"['tempat', 'strategis', 'makan', 'lengkap', 'enak', 'kamar', 'lantai', 'layan', 'sangat', 'baik', 'kurang', 'kenceng']","['enak', 'baik']"
+"['makan', 'hotel', 'sangat', 'enak', 'layan', 'sangat', 'ramah']","['enak', 'ramah']"
+"['layan', 'muas', 'makan', 'enak', 'kamar', 'nyaman']","['enak', 'nyaman']"
+"['tempat', 'nyaman', 'menu', 'makan', 'enak', 'layan', 'ramah', 'mbak']","['nyaman', 'enak', 'ramah']"
+"['lokasi', 'sangat', 'strategis', 'mudah', 'kamar', 'bersih', 'nyaman', 'makan', 'enak', 'mohon', 'tahan']","['bersih', 'nyaman', 'enak']"
+"['terima', 'kasih', 'menu', 'sarap', 'variatif', 'nona', 'terima', 'kasih']",['nona']
+"['kamar', 'nyaman', 'luas', 'cuma', 'fasilitas', 'kurang', 'bagus', 'lama', 'acara', 'kamar', 'guna', 'paket', 'data', 'pribadi', 'pancur', 'kamar', 'mandi', 'mulus', 'kalau', 'mandi', 'malam', 'panas']","['nyaman', 'bagus', 'pribadi', 'pancur', 'mulus']"
+"['layan', 'kamar', 'nyaman', 'layan', 'baik', 'senyum', 'ramah', 'utama', 'lena', 'lokasi', 'jangkau']","['nyaman', 'baik', 'ramah']"
+"['makan', 'bagus', 'enak', 'bagus', 'suasana', 'bagus', 'terima', 'kasih', 'mbak', 'manis']","['bagus', 'enak', 'bagus', 'bagus']"
+"['hotel', 'pusat', 'kota', 'mudah', 'jangkau', 'layan', 'cepat', 'ramah', 'variasi', 'makan', 'restoran', 'banyak', 'rasa', 'enak', 'kamar', 'barang', 'baik', 'ganti', 'kala', 'tirai', 'kamar', 'mandi']","['ramah', 'enak', 'baik', 'kala']"
+"['layan', 'kamar', 'baik', 'bersih', 'kalau', 'tingkat', 'pisah', 'fungsi', 'baik', 'penting', 'kasur', 'lengkap', 'bantal', 'guling', 'plus', 'lengkap', 'mandi', 'lengkap', 'makan', 'standar', 'kurang', 'banyak', 'pilih']","['baik', 'bersih', 'pisah', 'baik']"
+"['makan', 'enak', 'layan', 'enak']","['enak', 'enak']"
+"['sini', 'enak', 'harga', 'murah', 'kambing', 'guling', 'menu', 'lengkap']",['enak']
+"['rasa', 'sarap', 'lengkap', 'variatif', 'layan', 'bantu', 'mbak', 'lena']",[]
+"['menu', 'makan', 'variasi', 'rasa', 'enak']",['enak']
+"['layan', 'restoran', 'sangat', 'baik', 'ramah', 'makan', 'enak', 'khusus', 'menu', 'khas', 'tradisional', 'jajan', 'lain', 'enak']","['baik', 'ramah', 'enak', 'enak']"
+"['sangat', 'bagus', 'arah', 'rapi', 'sering', 'nampak', 'indah', 'hotel', 'interior', 'bagus', 'banyak', 'hias', 'pecah', 'rekor', 'muri']","['bagus', 'nampak', 'indah', 'bagus', 'pecah', 'rekor', 'muri']"
+"['hotel', 'tengah', 'kota', 'kamar', 'nyaman', 'layan', 'bagus', 'sarap', 'banget', 'mbak', 'tania']","['nyaman', 'bagus']"
+"['hotel', 'jadi', 'pilih', 'menu', 'sarap', 'enak', 'variasi', 'banyak', 'mantap']",['enak']
+"['sarap', 'enak', 'variasi', 'kamar', 'luas', 'bersih']","['enak', 'bersih']"
+"['alamat', 'hotel', 'strategis', 'tepat', 'kota', 'kamar', 'nyaman', 'layan', 'cukup', 'ramah', 'makan', 'enak', 'enak']","['alamat', 'nyaman', 'ramah', 'enak', 'enak']"
+"['bagus', 'sekali', 'layan', 'sangat', 'baik', 'ramah', 'hotel', 'nyaman']","['bagus', 'baik', 'ramah', 'nyaman']"
+"['puas', 'layan', 'hotel', 'cukup', 'strategis', 'makan', 'minum', 'cocok', 'lidah', 'lokal']",['puas']
+"['nyaman', 'strategis', 'pusat', 'kota', 'betah', 'sini', 'pulang']",['nyaman']
+"['makan', 'enak', 'layan', 'baik']","['enak', 'baik']"
+"['letak', 'sangat', 'strategis', 'dekat', 'stasiun', 'bandara', 'lama', 'pusat', 'aktivitas', 'lebih', 'kamar', 'bersih', 'nyaman', 'bantal', 'guling', 'banyak', 'kurang', 'bersih', 'anggap', 'layan']","['bersih', 'nyaman', 'bersih']"
+"['kamar', 'nyaman', 'bersih', 'wangi', 'kamar', 'mandi', 'kipas', 'cuman', 'bolong', 'doang', 'makan', 'muas', 'besar', 'bersih', 'wangi']","['nyaman', 'bersih', 'wangi', 'kipas', 'bolong', 'doang', 'bersih', 'wangi']"
+"['kamar', 'bersih', 'lumayan', 'luas', 'enak', 'layan', 'cepat']","['bersih', 'enak']"
+"['punya', 'harap', 'besar', 'hotel', 'kamar', 'pilih', 'atas', 'rata', 'rata', 'gunung', 'pesan', 'waktu', 'hotel', 'kaget', 'rombong', 'karyawan', 'kantor', 'rapat']",[]
+"['layan', 'sangat', 'ramah', 'interior', 'sangat', 'bagus', 'luas']","['ramah', 'bagus']"
+"['lokasi', 'strategis', 'kamar', 'nyaman', 'banyak', 'banget', 'pajang', 'dimensi', 'dimensi', 'mulai', 'kamar', 'hotel']","['nyaman', 'pajang']"
+"['sarap', 'pagi', 'menu', 'lengkap', 'cita', 'rasa', 'baik', 'bantu', 'layan', 'lena']",['baik']
+"['sarap', 'bagus', 'muas', 'layan', 'ramah', 'lena']","['bagus', 'ramah']"
+"['menu', 'makan', 'baik', 'luar', 'biasa', 'layan', 'sangat', 'baik']","['baik', 'baik']"
+"['menu', 'makan', 'cukup', 'variatif', 'beberapa', 'makan', 'sedikit', 'asin', 'saji', 'sedikit', 'kurang', 'tata', 'moga', 'depan', 'semua']",[]
+"['agam', 'sekali', 'rasa', 'enak', 'terus', 'kamar', 'balkon', 'lebih', 'baik', 'kalau', 'siap', 'kursi', 'duduk', 'duduk']","['enak', 'baik']"
+"['hotel', 'senang', 'enak', 'anak', 'suka']","['senang', 'enak']"
+"['layan', 'baik', 'profesional', 'banyak', 'pilih', 'makan']",['baik']
+"['enak', 'kamar', 'bagus']","['enak', 'bagus']"
+"['letak', 'strategis', 'pusat', 'kota', 'dekat', 'bandara', 'plaza', 'hotel', 'mudah', 'akses', 'transportasi', 'umum', 'maupun', 'pribadi', 'lingkung', 'keliling', 'bagai', 'pilih']","['pribadi', 'lingkung']"
+"['sangat', 'baik', 'layan', 'kalau', 'sama', 'keluarga']",['baik']
+"['kamar', 'nyaman', 'bersih', 'cocok', 'buat', 'kalian', 'jalan', 'jalan', 'makan']","['nyaman', 'bersih']"
+"['hotel', 'bintang', 'milik', 'desain', 'elegan', 'letak', 'strategis', 'jalan', 'milik', 'gedung', 'lantai', 'sedia', 'kamar', 'mulai', 'hingga', 'standar']",[]
+"['saji', 'sangat', 'bersih', 'nyaman']","['bersih', 'nyaman']"
+"['alam', 'inap', 'malam', 'senang', 'sarap', 'makan', 'enak', 'enak']","['senang', 'enak', 'enak']"
+"['kamar', 'nyaman', 'desain', 'bagus', 'sangat']","['nyaman', 'bagus']"
+"['lokasi', 'strategis', 'jangkau', 'kamar', 'bersih', 'sarap', 'makan', 'malam', 'enak', 'cukup', 'agam']","['bersih', 'enak']"
+"['sangat', 'ramah', 'layan', 'kamar', 'bersih', 'sarap', 'variatif', 'enak', 'enak', 'sekali', 'pasti', 'tempat', 'nyaman']","['ramah', 'bersih', 'enak', 'enak', 'pasti', 'nyaman']"
+"['kamar', 'sini', 'sangat', 'nyaman', 'sarap', 'macam', 'macam', 'enak', 'semua']","['nyaman', 'enak']"
+"['sarap', 'pagi', 'sangat', 'puas', 'bantu', 'lena']",['puas']
+"['lokasi', 'strategis', 'makan', 'enak', 'sangat', 'ramah']","['enak', 'ramah']"
+"['kali', 'sini', 'kamar', 'bersih', 'enak', 'banyak', 'macam', 'kolam', 'renang', 'foto']","['bersih', 'enak']"
+"['selalu', 'puas', 'sama', 'layan', 'menu', 'pernah', 'inap', 'beberapa', 'makan', 'rasa', 'keras', 'kamar', 'area', 'jadi', 'asap', 'masuk', 'kamar']",['puas']
+"['banget', 'salah', 'pilih', 'hotel', 'pokok', 'tempat', 'nyaman', 'tenang', 'bersih', 'rapi', 'waktu']","['nyaman', 'bersih']"
+"['menu', 'agam', 'cita', 'rasa', 'khas', 'cocok', 'libur']",[]
+"['menu', 'makan', 'sangat', 'lengkap']",[]
+"['layan', 'baik', 'cukup', 'ramah', 'atas', 'nama', 'lena']","['baik', 'ramah']"
+"['hotel', 'kamar', 'nyaman', 'layan', 'bagus', 'makan', 'enak', 'fasilitas', 'lengkap']","['nyaman', 'bagus', 'enak']"
+"['layan', 'baik', 'enak']","['baik', 'enak']"
+"['makan', 'enak', 'sekali', 'bersih']","['enak', 'bersih']"
+"['kolam', 'renang', 'bersih', 'luas', 'cukup', 'anak', 'renang', 'waktu', 'sepi', 'jadi', 'punya', 'paling', 'kesan', 'paling', 'bawa']",['bersih']
+"['inap', 'sini', 'jenak', 'lupa', 'kalau', 'sedang', 'suasana', 'tenang', 'nyaman', 'kolam', 'renang', 'asri', 'paling', 'penting', 'kamar', 'enak', 'buat', 'istirahat', 'lepas', 'kerja']","['jenak', 'nyaman', 'enak', 'istirahat']"
+"['layan', 'ramah', 'rapi', 'jelas', 'nyaman', 'bingung', 'cari', 'acara', 'enak']","['ramah', 'nyaman', 'enak']"
+"['ramah', 'jadi', 'juara', 'banget', 'senyum', 'luar', 'biasa', 'ikhlas', 'sini', 'nyaman', 'ruang', 'lokasi', 'premium', 'banget', 'sama', 'plaza', 'sama', 'jauh', 'tugu']","['ramah', 'ikhlas', 'nyaman', 'premium', 'tugu']"
+"['bagus', 'nyaman', 'senang', 'sarap', 'enak', 'banget', 'sesuai', 'selera']","['bagus', 'nyaman', 'senang', 'enak', 'sesuai']"
+"['layan', 'ramah', 'nyaman', 'tengah', 'kota', 'menu', 'enak', 'bersih', 'estetik', 'puas', 'pokok', 'sini']","['ramah', 'nyaman', 'enak', 'bersih', 'estetik', 'puas']"
+"['kamar', 'pada', 'ragam', 'pilih', 'sarap', 'layak', 'baik', 'layan', 'staf', 'ramah']","['baik', 'ramah']"
+"['tempat', 'nyaman', 'bersih', 'layan', 'baik', 'pandang', 'indah', 'ramah', 'makan', 'sangat', 'enak', 'bakal', 'balik', 'puas', 'banget']","['nyaman', 'bersih', 'baik', 'indah', 'ramah', 'enak', 'puas']"
+"['menu', 'sangat', 'agam', 'makan', 'cenderung', 'manis', 'kurang', 'rasa', 'manis', 'servis']",['cenderung']
+"['kamar', 'bersih', 'terlalu', 'besar', 'nyaman', 'layan', 'ramah', 'resepsionis', 'ruang', 'makan', 'tempat', 'rapat', 'lokasi', 'dekat', 'stasiun', 'dekat', 'suasana', 'enak', 'berisik']","['bersih', 'nyaman', 'ramah', 'enak', 'berisik']"
+"['makan', 'enak', 'sangat', 'agam', 'masuk', 'minum', 'tradisional', 'infrastruktur', 'lift', 'bunyi', 'cukup', 'ganggu', 'kulkas', 'kamar', 'bunyi', 'bunyi', 'jangkrik', 'malam', 'hari']","['enak', 'infrastruktur', 'bunyi', 'ganggu', 'bunyi', 'bunyi', 'jangkrik']"
+"['letak', 'hotel', 'sangat', 'strategis', 'dekat', 'layan', 'sangat', 'baik', 'suasana']",['baik']
+"['kamar', 'bagus', 'bagus', 'makan', 'restoran', 'enak', 'enak']","['bagus', 'bagus', 'enak', 'enak']"
+"['tempat', 'strategis', 'hotel', 'bersih', 'layan', 'sangat', 'muas', 'nama', 'sangat', 'ramah', 'ringan', 'tangan', 'bantu']","['bersih', 'ramah']"
+"['lokasi', 'strategis', 'dekat', 'bandara', 'makan', 'enak', 'fasilitas', 'sedia', 'sangat', 'lengkap']",['enak']
+"['banyak', 'menu', 'sarap', 'lengkap', 'enak', 'muas', 'kamar', 'bersih', 'nyaman']","['enak', 'bersih', 'nyaman']"
+"['kasi', 'sengaja', 'baca', 'kendala', 'masalah', 'kamar', 'makan', 'proses', 'sendiri', 'pertama', 'kali', 'tugas', 'dinas']","['kasi', 'sengaja']"
+"['layan', 'bagus', 'enak', 'kamar', 'bersih', 'letak', 'dekat', 'sama', 'kota']","['bagus', 'enak', 'bersih']"
+"['cukup', 'kesan', 'inap', 'sini', 'layan', 'bagus', 'ramah', 'kamar', 'bersih', 'makan', 'enak', 'cocok', 'libur', 'keluarga']","['bagus', 'ramah', 'bersih', 'enak']"
+"['hotel', 'nyaman', 'bersih', 'layan', 'ramah', 'makan', 'enak', 'enak', 'hari', 'malam', 'sini', 'selalu', 'makan', 'enak', 'aneka', 'ragam']","['nyaman', 'bersih', 'ramah', 'enak', 'enak', 'enak']"
+"['tempat', 'sangat', 'nyaman', 'layan', 'baik', 'akses', 'bagai', 'lokasi', 'cukup', 'mudah']","['nyaman', 'baik']"
+"['kamar', 'keren']",['keren']
+"['makan', 'baik', 'enak', 'mbak', 'intan', 'sangat', 'baik', 'layan', 'tulus', 'hati', 'sehat', 'selalu', 'intan']","['baik', 'enak', 'baik', 'hati']"
+"['sarap', 'pagi', 'banyak', 'variasi', 'cocok', 'rasa', 'aroma', 'depan', 'kalau', 'kamar', 'sabun', 'batang', 'semua', 'familier']","['batang', 'familier']"
+"['alam', 'inap', 'hari', 'bagus', 'kamar', 'bersih', 'sarap', 'enak', 'lengkap']","['bagus', 'bersih', 'enak']"
+"['layan', 'ramah', 'kamar', 'bersih', 'makan', 'enak', 'terima', 'kasih', 'atas', 'layan', 'ramah']","['ramah', 'bersih', 'enak', 'ramah']"
+"['layan', 'bagus', 'kamar', 'nyaman']","['bagus', 'nyaman']"
+"['tadi', 'sempat', 'masalah', 'pindah', 'kamar', 'info', 'panitia', 'kurang', 'maksimal', 'rasa', 'pihak', 'hotel', 'kurang', 'maksimal']",['panitia']
+"['layan', 'bagus', 'sangat', 'ramah', 'makan', 'enak', 'banyak', 'macam', 'sangat', 'variatif']","['bagus', 'ramah', 'enak']"
+"['layan', 'ramah', 'ramah']","['ramah', 'ramah']"
+"['makan', 'kecewa', 'jempol', 'delapan', 'semua', 'utama', 'mbak', 'lena', 'sangat', 'bantu', 'terima', 'kasih']","['kecewa', 'jempol', 'delapan']"
+"['hotel', 'bersih', 'awat', 'layan', 'ramah', 'cepat', 'tanggap', 'alam', 'senang', 'tinggal', 'sini']","['bersih', 'ramah', 'senang']"
+"['rapi', 'empuk', 'sangat', 'jadi', 'rebah', 'terus', 'kamar', 'nyaman', 'wangi', 'jangan', 'kuatir', 'alat', 'mandi', 'lengkap', 'jadi', 'kawatir', 'kalau', 'jalan', 'bisnis']","['nyaman', 'wangi', 'kuatir', 'kawatir']"
+"['kamar', 'luas', 'ukur', 'besar', 'jadi', 'buat', 'sama', 'anak', 'makan', 'enak', 'moga', 'suatu', 'hari']","['enak', 'suatu']"
+"['kasih', 'atas', 'layan', 'sarap', 'luar', 'biasa', 'atas', 'layan', 'saudari', 'lena']",['saudari']
+"['hotel', 'dukung', 'masalah', 'lingkung', 'saji', 'kemas', 'botol', 'plastik', 'hotel', 'cantik', 'ornamen', 'candi', 'kamar', 'bagus', 'cukup', 'banyak', 'makan', 'biasa', 'saji', 'banyak', 'menu', 'tradisional', 'acara', 'rapat', 'enak', 'cukup', 'lengkap']","['dukung', 'lingkung', 'kemas', 'cantik', 'bagus', 'enak']"
+"['layan', 'baik', 'makan', 'enak']","['baik', 'enak']"
+"['inap', 'sangat', 'nyaman', 'bersih', 'butuh', 'usaha', 'layan', 'bagus', 'ramah']","['nyaman', 'bersih', 'usaha', 'bagus', 'ramah']"
+"['hotel', 'bersih', 'fasilitas', 'lengkap', 'layan', 'ramah', 'tambah', 'letak', 'strategis', 'jadi', 'poin', 'plus']","['bersih', 'ramah']"
+"['toilet', 'kaya', 'pernah', 'pintu', 'tutup', 'keluar']",[]
+"['kamar', 'bersih', 'nyaman', 'enak', 'tidur', 'kamar', 'mandi', 'lengkap', 'beberapa', 'bersih', 'servis', 'sangat', 'ramah', 'baik', 'lokasi', 'strategis', 'kota']","['bersih', 'nyaman', 'enak', 'bersih', 'ramah', 'baik']"
+"['makan', 'malam', 'enak', 'mantap', 'lidah', 'layan', 'ramah', 'tempat', 'strategis']","['enak', 'ramah']"
+"['layan', 'banget', 'ramah', 'makan', 'variasi', 'pokok']",['ramah']
+"['hotel', 'dekat', 'tempat', 'makan', 'lokasi', 'makan', 'mungkin', 'perlu', 'variasi']",[]
+"['sarap', 'lengkap', 'rasa', 'enak', 'layan', 'muas']",['enak']
+"['sangat', 'senang', 'punya', 'alam', 'inap', 'hotel', 'layan', 'sangat', 'cepat', 'kamar', 'bersih', 'wangi', 'sarap', 'lengkap', 'enak', 'fasilitas', 'lengkap', 'pilih', 'tepat', 'sini', 'saat', 'sedang', 'libur']","['senang', 'bersih', 'wangi', 'enak']"
+"['hotel', 'jadi', 'alam', 'senang', 'awal', 'masuk', 'layan', 'ramah', 'profesional', 'proses', 'cepat', 'kamar', 'bersih', 'nyaman', 'semua', 'fasilitas', 'fungsi', 'baik', 'tempat']","['senang', 'ramah', 'bersih', 'nyaman', 'baik']"
+"['mewah', 'bersih', 'layan', 'fasilitas', 'lengkap', 'lokasi', 'strategis']",['bersih']
+"['sarap', 'pagi', 'sangat', 'enak', 'banyak', 'menu', 'layan', 'bagus']","['enak', 'bagus']"
+"['menu', 'sarap', 'ramah']",['ramah']
+"['layan', 'sini', 'sangat', 'baik', 'kamar', 'nyaman', 'lalu', 'sarap', 'sangat', 'agam', 'main', 'banget']","['baik', 'nyaman', 'main']"
+"['betul', 'punya', 'selalu', 'kota', 'jadi', 'bersih', 'cuma', 'kaget', 'staf', 'staf', 'kurang', 'ramah', 'jauh', 'sekali', 'banding', 'medan', 'mana']","['bersih', 'ramah', 'medan']"
+"['layan', 'muas', 'pilih', 'tepat', 'mudik']",['mudik']
+"['sempat', 'sini', 'tempat', 'nyaman', 'makan', 'enak', 'enak', 'lantai']","['nyaman', 'enak', 'enak']"
+"['layan', 'sangat', 'baik', 'sesuai', 'kamar', 'sangat', 'konsep', 'romantis', 'cocok', 'buat', 'pasang', 'makan', 'enak', 'mungkin', 'perlu', 'inovasi', 'makan', 'terima', 'kasih']","['baik', 'sesuai', 'enak', 'inovasi']"
+"['menu', 'bagus', 'komplit', 'layan', 'ramah', 'bantu']","['bagus', 'ramah']"
+"['layan', 'sangat', 'baik', 'menu', 'super', 'lengkap', 'rasa', 'semua', 'kecewa', 'servis', 'layan', 'damping', 'lena', 'super', 'ramah', 'santun']","['baik', 'kecewa', 'damping', 'ramah']"
+"['sinyal', 'sangat', 'lemah', 'kalau', 'buat', 'kerja', 'kalau', 'mode', 'data', 'sinyal', 'turun', 'kurang', 'nyaman', 'hotel', 'minta', 'keluar']","['lemah', 'mode', 'turun', 'nyaman']"
+"['sarap', 'enak', 'layan', 'bagus', 'terima', 'kasih', 'mbak']","['enak', 'bagus']"
+"['terima', 'kasih', 'fitri', 'terus', 'laku', 'tingkat']",[]
+"['makan', 'enak', 'variatif', 'layan', 'ramah']","['enak', 'ramah']"
+"['hari', 'enak', 'enak', 'muas']","['enak', 'enak']"
+"['menu', 'sangat', 'variasi', 'banyak', 'banget', 'pilih', 'inap', 'sama', 'anak', 'sangat', 'antusias', 'nanti', 'anak', 'anak', 'bosan', 'sama', 'sekali', 'piring', 'kosong', 'meja', 'segera', 'bersih', 'sigap', 'mudah', 'mudah', 'suatu', 'datang', 'inap', 'sini']","['antusias', 'nanti', 'bersih', 'suatu']"
+"['sarap', 'cocok', 'banyak', 'pilih']",[]
+"['kamar', 'jendela', 'nyata', 'buka', 'gorden', 'tembok']",['gorden']
+"['layan', 'ramah', 'tanggap', 'selalu', 'bersih', 'rapi', 'banget', 'libur', 'bingung', 'inap']","['ramah', 'bersih']"
+"['lebih', 'harga', 'paling', 'murah', 'kelas', 'bintang', 'ruang', 'banyak', 'bangun', 'megah']",['megah']
+"['layan', 'hotel', 'staf', 'ramah', 'inisiatif', 'bagus', 'pilih', 'makan', 'banyak', 'kualitas', 'enak']","['ramah', 'inisiatif', 'bagus', 'enak']"
+"['harga', 'makan', 'nasi', 'kurang', 'cuma', 'beberapa', 'terus', 'abis']",[]
+"['sarap', 'enak', 'variasi', 'hari', 'makan', 'beda', 'semua', 'ramah', 'bantu', 'lena', 'terima', 'kasih']","['enak', 'ramah']"
+"['kamar', 'luas', 'nyaman', 'bersih', 'layan', 'bagus', 'luas', 'acara']","['nyaman', 'bersih', 'bagus']"
+"['alam', 'lumayan', 'baik', 'tapi', 'tapi', 'hotel', 'kelas', 'bintang', 'fasilitas', 'kamar', 'dapat', 'nyata', 'sedia', 'sayang', 'parkir', 'tamu']",['baik']
+"['layan', 'muas', 'enak', 'menu', 'terima', 'kasih', 'mbak', 'sangat', 'restoran']",['enak']
+"['hotel', 'nyaman', 'ramah', 'kamar', 'bersih', 'menu', 'sarap', 'variatif', 'enak']","['nyaman', 'ramah', 'bersih', 'enak']"
+"['makan', 'lidah', 'banyak', 'menu', 'pilih', 'jadi', 'bingung', 'makan', 'puding', 'banget', 'wajib', 'coba']",[]
+"['makan', 'baik', 'sesuai', 'cita', 'rasa']","['baik', 'sesuai']"
+"['layan', 'muas', 'kamar', 'rapi', 'pilih', 'makan', 'banyak']",[]
+"['hotel', 'milik', 'kategori', 'bilang', 'sangat', 'muas', 'lokasi', 'strategis', 'dekat', 'kota', 'layan', 'bilang', 'sangat', 'cekat', 'bagus', 'hotel', 'kelas']","['kategori', 'cekat', 'bagus']"
+"['hotel', 'siang', 'sangat', 'nyaman', 'lokasi', 'strategis', 'betul', 'anak', 'demam', 'jadi', 'periksa', 'belah', 'hotel', 'gereja', 'jalan', 'menit']","['nyaman', 'demam', 'periksa', 'gereja']"
+"['semua', 'layan', 'atas', 'nama', 'kasih', 'bagus', 'terima', 'kasih']",['bagus']
+"['ruang', 'kamar', 'keren', 'super', 'nyaman', 'layan', 'bagus', 'lokasi', 'jangkau', 'area', 'kota', 'banget']","['keren', 'nyaman', 'bagus']"
+"['benar', 'benar', 'pukau', 'hotel', 'indah', 'bersih', 'nyaman', 'sempurna', 'libur', 'maupun', 'jalan', 'bisnis']","['pukau', 'indah', 'bersih', 'nyaman', 'sempurna']"
+"['super', 'sekali', 'makan', 'lengkap', 'enak', 'semua', 'sekali', 'baik', 'kamar', 'fasilitas', 'layan', 'cepat', 'ramah', 'rasa', 'makan']","['enak', 'baik', 'ramah']"
+"['buah', 'alam', 'luar', 'biasa', 'senang', 'libur', 'nyaman', 'enak', 'sekali', 'makan']","['senang', 'nyaman', 'enak']"
+"['hotel', 'nyaman', 'lengkap', 'banyak', 'fasilitas', 'tunjang', 'buat', 'betah', 'inap', 'sini', 'kamar', 'nyaman', 'layan', 'lokasi', 'strategis', 'mana', 'pusat', 'dekat', 'sarap', 'pagi', 'komplit', 'menu', 'rasa', 'enak']","['nyaman', 'tunjang', 'nyaman', 'enak']"
+"['hotel', 'lumayan', 'pintu', 'kamar', 'mandi', 'kayu', 'beberapa', 'bagi', 'lepas', 'lampu', 'kamar', 'mandi', 'mati', 'malam', 'akhir', 'parkir', 'kurang', 'sedap', 'layan', 'sangat', 'bagus', 'bantu', 'kolam', 'renang', 'kecil', 'banget', 'jadi', 'satu']","['kayu', 'bagus']"
+"['makan', 'lengkap', 'banyak', 'menu', 'rasa', 'mantap']",[]
+"['kamar', 'banget', 'layan', 'baik', 'makan', 'enak']","['baik', 'enak']"
+"['layan', 'muas']",[]
+"['layan', 'sini', 'senang', 'makan', 'enak', 'enak', 'kamar', 'nyaman', 'penting', 'karyawan', 'terima', 'masuk']","['senang', 'enak', 'enak', 'nyaman']"
+"['makan', 'sarap', 'pilih', 'banyak']",[]
+[],[]
+"['makan', 'enak', 'layan', 'baik']","['enak', 'baik']"
+"['sarap', 'enak', 'enak', 'suka', 'bakso', 'enak', 'kaldu', 'layan', 'ramah', 'ramah', 'tadi', 'telur', 'mateng', 'matang', 'rekomendasi', 'inap', 'sini', 'kalo', 'kalian', 'libur']","['enak', 'enak', 'enak', 'kaldu', 'ramah', 'ramah']"
+"['layan', 'sangat', 'bagus', 'baik', 'kamar', 'lain', 'layan', 'ramah']","['bagus', 'baik', 'ramah']"
+"['lena', 'layan', 'baik']",['baik']
+"['sarap', 'komplit', 'enak', 'layan', 'mbak', 'lena', 'banget']",['enak']
+"['sangat', 'puas', 'alam', 'inap', 'hotel', 'semua', 'aspek', 'layan', 'hotel', 'sangat', 'baik', 'mulai', 'proses', 'cepat', 'hingga', 'ramah', 'seluruh', 'staf', 'buat', 'rasa', 'nyaman', 'lama']","['puas', 'aspek', 'baik', 'ramah', 'nyaman']"
+"['sarap', 'sini', 'puas', 'layan']",['puas']
+"['lama', 'hotel', 'alam', 'sini', 'sangat', 'buruk', 'lift', 'mati', 'nyala', 'kamar', 'rame', 'ramah', 'parah', 'pakai', 'baru', 'pung', 'tinggal']","['ramah', 'pung']"
+"['layan', 'cukup', 'muas', 'tinggi', 'malas', 'naik', 'sarap', 'lantai', 'biar']",['malas']
+"['baik', 'sangat', 'enak', 'layan', 'sangat', 'bagus', 'ramah', 'layan', 'lena', 'sangat', 'ramah', 'cantik', 'baik', 'hati', 'sangat', 'senang', 'sini', 'bakal', 'datang']","['baik', 'enak', 'bagus', 'ramah', 'ramah', 'cantik', 'baik', 'hati', 'senang']"
+"['senang', 'hotel', 'enak', 'terima', 'kasih', 'atas', 'layan', 'baik', 'lena']","['senang', 'enak', 'baik']"
+"['hotel', 'nyaman', 'banget', 'enak', 'kamar', 'ramah', 'kamar', 'mandi', 'luas', 'cukup', 'rada', 'kerak', 'kaca']","['nyaman', 'enak', 'ramah', 'kerak']"
+"['makan', 'enak', 'layan', 'baik']","['enak', 'baik']"
+"['suka', 'hotel', 'kamar', 'luas', 'bersih', 'variasi', 'enak']","['bersih', 'enak']"
+"['salah', 'satu', 'opsi', 'hotel', 'baik', 'letak', 'pinggir', 'jalan', 'lokasi', 'cukup', 'strategis', 'kamar', 'cukup', 'nyaman']","['opsi', 'baik', 'nyaman']"
+"['letak', 'strategis', 'pusat', 'kota', 'layan', 'baik', 'bersih', 'kamar', 'jaga', 'sarap', 'variasi', 'menu', 'banyak', 'masuk', 'tradisional', 'cocok']","['baik', 'bersih']"
+"['alam', 'inap', 'semua', 'makan', 'sini', 'enak', 'layan', 'sangat', 'ramah']","['enak', 'ramah']"
+"['lokasi', 'hotel', 'strategis', 'perlu', 'bisnis', 'maupun', 'layan', 'ramah', 'hotel', 'sangat', 'bantu', 'mbak', 'lena']",['ramah']
+"['fasilitas', 'luar', 'biasa', 'kamar', 'layan', 'menu', 'makan', 'pagi', 'siang', 'malam', 'jangan', 'lupa', 'sini']",[]
+"['lokasi', 'pusat', 'kota', 'sangat', 'strategis', 'baik', 'sarap', 'pilih', 'banyak', 'enak', 'semua', 'terima', 'kasih']","['baik', 'enak']"
+"['makan', 'enak', 'fasilitas', 'lengkap', 'kamar', 'cukup', 'nyaman', 'istirahat', 'cuma', 'jauh', 'stasiun', 'cocok', 'bisnis', 'rapat', 'temu']","['enak', 'nyaman', 'istirahat']"
+"['kalau', 'tiap', 'lift', 'pandu', 'tamu', 'butuh', 'info', 'terus', 'masuk', 'halaman', 'hotel', 'lokasi', 'jalan', 'tuju', 'parkir', 'sangat', 'sempit', 'tikung', 'tajam', 'rambu', 'jelas', 'kurang', 'jelas', 'lihat', 'kalau', 'rambu', 'taruh', 'lokasi', 'mudah', 'lihat', 'kemudi', 'cukup', 'besar']","['pandu', 'halaman', 'tikung', 'tajam', 'taruh', 'kemudi']"
+"['menu', 'sarap', 'sangat', 'lengkap', 'rasa', 'enak', 'datang', 'semua', 'makan', 'banyak', 'sangat', 'bantu']",['enak']
+"['tempat', 'renang', 'bagus', 'atas', 'makan', 'banyak', 'varian', 'rasa', 'enak']","['bagus', 'enak']"
+"['makan', 'enak', 'layan', 'sangat', 'baik']","['enak', 'baik']"
+"['kamar', 'bersih', 'nyaman', 'lancar', 'menu', 'banyak', 'pilih', 'terima', 'kasih', 'atas', 'layan', 'masuk', 'mungkin', 'daftar', 'menu', 'layan', 'antisipasi', 'tengah', 'lapar', 'keluar']","['bersih', 'nyaman', 'lancar', 'daftar', 'antisipasi', 'lapar']"
